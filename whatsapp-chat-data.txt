@@ -453,16 +453,16 @@ As we can see there are 3 ones and 3 zeros in the input array,So output is accor
 28/01/2020, 7:30 pm - Chirag Sharma (TSEC, CS): Because if you reverse it. Write k first and then i
 28/01/2020, 7:31 pm - Chirag Sharma (TSEC, CS): You get a totally different output
 28/01/2020, 7:31 pm - Chirag Sharma (TSEC, CS): How???
-28/01/2020, 7:39 pm - Tushar Nankani: Can you send the complete code? What is in the second printf?
+28/01/2020, 7:39 pm - Prafull singh: Can you send the complete code? What is in the second printf?
 28/01/2020, 7:41 pm - Chirag Sharma (TSEC, CS): https://youtu.be/AU7mADJMa9Y
 28/01/2020, 7:43 pm - Darshan Rander (TSEC, IT): <Media omitted>
 28/01/2020, 7:47 pm - Saket (TSEC, CS): No.Don't use any built functions.
 28/01/2020, 7:47 pm - Saket (TSEC, CS): In-built
-28/01/2020, 7:48 pm - Tushar Nankani: Because it enters the loop because of k. And i gets printed too.
-28/01/2020, 7:49 pm - Tushar Nankani: The condition of k becomes true and therefore it enters the loop. From 2 to 20 with a gap of 2. Therefore it enters 10 times and i gets printed instead from 1-10
+28/01/2020, 7:48 pm - Prafull singh: Because it enters the loop because of k. And i gets printed too.
+28/01/2020, 7:49 pm - Prafull singh: The condition of k becomes true and therefore it enters the loop. From 2 to 20 with a gap of 2. Therefore it enters 10 times and i gets printed instead from 1-10
 28/01/2020, 7:50 pm - Saket (TSEC, CS): So conclusion is
 If there are multiple conditions in a single ' for loop' then even if one statement is satisfied then loop will run for that condition.
-28/01/2020, 7:51 pm - Tushar Nankani: Yes. It's like any one of these conditions should be true. It's like using "OR". And not "AND".
+28/01/2020, 7:51 pm - Prafull singh: Yes. It's like any one of these conditions should be true. It's like using "OR". And not "AND".
 28/01/2020, 7:51 pm - Dheeraj Lalwani (TSEC, CS): But depends na
 
 Conditions ke middle me and hai ya or
@@ -663,7 +663,7 @@ y=(int)x;
 29/01/2020, 10:53 pm - +91 79770 56210: Ig because usne s.trim kiya hai but he didnt store it in s so s remains the same
 29/01/2020, 10:53 pm - Dheeraj Lalwani (TSEC, CS): What app is that?
 29/01/2020, 10:54 pm - +91 79770 56210: Instagram
-29/01/2020, 10:54 pm - Tushar Nankani: Instagram.
+29/01/2020, 10:54 pm - Prafull singh: Instagram.
 29/01/2020, 10:54 pm - Dheeraj Lalwani (TSEC, CS): 😅
 29/01/2020, 10:54 pm - Ankit (TSEC, CS): tsecmemes pg pe tha
 29/01/2020, 10:54 pm - Dheeraj Lalwani (TSEC, CS): Ok
@@ -704,7 +704,7 @@ It's way more powerful than turbo c
 29/01/2020, 11:45 pm - Tanay Kamath (TSEC, CS): I too have a habit of usi g
 29/01/2020, 11:45 pm - +91 99201 75875: Ya but the ide is still turbo c
 29/01/2020, 11:45 pm - Tanay Kamath (TSEC, CS): It was some other editor
-29/01/2020, 11:46 pm - Tushar Nankani: It was a normal text editor. And we used terminal for execution.
+29/01/2020, 11:46 pm - Prafull singh: It was a normal text editor. And we used terminal for execution.
 29/01/2020, 11:46 pm - Tanay Kamath (TSEC, CS): Oh
 29/01/2020, 11:48 pm - +91 99201 75875: Let's say this is true then you could use the same logic and instead of writing it in main(),  make a separate function which just returned a Boolean and in the if statement replace break with return false and return true if the entire loop executes 
 And in main just call the function with the user input int
@@ -718,7 +718,7 @@ And in main just call the function with the user input int
 30/01/2020, 1:57 pm - Tanay Kamath (TSEC, CS) changed this group's settings to allow only admins to edit this group's info
 30/01/2020, 6:14 pm - Darshan Rander (TSEC, IT): Aaj ka sawal??
 30/01/2020, 6:56 pm - Tanay Kamath (TSEC, CS): @918451904417  aaj aap post karo
-30/01/2020, 7:39 pm - Tushar Nankani: You deleted this message
+30/01/2020, 7:39 pm - Prafull singh: You deleted this message
 30/01/2020, 8:27 pm - Rohit Pathak (TSEC, CS): <Media omitted>
 30/01/2020, 8:27 pm - Rohit Pathak (TSEC, CS): Try this out
 30/01/2020, 8:44 pm - Dheeraj Lalwani (TSEC, CS): This is an amazing problem
@@ -1063,7 +1063,7 @@ else
 04/02/2020, 10:15 pm - +91 91680 38866: This message was deleted
 05/02/2020, 12:29 am - Dheeraj Lalwani (TSEC, CS): This message was deleted
 05/02/2020, 10:46 pm - +91 98208 31051 left
-06/02/2020, 10:03 pm - Tushar Nankani: You deleted this message
+06/02/2020, 10:03 pm - Prafull singh: You deleted this message
 06/02/2020, 8:54 pm - Chirag Sharma (TSEC, CS): <Media omitted>
 06/02/2020, 8:54 pm - Chirag Sharma (TSEC, CS): <Media omitted>
 06/02/2020, 8:55 pm - Chirag Sharma (TSEC, CS): I want this desired result but there seems to be a problem in my code. No errors i guess but can't get the desired output. Someone please help
@@ -1078,16 +1078,16 @@ else
 06/02/2020, 10:13 pm - Saket (TSEC, CS): You h'v scanned %c for age and %d for sex which is wrong
 06/02/2020, 10:14 pm - Chirag Sharma (TSEC, CS): <Media omitted>
 06/02/2020, 10:14 pm - Chirag Sharma (TSEC, CS): Age is d bro
-06/02/2020, 10:15 pm - Tushar Nankani: Exactly. So %d will come last.
+06/02/2020, 10:15 pm - Prafull singh: Exactly. So %d will come last.
 06/02/2020, 10:15 pm - Saket (TSEC, CS): <Media omitted>
-06/02/2020, 10:15 pm - Tushar Nankani: It is saved consecutively.
+06/02/2020, 10:15 pm - Prafull singh: It is saved consecutively.
 06/02/2020, 10:15 pm - Saket (TSEC, CS): Exactly
 06/02/2020, 10:16 pm - Chirag Sharma (TSEC, CS): Oh got it thanks
 06/02/2020, 10:16 pm - Saket (TSEC, CS): Cheers!
 06/02/2020, 10:16 pm - Chirag Sharma (TSEC, CS): Yeah it runs just fine
 06/02/2020, 10:16 pm - Chirag Sharma (TSEC, CS): Thanks saket
 06/02/2020, 10:17 pm - Saket (TSEC, CS): Np.
-06/02/2020, 10:51 pm - Tushar Nankani: <Media omitted>
+06/02/2020, 10:51 pm - Prafull singh: <Media omitted>
 06/02/2020, 11:34 pm - Tanay Kamath (TSEC, CS): Darshan sir had said to avoid doing that since it gives issues in some compilers
 06/02/2020, 11:38 pm - Darshan Rander (TSEC, IT): Idher c mein likhna code😂😂
 07/02/2020, 12:41 am - Pranay Thakur (TSEC, CS): https://youtu.be/aZu084TPInE
@@ -1107,7 +1107,7 @@ int main()
 	cin.get();
 }
 07/02/2020, 11:33 pm - Saket (TSEC, CS): Yes.
-08/02/2020, 1:03 am - Tushar Nankani: <Media omitted>
+08/02/2020, 1:03 am - Prafull singh: <Media omitted>
 08/02/2020, 2:18 am - Tanay Kamath (TSEC, CS): <Media omitted>
 08/02/2020, 2:18 am - Tanay Kamath (TSEC, CS): <Media omitted>
 08/02/2020, 2:19 am - Tanay Kamath (TSEC, CS): <Media omitted>
@@ -1261,9 +1261,9 @@ where 0 <= N <= 100
 09/02/2020, 9:04 pm - Vivek Iyer (TSEC, Biomed): This message was deleted
 09/02/2020, 9:04 pm - Vivek Iyer (TSEC, Biomed): <Media omitted>
 09/02/2020, 9:06 pm - Vivek Iyer (TSEC, Biomed): <Media omitted>
-09/02/2020, 9:08 pm - Tushar Nankani: You deleted this message
-09/02/2020, 9:11 pm - Tushar Nankani: void main()
-09/02/2020, 9:11 pm - Tushar Nankani: No ";" should be there^
+09/02/2020, 9:08 pm - Prafull singh: You deleted this message
+09/02/2020, 9:11 pm - Prafull singh: void main()
+09/02/2020, 9:11 pm - Prafull singh: No ";" should be there^
 09/02/2020, 9:12 pm - +91 77180 43697: Was Gonna saying the same😅
 09/02/2020, 9:13 pm - +91 78758 66747: there also an extra curly braces after clrscr
 09/02/2020, 9:13 pm - Vivek Iyer (TSEC, Biomed): Yes it's there
@@ -1682,8 +1682,8 @@ But the problem is that using `goto` is not recommended.
 17/02/2020, 10:38 pm - Dheeraj Lalwani (TSEC, CS): Thanks
 17/02/2020, 10:40 pm - Darshan Rander (TSEC, IT): Thanks bro
 18/02/2020, 12:05 am - Saket (TSEC, CS): Yeah
-18/02/2020, 6:34 pm - Tushar Nankani: <Media omitted>
-18/02/2020, 6:35 pm - Tushar Nankani: Try this one.
+18/02/2020, 6:34 pm - Prafull singh: <Media omitted>
+18/02/2020, 6:35 pm - Prafull singh: Try this one.
 18/02/2020, 6:54 pm - Ankit (TSEC, CS): #include<stdio.h>
 void main()
 {
@@ -1715,7 +1715,7 @@ makes pattern as
 https://code.dcoder.tech/files/code/5e4c15209e436e412f89d805/right-angled-triangle
 18/02/2020, 10:41 pm - Darshan Rander (TSEC, IT): My solution
 18/02/2020, 10:51 pm - +91 76208 56877 left
-18/02/2020, 11:39 pm - Tushar Nankani: #include<stdio.h>
+18/02/2020, 11:39 pm - Prafull singh: #include<stdio.h>
 #include<conio.h>
 void main()
 {
@@ -1735,16 +1735,16 @@ void main()
 	}
 	getch();
 }
-18/02/2020, 11:43 pm - Tushar Nankani: 👍🏻
-18/02/2020, 11:43 pm - Tushar Nankani: 👍🏻👍🏻
-18/02/2020, 11:44 pm - Tushar Nankani: Find a pair (n,r) in an integer array such that value of nCr is maximum
+18/02/2020, 11:43 pm - Prafull singh: 👍🏻
+18/02/2020, 11:43 pm - Prafull singh: 👍🏻👍🏻
+18/02/2020, 11:44 pm - Prafull singh: Find a pair (n,r) in an integer array such that value of nCr is maximum
 Given an array of non-negative integers arr[]. The task is to find a pair (n, r) such that value of nCr is maximum possible r < n.
 
 nCr = n! / (r! * (n – r)!)Find a pair (n,r) in an integer array such that value of nCr is maximum
 Given an array of non-negative integers arr[]. The task is to find a pair (n, r) such that value of nCr is maximum possible r < n.
 
 nCr = n! / (r! * (n – r)!)
-18/02/2020, 11:44 pm - Tushar Nankani: Try out this problem.
+18/02/2020, 11:44 pm - Prafull singh: Try out this problem.
 19/02/2020, 12:47 am - Dheeraj Lalwani (TSEC, CS): Hey guys,
 
 
@@ -2294,8 +2294,8 @@ No assingments
 21/02/2020, 12:39 am - Pratik K (TSEC CS, SE): No coding challenge today?
 21/02/2020, 12:41 am - Darshan Rander (TSEC, IT): Pehle ke 2 pending hai😂
 21/02/2020, 12:41 am - Pratik K (TSEC CS, SE): Can you resend all coding challenges?
-21/02/2020, 12:41 am - Tushar Nankani: ^
-21/02/2020, 12:41 am - Tushar Nankani: Sussutu is a world-renowned magician. And recently, he was blessed with the power to remove EXACTLY ONE element from an array.
+21/02/2020, 12:41 am - Prafull singh: ^
+21/02/2020, 12:41 am - Prafull singh: Sussutu is a world-renowned magician. And recently, he was blessed with the power to remove EXACTLY ONE element from an array.
 
 Given, an array A (index starting from 0) with N elements. Now, Sussutu CAN remove only that element which makes the sum of ALL the remaining elements exactly divisible by 7.
 
@@ -2322,7 +2322,7 @@ Print a single line containing one integer, the first array index of the smalles
 1 < N < 105
 
 0 < Ak < 109
-21/02/2020, 12:42 am - Tushar Nankani: Take a string as an input from the user.
+21/02/2020, 12:42 am - Prafull singh: Take a string as an input from the user.
 Make a new string of length 18 characters, containing random characters and the new string should also contain each and every letter of the input string(also distributed randomly).
 Example
 Input:
@@ -2365,7 +2365,7 @@ He is REALLY good!
 21/02/2020, 1:35 am - Harsh Kapadia (TSEC IT, SE): Also, don't just watch the videos.
 
 Do everything side by side and make short notes in your editor itself. They help while revising (if you've not touched the tech for a long time).
-21/02/2020, 1:44 am - Tushar Nankani: Even The Net Ninja has good web development courses. For beginners^
+21/02/2020, 1:44 am - Prafull singh: Even The Net Ninja has good web development courses. For beginners^
 21/02/2020, 2:01 am - Harsh Kapadia (TSEC IT, SE): Some good YouTube channels for dev (imo):
 Traversy Media
 FreeCodeCamp
@@ -3652,10 +3652,10 @@ https://bit.ly/37UKL2v
 24/02/2020, 10:59 pm - Dheeraj Lalwani (TSEC, CS): This message was deleted
 24/02/2020, 11:00 pm - +91 95949 08570: This message was deleted
 24/02/2020, 11:00 pm - +91 95949 08570: This message was deleted
-24/02/2020, 11:09 pm - Tushar Nankani: <Media omitted>
-24/02/2020, 11:09 pm - Tushar Nankani: <Media omitted>
-24/02/2020, 11:10 pm - Tushar Nankani: Everyone should register for this! Seems good.
-24/02/2020, 11:12 pm - Tushar Nankani: <Media omitted>
+24/02/2020, 11:09 pm - Prafull singh: <Media omitted>
+24/02/2020, 11:09 pm - Prafull singh: <Media omitted>
+24/02/2020, 11:10 pm - Prafull singh: Everyone should register for this! Seems good.
+24/02/2020, 11:12 pm - Prafull singh: <Media omitted>
 24/02/2020, 11:18 pm - Dheeraj Lalwani (TSEC, CS): Ya
 25/02/2020, 10:32 am - +91 97571 15289 joined using this group's invite link
 25/02/2020, 11:06 am - +91 82080 02653: This message was deleted
@@ -3709,7 +3709,7 @@ https://www.instagram.com/tseccodestorm/?hl=en
 25/02/2020, 1:44 pm - Harsh Kapadia (TSEC IT, SE): AC?
 25/02/2020, 1:44 pm - Harsh Kapadia (TSEC IT, SE): Okau
 25/02/2020, 1:44 pm - Harsh Kapadia (TSEC IT, SE): Okay*
-25/02/2020, 3:59 pm - Tushar Nankani: Thank you!
+25/02/2020, 3:59 pm - Prafull singh: Thank you!
 25/02/2020, 5:36 pm - Tanay Kamath (TSEC, CS): This has been postponed for F.Es bcoz of the PTs
 25/02/2020, 5:36 pm - Tanay Kamath (TSEC, CS): I asked a codestorm senior
 25/02/2020, 5:36 pm - Tanay Kamath (TSEC, CS): Its mostly on 3rd/4th march
@@ -3750,8 +3750,8 @@ Missed it though
 25/02/2020, 11:50 pm - Harsh Kapadia (TSEC IT, SE): Organiser here lol
 25/02/2020, 11:51 pm - Darshan Rander (TSEC, IT): Ok matlab mein he nhi tha😂
 26/02/2020, 11:41 am - Trushant Narwani (TSEC, CS) joined using this group's invite link
-26/02/2020, 12:18 pm - Tushar Nankani: Solution to this problem↓
-26/02/2020, 12:18 pm - Tushar Nankani: #include<stdio.h>
+26/02/2020, 12:18 pm - Prafull singh: Solution to this problem↓
+26/02/2020, 12:18 pm - Prafull singh: #include<stdio.h>
 void main()
 {
 int a[50],n,r,s,i,temp,c,diff,ncr,t1=1,t2=1,t3=1;
@@ -3833,7 +3833,7 @@ printf("\n The maximum possible value of nCr is %4d ",ncr);
 27/02/2020, 1:14 pm - Darshan Rander (TSEC, IT): 🔥🔥
 27/02/2020, 2:03 pm - +91 98206 01141: What's the last day to fill this form
 27/02/2020, 2:11 pm - Farhan Irani (TSEC IT, SE): Fill it as soon as possible, the earlier the better
-27/02/2020, 3:12 pm - Tushar Nankani: What are the timings?
+27/02/2020, 3:12 pm - Prafull singh: What are the timings?
 27/02/2020, 3:12 pm - Pratik K (TSEC CS, SE): Not decided yet
 27/02/2020, 3:15 pm - Dheeraj Lalwani (TSEC, CS): On 21st na Oscillations ka fest hai
 27/02/2020, 3:15 pm - Dheeraj Lalwani (TSEC, CS): Please can y'all shift to some other date?
@@ -3878,7 +3878,7 @@ Aage bohot kuch hai
 27/02/2020, 7:31 pm - +91 98206 01141: Ha wo theek h.. 
 But phy bhi sem jitna mat padhio.. Aage wave eqns ya kuuch karna ho to kaam aata h
 27/02/2020, 7:31 pm - Dheeraj Lalwani (TSEC, CS): Nice
-27/02/2020, 7:31 pm - Tushar Nankani: Will be participating. 🙋🏻‍♂ If someone wants to collaborate, PM me.
+27/02/2020, 7:31 pm - Prafull singh: Will be participating. 🙋🏻‍♂ If someone wants to collaborate, PM me.
 27/02/2020, 7:31 pm - +91 98206 01141: Nahi to teko 4 saal baad 11th 12th ka padhna padega🤣
 27/02/2020, 7:31 pm - Tanay Kamath (TSEC, CS): Really😅
 27/02/2020, 7:31 pm - +91 98206 01141: Yes
@@ -3914,7 +3914,7 @@ Lets drop it
 27/02/2020, 8:05 pm - Darshan Rander (TSEC, IT): Never ig
 27/02/2020, 8:09 pm - Saurav Upoor (TSEC CS, SE): ohh
 27/02/2020, 8:09 pm - Tanay Kamath (TSEC, CS): Who all participating in code kaze?
-27/02/2020, 8:10 pm - Tushar Nankani: 🙋🏻‍♂
+27/02/2020, 8:10 pm - Prafull singh: 🙋🏻‍♂
 27/02/2020, 8:10 pm - Dheeraj Lalwani (TSEC, CS): yeah
 We got no one with who we can discuss
 27/02/2020, 8:12 pm - +91 95949 08570: So the angle can only be -180,180,-90,90
@@ -4074,7 +4074,7 @@ Dhirutonics
 kaiyu2000
 SirusCodes
 varunmamtora
-28/02/2020, 7:39 pm - Tushar Nankani: Append your Codeforces handle for Sunday's mashup (4 - 6 pm) :
+28/02/2020, 7:39 pm - Prafull singh: Append your Codeforces handle for Sunday's mashup (4 - 6 pm) :
 Dhirutonics
 kaiyu2000
 SirusCodes
@@ -4098,7 +4098,7 @@ Ed
 Chem phy
 Maths
 28/02/2020, 7:41 pm - +91 98206 01141: Pc pe aa
-28/02/2020, 7:42 pm - Tushar Nankani: 🙋🏻‍♂
+28/02/2020, 7:42 pm - Prafull singh: 🙋🏻‍♂
 28/02/2020, 7:43 pm - Tanay Kamath (TSEC, CS): Append your Codeforces handle for Sunday's mashup (4 - 6 pm) :
 Dhirutonics
 kaiyu2000
@@ -4399,7 +4399,7 @@ kunaldesai1212
 29/02/2020, 10:03 pm - Kartik Soneji (TSEC, CS): Me.
 29/02/2020, 10:03 pm - Farhan Irani (TSEC IT, SE): Anyone wants to give
 29/02/2020, 10:03 pm - Darshan Rander (TSEC, IT): Kuch nahi samjh raha hai😅😅😢
-29/02/2020, 10:09 pm - Tushar Nankani: ☝🏻
+29/02/2020, 10:09 pm - Prafull singh: ☝🏻
 29/02/2020, 10:24 pm - Darshan Rander (TSEC, IT): Kisi ne ek bhi solve kiya??
 29/02/2020, 10:42 pm - Pratik K (TSEC CS, SE): Share the questions please if you can
 29/02/2020, 10:42 pm - Darshan Rander (TSEC, IT): Bejhta hu
@@ -4773,13 +4773,13 @@ What are the timings for tomorrow's codestrom event ?
 02/03/2020, 10:28 pm - Saurav Upoor (TSEC CS, SE): <Media omitted>
 02/03/2020, 10:29 pm - Pratik K (TSEC CS, SE): Register
 02/03/2020, 10:29 pm - Darshan Rander (TSEC, IT): Link bejh na
-02/03/2020, 10:31 pm - Tushar Nankani: https://codeforces.com/contests
+02/03/2020, 10:31 pm - Prafull singh: https://codeforces.com/contests
 02/03/2020, 10:38 pm - Darshan Rander (TSEC, IT): Done👍👍
 02/03/2020, 10:43 pm - Dheeraj Lalwani (TSEC, CS): 1st one or 2nd?
 02/03/2020, 10:57 pm - Pratik K (TSEC CS, SE): 1st
 02/03/2020, 11:01 pm - Tanay Kamath (TSEC, CS): Mai dono mai daal diya😅
 02/03/2020, 11:03 pm - +91 98206 01141: When is it
-02/03/2020, 11:03 pm - Tushar Nankani: Tomorrow. 8:05 pm.
+02/03/2020, 11:03 pm - Prafull singh: Tomorrow. 8:05 pm.
 03/03/2020, 12:04 am - +91 98206 01141: Okay
 03/03/2020, 5:36 pm - Tanay Kamath (TSEC, CS): Any update
 03/03/2020, 5:36 pm - Tanay Kamath (TSEC, CS): s?
@@ -4800,8 +4800,8 @@ What are the timings for tomorrow's codestrom event ?
 03/03/2020, 10:01 pm - Darshan Rander (TSEC, IT): Basically bruteforce he kar raha tha mein
 03/03/2020, 10:14 pm - Saurav Upoor (TSEC CS, SE): 3rd vale me pretty obvious thanahi ki bruteforce tle dega... n = 10^5
 n² = 10^10 comp hoga jo 1sec se zyada lega
-03/03/2020, 10:21 pm - Tushar Nankani: You deleted this message
-03/03/2020, 10:22 pm - Tushar Nankani: #include<math.h>
+03/03/2020, 10:21 pm - Prafull singh: You deleted this message
+03/03/2020, 10:22 pm - Prafull singh: #include<math.h>
 #include<stdio.h>
 int main()
 {
@@ -4831,12 +4831,12 @@ int main()
      return 0;
 }
 03/03/2020, 10:23 pm - +91 96536 93868: this logic gives TLE na....
-03/03/2020, 10:23 pm - Tushar Nankani: Exactly.
+03/03/2020, 10:23 pm - Prafull singh: Exactly.
 03/03/2020, 10:24 pm - +91 96536 93868: how should we approach it then ...
-03/03/2020, 10:24 pm - Tushar Nankani: Time Limit exceeded in pretest 6.
-03/03/2020, 10:24 pm - Tushar Nankani: What was your approach?
+03/03/2020, 10:24 pm - Prafull singh: Time Limit exceeded in pretest 6.
+03/03/2020, 10:24 pm - Prafull singh: What was your approach?
 03/03/2020, 10:25 pm - Saurav Upoor (TSEC CS, SE): i didnt do 3rd
-03/03/2020, 10:26 pm - Tushar Nankani: Anyone else who got the third one?
+03/03/2020, 10:26 pm - Prafull singh: Anyone else who got the third one?
 03/03/2020, 10:30 pm - Saurav Upoor (TSEC CS, SE): If a[i] % m = a[j] % m for some i < j, then answer is 0. Otherwise there are <= m numbers, so you can calculate answer in O(N^2).
 CF blog
 03/03/2020, 10:45 pm - Darshan Rander (TSEC, IT): This message was deleted
@@ -4870,13 +4870,13 @@ https://www.topcoder.com/2020-humblefool-cup/
 04/03/2020, 7:04 pm - Saurav Upoor (TSEC CS, SE): Do read about humblefool and history of this contest
 04/03/2020, 7:12 pm - Darshan Rander (TSEC, IT): 👍
 04/03/2020, 8:03 pm - Saurav Upoor (TSEC CS, SE): Code craft div 2 rd starts in a min on Codeforces.com
-05/03/2020, 12:15 am - Tushar Nankani: <Media omitted>
+05/03/2020, 12:15 am - Prafull singh: <Media omitted>
 05/03/2020, 12:19 am - Darshan Rander (TSEC, IT): https://www.geeksforgeeks.org/fast-io-for-competitive-programming/
 05/03/2020, 12:19 am - Pratik K (TSEC CS, SE): cin.tie(NULL);
 05/03/2020, 12:19 am - Pratik K (TSEC CS, SE): ios::sync_with_stdio(false);
 05/03/2020, 12:20 am - Pratik K (TSEC CS, SE): Include it in the code
-05/03/2020, 12:50 am - Tushar Nankani: Ohh. Okay.
-05/03/2020, 12:51 am - Tushar Nankani: Thank you!
+05/03/2020, 12:50 am - Prafull singh: Ohh. Okay.
+05/03/2020, 12:51 am - Prafull singh: Thank you!
 05/03/2020, 12:55 am - Kartik Soneji (TSEC, CS): This message was deleted
 05/03/2020, 12:56 am - Kartik Soneji (TSEC, CS): For java:
 ```import java.io.*;
@@ -5108,7 +5108,7 @@ phoenix _99
 SirusCodes
 noob786
 harshmody
-07/03/2020, 9:42 pm - Tushar Nankani: Maybe, try saving it as a .C file.
+07/03/2020, 9:42 pm - Prafull singh: Maybe, try saving it as a .C file.
 07/03/2020, 9:59 pm - +91 91363 39446: Append your Codeforces handle for tomorrow's mashup (4 pm-6 pm) :
 kaiyu2000
 noobie_912
@@ -5121,8 +5121,8 @@ SirusCodes
 noob786
 harshmody
 par123th
-07/03/2020, 10:00 pm - Tushar Nankani: <Media omitted>
-07/03/2020, 10:00 pm - Tushar Nankani: https://docs.google.com/forms/d/e/1FAIpQLSd4CfJxydDDZGSzlTPVeiWQDM6XInm3gZZaDk9oc9y--1dxeA/viewform
+07/03/2020, 10:00 pm - Prafull singh: <Media omitted>
+07/03/2020, 10:00 pm - Prafull singh: https://docs.google.com/forms/d/e/1FAIpQLSd4CfJxydDDZGSzlTPVeiWQDM6XInm3gZZaDk9oc9y--1dxeA/viewform
 07/03/2020, 10:18 pm - +91 96536 93868: Append your Codeforces handle for tomorrow's mashup (4 pm-6 pm) :
 kaiyu2000
 noobie_912
@@ -5158,7 +5158,7 @@ arrayboy
 07/03/2020, 11:26 pm - Darshan Rander (TSEC, IT): There are multiple issues
 07/03/2020, 11:26 pm - Darshan Rander (TSEC, IT): Scanf mein & nhi ayega char ke liye
 07/03/2020, 11:26 pm - Darshan Rander (TSEC, IT): N %c ki jagha %s use kar
-07/03/2020, 11:55 pm - Tushar Nankani: Append your Codeforces handle for tomorrow's mashup (4 pm-6 pm) :
+07/03/2020, 11:55 pm - Prafull singh: Append your Codeforces handle for tomorrow's mashup (4 pm-6 pm) :
 kaiyu2000
 noobie_912
 Dhirutonics
@@ -5322,8 +5322,8 @@ int main()
 
 https://codeforces.com/blog/entry/59281
 08/03/2020, 6:33 pm - Tanay Kamath (TSEC, CS): Ty
-08/03/2020, 8:44 pm - Tushar Nankani: <Media omitted>
-08/03/2020, 8:44 pm - Tushar Nankani: Try this out.↑
+08/03/2020, 8:44 pm - Prafull singh: <Media omitted>
+08/03/2020, 8:44 pm - Prafull singh: Try this out.↑
 08/03/2020, 9:05 pm - Tanay Kamath (TSEC, CS): I had a question,what is stored inside an array variable?
 08/03/2020, 9:06 pm - Tanay Kamath (TSEC, CS): Like for eg. 
 int ar[5];
@@ -5351,7 +5351,7 @@ int ar[5];
 08/03/2020, 11:23 pm - Rohit Pathak (TSEC, CS): Can you plzz send the java soln for the 2nd one
 08/03/2020, 11:32 pm - +91 95949 08570: Can someone pls send today's contests questions
 08/03/2020, 11:32 pm - Dheeraj Lalwani (TSEC, CS): Yes please
-08/03/2020, 11:33 pm - Tushar Nankani: ^
+08/03/2020, 11:33 pm - Prafull singh: ^
 08/03/2020, 11:36 pm - Pratik K (TSEC CS, SE): Most of the cp websites have solutions in C++ only
 08/03/2020, 11:37 pm - Pratik K (TSEC CS, SE): Solution in java might not be available
 08/03/2020, 11:37 pm - Dheeraj Lalwani (TSEC, CS): But, anyways
@@ -5359,7 +5359,7 @@ int ar[5];
 08/03/2020, 11:37 pm - Pratik K (TSEC CS, SE): Yes
 08/03/2020, 11:41 pm - Tanay Kamath (TSEC, CS): No it stores the starting memory address of the array variables
 08/03/2020, 11:42 pm - Tanay Kamath (TSEC, CS): See here
-09/03/2020, 12:45 am - Tushar Nankani: #include <stdio.h>
+09/03/2020, 12:45 am - Prafull singh: #include <stdio.h>
 
 int main()
 {
@@ -5411,7 +5411,7 @@ int main()
 	}
 	return 0;
 }
-09/03/2020, 12:46 am - Tushar Nankani: If someone comes up with a shorter solution. Do share it!
+09/03/2020, 12:46 am - Prafull singh: If someone comes up with a shorter solution. Do share it!
 09/03/2020, 12:22 pm - Saurav Upoor (TSEC CS, SE): https://codeforces.com/contests/1312
 Contest starts at 8.05pm today
 09/03/2020, 6:34 pm - +91 75078 05454: This message was deleted
@@ -5536,7 +5536,7 @@ If possible to change the time ?
 Workshop is much more important
 12/03/2020, 2:48 pm - Dheeraj Lalwani (TSEC, CS): I don't know 
 Let's see
-12/03/2020, 6:32 pm - Tushar Nankani: *Reminder* This starts in some time.
+12/03/2020, 6:32 pm - Prafull singh: *Reminder* This starts in some time.
 12/03/2020, 8:04 pm - Dheeraj Lalwani (TSEC, CS) changed the group description
 12/03/2020, 8:32 pm - Tanay Kamath (TSEC, CS): <Media omitted>
 12/03/2020, 8:33 pm - Tanay Kamath (TSEC, CS): I mean somewhere a garbage value is arising
@@ -6020,7 +6020,7 @@ The time elapsed or penalty is not considered for any unsolved problem.Good luck
 Here is the link for today's contest  (7.30 pm to 9.30 pm):
 
 https://codeforces.com/contests/272279
-15/03/2020, 7:31 pm - Tushar Nankani: ^
+15/03/2020, 7:31 pm - Prafull singh: ^
 15/03/2020, 7:31 pm - +91 95949 08570: Ty
 15/03/2020, 8:15 pm - Darshan Rander (TSEC, IT): aaj kafi hard nahi hai??
 15/03/2020, 8:16 pm - Vivek (TSEC, CS): Can someone send all questions of today's mashup on the group?
@@ -6470,7 +6470,7 @@ I mean what is the eligibility criteria
 19/03/2020, 6:38 pm - Darshan Rander (TSEC, IT): Idk hoga ya nhi but let's try😅😅
 19/03/2020, 6:38 pm - +91 99693 94098: Hmm
 19/03/2020, 6:39 pm - +91 99693 94098: Btw can you share your GitHub?
-19/03/2020, 7:53 pm - Tushar Nankani: https://summerofcode.withgoogle.com/
+19/03/2020, 7:53 pm - Prafull singh: https://summerofcode.withgoogle.com/
 19/03/2020, 8:32 pm - +91 73043 57388: Thanks
 20/03/2020, 2:36 pm - Darshan Rander (TSEC, IT): https://m.timesofindia.com/home/education/news/stronger-foundation-for-a-substantial-career-engineering-with-mumbai-university/amp_articleshow/74703888.cms
 20/03/2020, 7:05 pm - Tanay Kamath (TSEC, CS): I had this question:
@@ -6652,7 +6652,7 @@ noobie_912
 rishabmsaini
 andmandkatola
 Dhirutonics
-20/03/2020, 10:40 pm - Tushar Nankani: Append your CodeForces handle for tomorrow's mashup(3 pm-5 pm):
+20/03/2020, 10:40 pm - Prafull singh: Append your CodeForces handle for tomorrow's mashup(3 pm-5 pm):
 kaiyu2000
 SirusCodes
 chinmay_19
@@ -7335,11 +7335,11 @@ Missed by a min
 21/03/2020, 4:34 pm - Pratik K (TSEC CS, SE): lol
 21/03/2020, 4:35 pm - Darshan Rander (TSEC, IT): painnnnnnn
 21/03/2020, 4:36 pm - Darshan Rander (TSEC, IT): ＞﹏＜
-21/03/2020, 4:59 pm - Tushar Nankani: 🤯
+21/03/2020, 4:59 pm - Prafull singh: 🤯
 21/03/2020, 4:59 pm - Darshan Rander (TSEC, IT): 😂 sabka yehi halat hota hai after every mashup
 21/03/2020, 5:00 pm - Tanay Kamath (TSEC, CS): 😭
 21/03/2020, 5:00 pm - Dheeraj Lalwani (TSEC, CS): Someone send the question
-21/03/2020, 5:00 pm - Tushar Nankani: You deleted this message
+21/03/2020, 5:00 pm - Prafull singh: You deleted this message
 21/03/2020, 5:01 pm - Dheeraj Lalwani (TSEC, CS): I used to
 21/03/2020, 5:01 pm - Tanay Kamath (TSEC, CS): <Media omitted>
 21/03/2020, 5:01 pm - Tanay Kamath (TSEC, CS): I dunno why this is coming
@@ -7348,7 +7348,7 @@ Missed by a min
 21/03/2020, 5:01 pm - Tanay Kamath (TSEC, CS): <Media omitted>
 21/03/2020, 5:01 pm - Darshan Rander (TSEC, IT): Bhai 1st wala c mein try karta
 21/03/2020, 5:01 pm - Tanay Kamath (TSEC, CS): Here
-21/03/2020, 5:01 pm - Tushar Nankani: Anyone who writes the code in python?
+21/03/2020, 5:01 pm - Prafull singh: Anyone who writes the code in python?
 21/03/2020, 5:01 pm - Tanay Kamath (TSEC, CS): Java code
 21/03/2020, 5:02 pm - Tanay Kamath (TSEC, CS): C mai bhi kiya
 21/03/2020, 5:02 pm - Tanay Kamath (TSEC, CS): End mai
@@ -7356,7 +7356,7 @@ Missed by a min
 21/03/2020, 5:02 pm - Dheeraj Lalwani (TSEC, CS): Used to
 21/03/2020, 5:02 pm - Tanay Kamath (TSEC, CS): Dunno why
 21/03/2020, 5:02 pm - Rohit Pathak (TSEC, CS): So many TLE😫
-21/03/2020, 5:02 pm - Tushar Nankani: Instead of addtion subtraction. Use *multiplication.*
+21/03/2020, 5:02 pm - Prafull singh: Instead of addtion subtraction. Use *multiplication.*
 21/03/2020, 5:02 pm - Kartik Soneji (TSEC, CS): If you click on the number next to your submission, you will be able to see the error message.
 21/03/2020, 5:03 pm - +91 82916 21138: How is penalty calculated ?
 21/03/2020, 5:03 pm - +91 82916 21138: Is there penalty for no of submission cause idk this is my first time for mashups
@@ -7386,7 +7386,7 @@ https://codeforces.com/blog/entry/63274
 21/03/2020, 5:10 pm - Darshan Rander (TSEC, IT): Billi nhi aya?
 21/03/2020, 5:11 pm - Darshan Rander (TSEC, IT): Mein 1st pe usse dhund raha tha😂
 21/03/2020, 5:11 pm - +91 95949 08570: Nope she was sleeping 😂
-21/03/2020, 5:15 pm - Tushar Nankani: Thanks. 🙌🏻
+21/03/2020, 5:15 pm - Prafull singh: Thanks. 🙌🏻
 21/03/2020, 8:10 pm - Dheeraj Lalwani (TSEC, CS) added +91 88889 97733
 21/03/2020, 7:32 pm - Saurav Upoor (TSEC CS, SE): https://youtu.be/JSqznrzWGvc
 21/03/2020, 7:33 pm - Saurav Upoor (TSEC CS, SE): Todays problem D could've been solved using pqueue
@@ -7448,7 +7448,7 @@ String s="Hello";
 23/03/2020, 12:55 pm - Tanay Kamath (TSEC, CS): Will this be created only in string pool or string pool as well as heap
 23/03/2020, 12:55 pm - Tanay Kamath (TSEC, CS): ?
 23/03/2020, 7:34 pm - Pratik K (TSEC CS, SE): Contest starts in 30 mins
-23/03/2020, 7:52 pm - Tushar Nankani: https://codeforces.com/contests/1327
+23/03/2020, 7:52 pm - Prafull singh: https://codeforces.com/contests/1327
 23/03/2020, 8:40 pm - +91 88284 70904: This message was deleted
 23/03/2020, 10:20 pm - Tanay Kamath (TSEC, CS): Steve has a string of lowercase characters in range ascii[‘a’..’z’]. He wants to reduce the string to its shortest length by doing a series of operations. In each operation he selects a pair of adjacent lowercase letters that match, and he deletes them. For instance, the string aab could be shortened to b in one operation.
 
@@ -7548,13 +7548,13 @@ int main()
 24/03/2020, 1:59 pm - Saurav Upoor (TSEC CS, SE): Should we keep a themed mashup?
 24/03/2020, 2:00 pm - Dheeraj Lalwani (TSEC, CS): Elaborate
 24/03/2020, 2:00 pm - Saurav Upoor (TSEC CS, SE): Questions from a particular tag. Like say number theory or data structure or string manipulation...
-24/03/2020, 2:33 pm - Tushar Nankani: Yes! I think we should do that.
+24/03/2020, 2:33 pm - Prafull singh: Yes! I think we should do that.
 24/03/2020, 2:34 pm - Dheeraj Lalwani (TSEC, CS): https://forms.gle/HWzx74CXCyYvCypd7
 
 Request to fill the survey form and circulate among your students also, for my research work. The questionnaire is for all those who have undergone any e-learning course(s).
-24/03/2020, 2:34 pm - Tushar Nankani: We can create a poll on which theme to select.
-24/03/2020, 2:34 pm - Tushar Nankani: You deleted this message
-24/03/2020, 2:36 pm - Tushar Nankani: A poll like this. @918408867834
+24/03/2020, 2:34 pm - Prafull singh: We can create a poll on which theme to select.
+24/03/2020, 2:34 pm - Prafull singh: You deleted this message
+24/03/2020, 2:36 pm - Prafull singh: A poll like this. @918408867834
 24/03/2020, 2:36 pm - Dheeraj Lalwani (TSEC, CS): Yass
 24/03/2020, 2:52 pm - Kartik Soneji (TSEC, CS): Tell me the topics you are interested in and I will make a poll.
 24/03/2020, 2:52 pm - Darshan Rander (TSEC, IT): String manipulation
@@ -7883,23 +7883,23 @@ All services are having to add millions of users every damn day...
 25/03/2020, 12:56 pm - Darshan Rander (TSEC, IT): 😂😂
 25/03/2020, 12:58 pm - Harsh Kapadia (TSEC IT, SE): Omg
 25/03/2020, 1:04 pm - +91 70394 60876: Oof
-25/03/2020, 2:25 pm - Tushar Nankani: <Media omitted>
+25/03/2020, 2:25 pm - Prafull singh: <Media omitted>
 25/03/2020, 3:58 pm - Darshan Rander (TSEC, IT): I got 7
-25/03/2020, 4:04 pm - Tushar Nankani: Even I found 7.
-25/03/2020, 4:08 pm - Tushar Nankani: 1. stdc++
+25/03/2020, 4:04 pm - Prafull singh: Even I found 7.
+25/03/2020, 4:08 pm - Prafull singh: 1. stdc++
 2. c=a+b;
 3. int a,b,p;
 4. Rewriting the value of the constant n
 5.  j++ instead of j--
 6. Extra curly braces after the other loop. 
 7. "%d", p
-25/03/2020, 4:10 pm - Tushar Nankani: And also declaration of function can't take string argument (x,"y+5")
+25/03/2020, 4:10 pm - Prafull singh: And also declaration of function can't take string argument (x,"y+5")
 25/03/2020, 4:42 pm - Saurav Upoor (TSEC CS, SE): And returning x, y
 25/03/2020, 8:11 pm - Saket (TSEC, CS): 8) int x,y after this there is semicolon
 25/03/2020, 8:46 pm - Kartik Soneji (TSEC, CS): while loop is ```while(#)```.
 25/03/2020, 11:07 pm - Tanay Kamath (TSEC, CS): https://l.instagram.com/?u=https%3A%2F%2Fpractice.geeksforgeeks.org%2Fcontest%2Fspecial-21-day-1-mathematics&e=ATPzU0u4XHM57SHYodi3v1BCWyQD5YxkAD8smqmLRMr6-RhIwqPAG74PuQQul0WzAICqomdn&s=1
 25/03/2020, 11:07 pm - Tanay Kamath (TSEC, CS): If any1 is able to access these question then plz do share
-25/03/2020, 11:12 pm - Tushar Nankani: https://practice.geeksforgeeks.org/contest/special-21-day-1-mathematics
+25/03/2020, 11:12 pm - Prafull singh: https://practice.geeksforgeeks.org/contest/special-21-day-1-mathematics
 25/03/2020, 11:12 pm - Tanay Kamath (TSEC, CS): I did refresh,it took me to the problems section but problems khul nhi the
 25/03/2020, 11:13 pm - Tanay Kamath (TSEC, CS): If you are able to access then do send🙏
 26/03/2020, 12:16 am - Darshan Rander (TSEC, IT): <Media omitted>
@@ -7954,7 +7954,7 @@ But gives a Wrong answer
 26/03/2020, 1:19 pm - Dheeraj Lalwani (TSEC, CS): https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/0000000000088231
 26/03/2020, 1:19 pm - Dheeraj Lalwani (TSEC, CS): Please check my soln
 26/03/2020, 1:19 pm - Dheeraj Lalwani (TSEC, CS): <Media omitted>
-26/03/2020, 6:01 pm - Tushar Nankani: https://codeforces.com/contests 
+26/03/2020, 6:01 pm - Prafull singh: https://codeforces.com/contests 
 
 Reminder: 
 Codeforces Round #629 (Div. 3)
@@ -8006,7 +8006,7 @@ Follow us on Instagram!!!
 27/03/2020, 8:54 pm - Tanay Kamath (TSEC, CS): Virtual classes starting soon
 27/03/2020, 8:54 pm - Saket (TSEC, CS): This message was deleted
 27/03/2020, 8:58 pm - Darshan Rander (TSEC, IT): Password required kuch jyada nhi hai?
-27/03/2020, 8:59 pm - Tushar Nankani: Bahut zyaada hai 🤯
+27/03/2020, 8:59 pm - Prafull singh: Bahut zyaada hai 🤯
 27/03/2020, 8:59 pm - Ankit (TSEC, CS): kuch bhi daalde 5 criteria milna chaiye
 27/03/2020, 10:09 pm - +91 84335 18102: I just don't want kajli's lecs
 27/03/2020, 10:09 pm - Tanay Kamath (TSEC, CS): I just don't want any of the lectures
@@ -8038,12 +8038,12 @@ CodeChef Lunchtime :
 28/03/2020, 5:03 pm - Pratik K (TSEC CS, SE): https://atcoder.jp/contests/abc160
 28/03/2020, 5:23 pm - Saurav Upoor (TSEC CS, SE): https://youtu.be/xAeiXy8-9Y8
 28/03/2020, 7:28 pm - Saurav Upoor (TSEC CS, SE): https://www.codechef.com/LTIME82B
-28/03/2020, 7:37 pm - Tushar Nankani: Is anyone facing problem with the codechef website??
+28/03/2020, 7:37 pm - Prafull singh: Is anyone facing problem with the codechef website??
 28/03/2020, 7:39 pm - Pratik K (TSEC CS, SE): yeah
 28/03/2020, 7:40 pm - Pratik K (TSEC CS, SE): internal server erroe
 28/03/2020, 7:40 pm - Pratik K (TSEC CS, SE): erroe
 28/03/2020, 7:40 pm - Pratik K (TSEC CS, SE): error
-28/03/2020, 9:55 pm - Tushar Nankani: <Media omitted>
+28/03/2020, 9:55 pm - Prafull singh: <Media omitted>
 28/03/2020, 10:39 pm - Rishab Saini (TSEC CS, TE): Yeah beechme all submissions were counted as practice
 28/03/2020, 11:06 pm - Saurav Upoor (TSEC CS, SE): https://strawpoll.com/2gyb546f
 28/03/2020, 11:06 pm - Darshan Rander (TSEC, IT): This message was deleted
@@ -8327,7 +8327,7 @@ noob193
 29/03/2020, 5:03 pm - Darshan Rander (TSEC, IT): last mein i gave up
 29/03/2020, 5:03 pm - Saurav Upoor (TSEC CS, SE): acha
 29/03/2020, 5:24 pm - Tanay Kamath (TSEC, CS): Send today's link
-29/03/2020, 5:44 pm - Tushar Nankani: https://codeforces.com/topic/71714/en1
+29/03/2020, 5:44 pm - Prafull singh: https://codeforces.com/topic/71714/en1
 29/03/2020, 5:45 pm - Tanay Kamath (TSEC, CS): Ty
 29/03/2020, 5:45 pm - Farhan Irani (TSEC IT, SE): Many boundary cases
 30/03/2020, 12:05 am - Farhan Irani (TSEC IT, SE): https://youtu.be/cpguolx2oms
@@ -8532,15 +8532,15 @@ So I will be organising a workshop on ML:
 Lets make the most of the time, that we have in abundance due to lockdown, to discover and gain a basic idea as to what ML is!
 *Those interested please fill out the form:*  https://docs.google.com/forms/d/e/1FAIpQLSfRAs17JL2S7Ynm5LdHXLEmkzZ2mIONcXPgGSaKdwKJNDXjBA/viewform?usp=sf_link
 31/03/2020, 12:06 pm - Saurav Upoor (TSEC CS, SE): <Media omitted>
-31/03/2020, 2:25 pm - Tushar Nankani: <Media omitted>
-31/03/2020, 3:36 pm - Tushar Nankani: This ML Workshop would be directed in a way to introduce all interested to the world of ML (it is kinda impossible to teach everything in a workshop, but its a good idea to get started on it.)
-31/03/2020, 3:37 pm - Tushar Nankani: The workshop would consist of the following topics:
+31/03/2020, 2:25 pm - Prafull singh: <Media omitted>
+31/03/2020, 3:36 pm - Prafull singh: This ML Workshop would be directed in a way to introduce all interested to the world of ML (it is kinda impossible to teach everything in a workshop, but its a good idea to get started on it.)
+31/03/2020, 3:37 pm - Prafull singh: The workshop would consist of the following topics:
 Numpy and Pandas
 Data Preprocessing(using Numpy and Pandas)
 Supervised Learning
 Unsupervised Learning
 Deep Learning and Transfer Learning
-31/03/2020, 3:39 pm - Tushar Nankani: The above three are branches of ML. A proper introduction would be given, along with one or two models in it for understanding. Though there will be a prerequisite of python, but he'll be going through the basics at the start.
+31/03/2020, 3:39 pm - Prafull singh: The above three are branches of ML. A proper introduction would be given, along with one or two models in it for understanding. Though there will be a prerequisite of python, but he'll be going through the basics at the start.
 He will try to explain a few projects, share the code for us to understand.
 31/03/2020, 6:34 pm - Dheeraj Lalwani (TSEC, CS): https://www.youtube.com/watch?v=M2ILzpLA7uM&feature=youtu.be
 31/03/2020, 6:34 pm - Dheeraj Lalwani (TSEC, CS): Join for Java script
@@ -8736,7 +8736,7 @@ The second statement allows you to hide the actual list implementation.
 05/04/2020, 12:23 am - Kartik Soneji (TSEC, CS): ```public interface List<E> extends Collection<E>```
 05/04/2020, 12:24 am - Kartik Soneji (TSEC, CS): (From the source code)
 05/04/2020, 12:24 am - Kartik Soneji (TSEC, CS): But did you understand the difference?
-05/04/2020, 12:27 am - Tushar Nankani: 🙌🏻
+05/04/2020, 12:27 am - Prafull singh: 🙌🏻
 05/04/2020, 12:27 am - Tanay Kamath (TSEC, CS): I am learning Java from Apni kaksha(Aman Dhattarwal's channel)
 05/04/2020, 12:28 am - Tanay Kamath (TSEC, CS): 🤔 why is there a generic at the end
 05/04/2020, 12:28 am - Kartik Soneji (TSEC, CS): Because Collection is also generic.
@@ -8876,7 +8876,7 @@ noob193
 05/04/2020, 12:37 pm - Pratik K (TSEC CS, SE): Here is the link to today's Mashup. Register before 3 pm:
 
 https://codeforces.com/contests/275076
-05/04/2020, 1:32 pm - Tushar Nankani: Append your CodeForces handle for tomorrow's Mashup (3 pm - 5 pm) :
+05/04/2020, 1:32 pm - Prafull singh: Append your CodeForces handle for tomorrow's Mashup (3 pm - 5 pm) :
 kaiyu2000
 SirusCodes
 Viki_d
@@ -8900,12 +8900,12 @@ CodeMonk101
 05/04/2020, 3:10 pm - Tanay Kamath (TSEC, CS): I have college work to do
 05/04/2020, 5:01 pm - +91 88305 26885: man that was close...🤣🤣🤣🤣
 05/04/2020, 5:03 pm - Saket (TSEC, CS): Saurav Sir🔥🎉🎉
-05/04/2020, 5:03 pm - Tushar Nankani: @918408867834 🙌🏻🙌🏻
+05/04/2020, 5:03 pm - Prafull singh: @918408867834 🙌🏻🙌🏻
 05/04/2020, 5:05 pm - Pratik K (TSEC CS, SE): @918408867834 sabko treat dega ab🙌😂
 05/04/2020, 5:05 pm - Saurav Upoor (TSEC CS, SE): 😂😂
 05/04/2020, 5:07 pm - Saket (TSEC, CS): +1
 05/04/2020, 5:07 pm - Saurav Upoor (TSEC CS, SE): I thought my approach was brute force
-05/04/2020, 5:07 pm - Tushar Nankani: <Media omitted>
+05/04/2020, 5:07 pm - Prafull singh: <Media omitted>
 05/04/2020, 5:07 pm - Dheeraj Lalwani (TSEC, CS): +1
 05/04/2020, 5:07 pm - Pratik K (TSEC CS, SE): Here is the editorial link :
 
@@ -8913,7 +8913,7 @@ https://codeforces.com/blog/entry/69464
 05/04/2020, 5:07 pm - Saurav Upoor (TSEC CS, SE): Got AC in D1 and socha D2 me dekhta hu
 05/04/2020, 5:08 pm - Saurav Upoor (TSEC CS, SE): Vo bhi clear ho gaya😂
 05/04/2020, 5:08 pm - Pratik K (TSEC CS, SE): Enjoy!
-05/04/2020, 5:08 pm - Tushar Nankani: Thanks you!
+05/04/2020, 5:08 pm - Prafull singh: Thanks you!
 05/04/2020, 5:17 pm - +91 97681 67131: Given a string of digits S, insert a minimum number of opening and closing parentheses into it such that the resulting string is balanced and each digit d is inside exactly d pairs of matching parentheses.
 Let the nesting of two parentheses within a string be the substring that occurs strictly between them. An opening parenthesis and a closing parenthesis that is further to its right are said to match if their nesting is empty, or if every parenthesis in their nesting matches with another parenthesis in their nesting. The nesting depth of a position p is the number of pairs of matching parentheses m such that p is included in the nesting of m.
 For example, in the following strings, all digits match their nesting depth: 0((2)1), (((3))1(2)), ((((4)))), ((2))((2))(1). The first three strings have minimum length among those that have the same digits in the same order, but the last one does not since ((22)1) also has the digits 221 and is shorter.
@@ -9065,12 +9065,12 @@ al.add(true);```
 08/04/2020, 6:36 pm - +91 99697 55118: https://www.hackerearth.com/challenges/hackathon/
 08/04/2020, 6:37 pm - +91 99697 55118: This message was deleted
 09/04/2020, 8:55 pm - Tanay Kamath (TSEC, CS): <Media omitted>
-09/04/2020, 8:55 pm - Tushar Nankani: Runtime error.
+09/04/2020, 8:55 pm - Prafull singh: Runtime error.
 09/04/2020, 8:56 pm - Tanay Kamath (TSEC, CS): Han but ide pe chal rha hai
 09/04/2020, 8:56 pm - Tanay Kamath (TSEC, CS): Does it mean TLE?
-09/04/2020, 8:56 pm - Tushar Nankani: It is crosses the time limit mentioned in the question.
+09/04/2020, 8:56 pm - Prafull singh: It is crosses the time limit mentioned in the question.
 09/04/2020, 8:58 pm - Tanay Kamath (TSEC, CS): Time limit per test is 1s
-09/04/2020, 8:58 pm - Tushar Nankani: https://www.quora.com/What-is-the-different-between-Time-Limit-Exceeded-and-Runtime-Error/answer/Adrian-Clepcea?ch=3&share=59f2bc58&srid=3Zt1e
+09/04/2020, 8:58 pm - Prafull singh: https://www.quora.com/What-is-the-different-between-Time-Limit-Exceeded-and-Runtime-Error/answer/Adrian-Clepcea?ch=3&share=59f2bc58&srid=3Zt1e
 09/04/2020, 9:11 pm - Tanay Kamath (TSEC, CS): https://codeforces.com/problemset/problem/1030/A
 09/04/2020, 9:11 pm - Tanay Kamath (TSEC, CS): can any1 provide a solution  for this in Java
 09/04/2020, 9:12 pm - Tanay Kamath (TSEC, CS): its still giving a runtime error idk why
@@ -9099,10 +9099,10 @@ public class B{
 10/04/2020, 4:51 pm - Pratik K (TSEC CS, SE) added +91 97027 04646
 11/04/2020, 10:19 am - Saurav Upoor (TSEC CS, SE): Append your Codeforces handle for Mashup - 11 (Sunday, 3-5pm):
 sauravUppoor
-11/04/2020, 10:50 am - Tushar Nankani: Append your Codeforces handle for Mashup - 11 (Sunday, 3-5pm):
+11/04/2020, 10:50 am - Prafull singh: Append your Codeforces handle for Mashup - 11 (Sunday, 3-5pm):
 sauravUppoor
 CodeMonk101
-11/04/2020, 10:57 am - Tushar Nankani: <Media omitted>
+11/04/2020, 10:57 am - Prafull singh: <Media omitted>
 11/04/2020, 11:31 am - +91 79775 35465: Append your Codeforces handle for Mashup - 11 (Sunday, 3-5pm):
 sauravUppoor
 CodeMonk101
@@ -9126,7 +9126,7 @@ SiddhiJhunjhunwala
 SirusCodes
 flaunt 
 Fire28
-11/04/2020, 11:54 am - Tushar Nankani: <Media omitted>
+11/04/2020, 11:54 am - Prafull singh: <Media omitted>
 11/04/2020, 11:58 am - Rohit Pathak (TSEC, CS): Append your Codeforces handle for Mashup - 11 (Sunday, 3-5pm):
 sauravUppoor
 CodeMonk101
@@ -9144,7 +9144,7 @@ flaunt
 Fire28
 BadassCoder
 noob786
-11/04/2020, 12:24 pm - Tushar Nankani: https://mycode.prepbytes.com/contest/MARATHON1?utm_source=Share&utm_medium=CBM&utm_campaign=Marathon-Logic%20Building
+11/04/2020, 12:24 pm - Prafull singh: https://mycode.prepbytes.com/contest/MARATHON1?utm_source=Share&utm_medium=CBM&utm_campaign=Marathon-Logic%20Building
 11/04/2020, 12:38 pm - +91 75078 05454: Append your Codeforces handle for Mashup - 11 (Sunday, 3-5pm):
 sauravUppoor
 CodeMonk101
@@ -9215,16 +9215,16 @@ kaffan_69
 par123th
 arrayboy
 11/04/2020, 3:09 pm - +91 89764 07509: question says even letter is uppercase
-11/04/2020, 3:10 pm - Tushar Nankani: <Media omitted>
-11/04/2020, 3:16 pm - Tushar Nankani: It says every even letter is uppercase. Which means index i should be odd.
-11/04/2020, 3:16 pm - Tushar Nankani: But then it shows this error.
-11/04/2020, 3:17 pm - Tushar Nankani: You deleted this message
+11/04/2020, 3:10 pm - Prafull singh: <Media omitted>
+11/04/2020, 3:16 pm - Prafull singh: It says every even letter is uppercase. Which means index i should be odd.
+11/04/2020, 3:16 pm - Prafull singh: But then it shows this error.
+11/04/2020, 3:17 pm - Prafull singh: You deleted this message
 11/04/2020, 3:18 pm - +91 94208 78848: It shouldn't matter, in the question its mentioned only the alternating pattern matters and not the first charachter
 11/04/2020, 3:18 pm - +91 94208 78848: It should accept both
 11/04/2020, 3:19 pm - Rishab Saini (TSEC CS, TE): It does
 There can't be 2 solutions
-11/04/2020, 3:19 pm - Tushar Nankani: Yeah. I read that but it does show an error.
-11/04/2020, 3:21 pm - Tushar Nankani: So apparently, in this question indexes start from 1.
+11/04/2020, 3:19 pm - Prafull singh: Yeah. I read that but it does show an error.
+11/04/2020, 3:21 pm - Prafull singh: So apparently, in this question indexes start from 1.
 11/04/2020, 3:55 pm - Saket (TSEC, CS): Append your Codeforces handle for Mashup - 11 (Sunday, 3-5pm):
 sauravUppoor
 CodeMonk101
@@ -9377,8 +9377,8 @@ Viki_d
 Javachip 
 harshmody
 11/04/2020, 7:27 pm - +91 88798 05171 was added
-11/04/2020, 8:06 pm - Tushar Nankani: Is the site of Codeforces opening?
-11/04/2020, 8:09 pm - Tushar Nankani: Even the lighter versions are not opening^
+11/04/2020, 8:06 pm - Prafull singh: Is the site of Codeforces opening?
+11/04/2020, 8:09 pm - Prafull singh: Even the lighter versions are not opening^
 11/04/2020, 8:10 pm - Saurav Upoor (TSEC CS, SE): Due to a power outage Codeforces and Polygon are unavailable now.
 11/04/2020, 8:11 pm - Saurav Upoor (TSEC CS, SE): 10 hrs hone aaye abhi tl kal k contets ka system testing he chal rha h😂
 11/04/2020, 8:19 pm - Pratik K (TSEC CS, SE): Submissions are in queue
@@ -9391,8 +9391,8 @@ harshmody
 11/04/2020, 8:25 pm - +91 97681 67131: This message was deleted
 11/04/2020, 8:25 pm - +91 97681 67131: This message was deleted
 11/04/2020, 8:27 pm - +91 97681 67131: It is a iterator in python used to return values of a specific data type in a list, tuple, string or dictionaries
-11/04/2020, 8:32 pm - Tushar Nankani: Map function is used to execute a function (defined) or also with the lambda expression and the values to be executed are also passed through.
-11/04/2020, 8:32 pm - Tushar Nankani: ```map(func, *iterables)```
+11/04/2020, 8:32 pm - Prafull singh: Map function is used to execute a function (defined) or also with the lambda expression and the values to be executed are also passed through.
+11/04/2020, 8:32 pm - Prafull singh: ```map(func, *iterables)```
 11/04/2020, 8:33 pm - +91 97027 35002: Got it
 11/04/2020, 8:38 pm - +91 97681 67131: Can someone help me with a example and explaination of the usage of abstract classes and interfaces in Java
 11/04/2020, 8:39 pm - Pratik K (TSEC CS, SE): @917506412914 @918080142783
@@ -9656,8 +9656,8 @@ BillGatess
 12/04/2020, 5:19 pm - Saurav Upoor (TSEC CS, SE): checking connected components ig
 12/04/2020, 5:19 pm - Tanay Kamath (TSEC, CS): Any1 else using java?
 12/04/2020, 5:20 pm - Tanay Kamath (TSEC, CS): Both my problems were working fine on IDE😓
-12/04/2020, 5:27 pm - Tushar Nankani: Graphs.
-12/04/2020, 5:27 pm - Tushar Nankani: Problem E is 🙌🏻🤯
+12/04/2020, 5:27 pm - Prafull singh: Graphs.
+12/04/2020, 5:27 pm - Prafull singh: Problem E is 🙌🏻🤯
 12/04/2020, 5:28 pm - +91 88305 26885: i knew but specifically it was about connected components as saurav said
 12/04/2020, 5:29 pm - Tanay Kamath (TSEC, CS): Is String args[] compulsory?
 12/04/2020, 5:30 pm - +91 82916 21138: Depends on ide but most of them it is
@@ -9680,8 +9680,8 @@ BillGatess
 12/04/2020, 5:39 pm - +91 88305 26885: Ik only DFS and bfs what's the next imp graph algo
 12/04/2020, 5:41 pm - Saurav Upoor (TSEC CS, SE): abhi k liye thats enough...currently in graphs im studying their basic applications. while upsolving i came across the above algo...
 12/04/2020, 5:41 pm - +91 88305 26885: K
-12/04/2020, 5:46 pm - Tushar Nankani: Anyone participating in AtCoder's?
-12/04/2020, 5:48 pm - Tushar Nankani: Even there, the submissions are "Waiting for Judging"
+12/04/2020, 5:46 pm - Prafull singh: Anyone participating in AtCoder's?
+12/04/2020, 5:48 pm - Prafull singh: Even there, the submissions are "Waiting for Judging"
 In queue^
 12/04/2020, 6:36 pm - +91 97681 67131: nkList = list(map(int, input().split()))
 n = nkList[0]
@@ -9698,7 +9698,7 @@ if 1 <= k <= n <= 4*pow(10, 5):
 print(s)
 12/04/2020, 6:36 pm - +91 97681 67131: C problem from mashup time limit exceed
 12/04/2020, 6:37 pm - +91 97681 67131: got any alternatives?
-12/04/2020, 6:40 pm - Tushar Nankani: ```import string
+12/04/2020, 6:40 pm - Prafull singh: ```import string
  
 n,k=map(int,input().split())
 s=list(input())
@@ -9712,23 +9712,23 @@ for char in string.ascii_lowercase:
             k-=1
  
 print(''.join(s))```
-12/04/2020, 6:41 pm - Tushar Nankani: suggestion: string.ascii_lowercase can be directly used for lower case alphabets.
+12/04/2020, 6:41 pm - Prafull singh: suggestion: string.ascii_lowercase can be directly used for lower case alphabets.
 12/04/2020, 6:41 pm - +91 97681 67131: why is this faster ?
 12/04/2020, 6:42 pm - +91 97681 67131: could u submit ans and was it accepted?
-12/04/2020, 6:42 pm - Tushar Nankani: Yes. It was accepted.
-12/04/2020, 6:43 pm - Tushar Nankani: <Media omitted>
+12/04/2020, 6:42 pm - Prafull singh: Yes. It was accepted.
+12/04/2020, 6:43 pm - Prafull singh: <Media omitted>
 12/04/2020, 6:44 pm - +91 97681 67131: i saw now
 12/04/2020, 6:44 pm - +91 97681 67131: any idea why urs works faster?
 12/04/2020, 6:45 pm - +91 97681 67131: are while loops slower than for loops?
 12/04/2020, 6:45 pm - +91 97681 67131: or is slicing the problem?
 12/04/2020, 6:45 pm - +91 97681 67131: if anyone knows pls tell
-12/04/2020, 6:47 pm - Tushar Nankani: I think nested loops increases time a lot more in python. Initially, I used while and for; which gave me TLE.
-12/04/2020, 6:48 pm - Tushar Nankani: Therefore, alternative would be by taking that counter ```k```, avoiding the while loop.
-12/04/2020, 6:48 pm - Tushar Nankani: I don't think so^
-12/04/2020, 6:49 pm - Tushar Nankani: I am not sure about this though.
+12/04/2020, 6:47 pm - Prafull singh: I think nested loops increases time a lot more in python. Initially, I used while and for; which gave me TLE.
+12/04/2020, 6:48 pm - Prafull singh: Therefore, alternative would be by taking that counter ```k```, avoiding the while loop.
+12/04/2020, 6:48 pm - Prafull singh: I don't think so^
+12/04/2020, 6:49 pm - Prafull singh: I am not sure about this though.
 12/04/2020, 6:50 pm - +91 97681 67131: <Media omitted>
-12/04/2020, 6:50 pm - Tushar Nankani: increase*
-12/04/2020, 6:51 pm - Tushar Nankani: @919820487592
+12/04/2020, 6:50 pm - Prafull singh: increase*
+12/04/2020, 6:51 pm - Prafull singh: @919820487592
 12/04/2020, 6:53 pm - Rishab Saini (TSEC CS, TE): Technically yeah
 12/04/2020, 6:54 pm - Rishab Saini (TSEC CS, TE): Range works much faster
 12/04/2020, 6:55 pm - Rishab Saini (TSEC CS, TE): https://wiki.python.org/moin/TimeComplexity
@@ -9750,7 +9750,7 @@ just go see this
 13/04/2020, 1:06 pm - Saurav Upoor (TSEC CS, SE): <Media omitted>
 13/04/2020, 1:06 pm - Saurav Upoor (TSEC CS, SE): long
 13/04/2020, 1:14 pm - Saket (TSEC, CS): In queue for Long too!!
-13/04/2020, 3:12 pm - Tushar Nankani: <Media omitted>
+13/04/2020, 3:12 pm - Prafull singh: <Media omitted>
 13/04/2020, 3:13 pm - +91 99696 99151: 😂😂
 13/04/2020, 3:13 pm - Darshan Rander (TSEC, IT): 😂😂
 13/04/2020, 3:15 pm - +91 98333 66146: 😂😂
@@ -9784,7 +9784,7 @@ http://chng.it/8CpR8YDx
 14/04/2020, 12:10 pm - +91 98333 66146: <Media omitted>
 14/04/2020, 12:10 pm - Saurav Upoor (TSEC CS, SE): 😂
 14/04/2020, 12:25 pm - Harsh Kapadia (TSEC IT, SE): Agreed
-14/04/2020, 2:44 pm - Tushar Nankani: 😂😂
+14/04/2020, 2:44 pm - Prafull singh: 😂😂
 14/04/2020, 3:01 pm - +91 75078 05454: 🤣
 14/04/2020, 6:22 pm - Darshan Rander (TSEC, IT): https://youtu.be/uNjp0gS8x_k
 
@@ -9832,9 +9832,9 @@ Have a look at their Codeforces account to get inspired. Checkout their stopstal
 15/04/2020, 2:57 pm - +91 75078 05454: Yeah
 15/04/2020, 7:21 pm - Tanay Kamath (TSEC, CS): Any1 able to submit problems on codeforces?
 15/04/2020, 7:23 pm - Tanay Kamath (TSEC, CS): <Media omitted>
-15/04/2020, 7:25 pm - Tushar Nankani: Yeah. Codeforces is taking too much time. Many submissions are in queue.
+15/04/2020, 7:25 pm - Prafull singh: Yeah. Codeforces is taking too much time. Many submissions are in queue.
 15/04/2020, 7:26 pm - Tanay Kamath (TSEC, CS): Mera editor hi nahi khul rha😂
-15/04/2020, 7:28 pm - Tushar Nankani: I'm sure 8 baje tak khul jaayega. Div 2 contest hai, from 8:00-10:30.
+15/04/2020, 7:28 pm - Prafull singh: I'm sure 8 baje tak khul jaayega. Div 2 contest hai, from 8:00-10:30.
 15/04/2020, 7:28 pm - Tanay Kamath (TSEC, CS): Ha
 15/04/2020, 7:31 pm - +91 82916 21138: Yes aaj codeforces is taking very much time
 15/04/2020, 8:59 pm - Tanay Kamath (TSEC, CS): Still not opening
@@ -9907,7 +9907,7 @@ For that amazing picture  😅😁
 16/04/2020, 7:39 pm - Tanay Kamath (TSEC, CS): 👍
 16/04/2020, 7:46 pm - Rishab Saini (TSEC CS, TE): 🙌🏻
 16/04/2020, 7:47 pm - Dheeraj Lalwani (TSEC, CS): Thanks
-16/04/2020, 7:53 pm - Tushar Nankani: Good going Dheeraj! Looks great! 🙌🏻 @918451904417
+16/04/2020, 7:53 pm - Prafull singh: Good going Dheeraj! Looks great! 🙌🏻 @918451904417
 16/04/2020, 7:54 pm - Tanay Kamath (TSEC, CS): 👍🔥
 16/04/2020, 7:54 pm - Tanay Kamath (TSEC, CS): Tips please
 16/04/2020, 7:59 pm - Dheeraj Lalwani (TSEC, CS): Thanks
@@ -9935,9 +9935,9 @@ Timings:9 PM-12AM
 
 Registration link:
 bit.ly/3clVfue
-17/04/2020, 9:28 pm - Tushar Nankani: Can someone send the previous Mashup's editorial again?
+17/04/2020, 9:28 pm - Prafull singh: Can someone send the previous Mashup's editorial again?
 17/04/2020, 9:29 pm - Saurav Upoor (TSEC CS, SE): https://codeforces.com/blog/entry/60138
-17/04/2020, 9:29 pm - Tushar Nankani: Thank you!
+17/04/2020, 9:29 pm - Prafull singh: Thank you!
 17/04/2020, 9:29 pm - Saurav Upoor (TSEC CS, SE) changed the group description
 17/04/2020, 9:30 pm - Saurav Upoor (TSEC CS, SE): np
 17/04/2020, 11:10 pm - Harsh Kapadia (TSEC IT, SE): https://gist.github.com/HarshKapadia2/e7e13676c83bc295ce78aa7f39611caf
@@ -10035,7 +10035,7 @@ Mystogan_30
 SiddhiJhunjhunwala
 aniketmore311
 SirusCodes
-18/04/2020, 12:49 pm - Tushar Nankani: Append your Codeforces handle for Mash-up 12 (3 pm - 5 pm today) :
+18/04/2020, 12:49 pm - Prafull singh: Append your Codeforces handle for Mash-up 12 (3 pm - 5 pm today) :
 kaiyu2000
 Dhirutonics
 Javachip
@@ -10228,7 +10228,7 @@ Thank you SO much though...
 Your words are appreciated!
 18/04/2020, 5:54 pm - Harsh Kapadia (TSEC IT, SE): Thank you, Dhriti!
 18/04/2020, 5:54 pm - Harsh Kapadia (TSEC IT, SE): Thank you @918976407509 !
-18/04/2020, 5:55 pm - Tushar Nankani: @917506412914 🙌🏻🤩
+18/04/2020, 5:55 pm - Prafull singh: @917506412914 🙌🏻🤩
 18/04/2020, 5:55 pm - Harsh Kapadia (TSEC IT, SE): Thank you, Tushar!
 18/04/2020, 5:59 pm - +91 81696 22410: 👍🏻👍🏻👍🏻
 18/04/2020, 6:01 pm - Harsh Kapadia (TSEC IT, SE): Thank you, Shyren!
@@ -10272,7 +10272,7 @@ For(i=0;i<n;i++)
 
 We draw a recursion tree for that
 18/04/2020, 11:13 pm - +91 73043 57388: Explaination of recursion function I will give u tomorrow if u don't mind
-18/04/2020, 11:47 pm - Tushar Nankani: Reminder:
+18/04/2020, 11:47 pm - Prafull singh: Reminder:
 Tomorrow (19th April):
 Google's KickStart Round B- 4:30 a.m.
 Google's CodeJam Round 1B- 4:00 p.m.
@@ -10281,7 +10281,7 @@ AtCoder's Beginner Contest 163- 5:30 p.m.
 18/04/2020, 11:54 pm - Saurav Upoor (TSEC CS, SE): codejam 4pm or 9.30pm
 18/04/2020, 11:55 pm - Rishab Saini (TSEC CS, TE): 9:30
 18/04/2020, 11:58 pm - Saurav Upoor (TSEC CS, SE): 👍
-19/04/2020, 4:20 am - Tushar Nankani: 9:30* my bad.
+19/04/2020, 4:20 am - Prafull singh: 9:30* my bad.
 19/04/2020, 4:30 am - +91 97681 67131: <Media omitted>
 19/04/2020, 4:30 am - +91 97681 67131: Started now
 19/04/2020, 4:31 am - +91 97681 67131: I think it’s 18th April UTC so it’s 4:30am India
@@ -10309,7 +10309,7 @@ AtCoder's Beginner Contest 163- 5:30 p.m.
 19/04/2020, 7:26 pm - Harsh Kapadia (TSEC IT, SE): I can't even express how accurate this is 🙈
 20/04/2020, 2:48 pm - Tanay Kamath (TSEC, CS): <Media omitted>
 20/04/2020, 2:48 pm - Tanay Kamath (TSEC, CS): this a C language proficiency question,you have to implement it using structures
-20/04/2020, 4:39 pm - Tushar Nankani: <Media omitted>
+20/04/2020, 4:39 pm - Prafull singh: <Media omitted>
 20/04/2020, 4:43 pm - Saurav Upoor (TSEC CS, SE): 👍
 20/04/2020, 4:43 pm - Saurav Upoor (TSEC CS, SE): Kal ka codejam 1B me 1st problem hua kisi ka?
 20/04/2020, 4:44 pm - Rishab Saini (TSEC CS, TE): Nope
@@ -10432,7 +10432,7 @@ int32_t main() {
 21/04/2020, 10:21 pm - Saket (TSEC, CS): Will try XD
 21/04/2020, 10:22 pm - Tanay Kamath (TSEC, CS): Bhai bas mera mat karna🙏😂
 21/04/2020, 10:22 pm - Tanay Kamath (TSEC, CS): Ek submission hai aur woh bhi...
-21/04/2020, 10:32 pm - Tushar Nankani: ```
+21/04/2020, 10:32 pm - Prafull singh: ```
 void solve()
 {
      ll n,k,i,temp,a=2,b,ans=0;
@@ -10483,17 +10483,17 @@ I unnecessarily used nested for loops so got a TLE straightaway
 Pretty good content!
 22/04/2020, 3:53 am - Dheeraj Lalwani (TSEC, CS): Sure
 22/04/2020, 3:58 am - +91 98333 66146: Thank you Rishab!
-22/04/2020, 4:32 am - Tushar Nankani: Yep 🙌🏻
+22/04/2020, 4:32 am - Prafull singh: Yep 🙌🏻
 22/04/2020, 8:21 am - +91 96536 93868: This message was deleted
 22/04/2020, 10:58 am - Harsh Kapadia (TSEC IT, SE): Agreed!
 22/04/2020, 12:44 pm - +91 77189 86205: 😂😂
-22/04/2020, 1:47 pm - Tushar Nankani: https://codeforces.com/blog/entry/76352
+22/04/2020, 1:47 pm - Prafull singh: https://codeforces.com/blog/entry/76352
 22/04/2020, 3:27 pm - Tanay Kamath (TSEC, CS): Ty
 22/04/2020, 6:18 pm - Tanay Kamath (TSEC, CS): https://www.instagram.com/p/B_SI6RYA4p2/?igshid=prp0vzn0t4wj
 22/04/2020, 6:19 pm - Tanay Kamath (TSEC, CS): Everyone needs to have a look at this☝️
 22/04/2020, 6:28 pm - Harsh Kapadia (TSEC IT, SE): 👍👍
 22/04/2020, 11:08 pm - +91 75078 05454: 👍🏻
-23/04/2020, 6:45 pm - Tushar Nankani: <Media omitted>
+23/04/2020, 6:45 pm - Prafull singh: <Media omitted>
 23/04/2020, 6:45 pm - Tanay Kamath (TSEC, CS): 😂
 23/04/2020, 6:58 pm - Saket (TSEC, CS): 😂
 23/04/2020, 7:08 pm - Rishab Saini (TSEC CS, TE): 😂😂
@@ -10534,14 +10534,14 @@ It says 70 days another Lockdown
 I wish
 23/04/2020, 9:58 pm - Darshan Rander (TSEC, IT): I just wish ki exam cancel ho😂
 23/04/2020, 9:58 pm - Dheeraj Lalwani (TSEC, CS): Bhaiii
-23/04/2020, 9:58 pm - Tushar Nankani: What are the chances they will promote us directly? 😂
+23/04/2020, 9:58 pm - Prafull singh: What are the chances they will promote us directly? 😂
 23/04/2020, 9:58 pm - Dheeraj Lalwani (TSEC, CS): Sach mw
 23/04/2020, 9:58 pm - Dheeraj Lalwani (TSEC, CS): India Up For Another Lockdown Extension For 70 days? Expert Suggests
 https://ourbitcoinnews.com/global-expert-warns-lockdown-will-be-bad-in-india-if-it-is-less-than-10-weeks/
 23/04/2020, 9:59 pm - Darshan Rander (TSEC, IT): 0
 23/04/2020, 9:59 pm - Dheeraj Lalwani (TSEC, CS): This is sorce
 23/04/2020, 9:59 pm - Dheeraj Lalwani (TSEC, CS): 0.0001%
-23/04/2020, 9:59 pm - Tushar Nankani: The headline ends with a question mark 🤦🏻‍♂️
+23/04/2020, 9:59 pm - Prafull singh: The headline ends with a question mark 🤦🏻‍♂️
 23/04/2020, 9:59 pm - Darshan Rander (TSEC, IT): Uday samant said ki no one will be promoted without exam
 23/04/2020, 9:59 pm - Farhan Irani (TSEC IT, SE): Online exam best☠️☠️
 23/04/2020, 10:00 pm - Farhan Irani (TSEC IT, SE): Everyone full marks
@@ -10576,17 +10576,17 @@ https://ourbitcoinnews.com/global-expert-warns-lockdown-will-be-bad-in-india-if-
 23/04/2020, 10:14 pm - Kartik Soneji (TSEC, CS): The problem is that you are trying to use integer.parseint.
 23/04/2020, 10:14 pm - Kartik Soneji (TSEC, CS): If you use BigInteger, then it will work.
 23/04/2020, 10:49 pm - Pratik K (TSEC CS, SE): https://www.youtube.com/watch?v=0kr6YSroclg
-23/04/2020, 10:56 pm - Tushar Nankani: Did he solve the second one yet?
+23/04/2020, 10:56 pm - Prafull singh: Did he solve the second one yet?
 23/04/2020, 10:56 pm - Saurav Upoor (TSEC CS, SE): he started with 3
 23/04/2020, 10:56 pm - Saurav Upoor (TSEC CS, SE): C
-23/04/2020, 10:57 pm - Tushar Nankani: In B, I got TLE in the 3rd pretest.
+23/04/2020, 10:57 pm - Prafull singh: In B, I got TLE in the 3rd pretest.
 23/04/2020, 10:57 pm - Saurav Upoor (TSEC CS, SE): i solved it using prefix array
 23/04/2020, 10:57 pm - Saurav Upoor (TSEC CS, SE): pratik did it using sliding window
 23/04/2020, 10:58 pm - Pratik K (TSEC CS, SE): Codeforces is down and i didn't save my code
 23/04/2020, 10:58 pm - Pratik K (TSEC CS, SE): Nahi toh i would have sent it
 23/04/2020, 10:58 pm - Pratik K (TSEC CS, SE): 2 for loops?
-23/04/2020, 10:58 pm - Tushar Nankani: Yes.
-23/04/2020, 10:59 pm - Tushar Nankani: Couldn't think of an optimized solution.
+23/04/2020, 10:58 pm - Prafull singh: Yes.
+23/04/2020, 10:59 pm - Prafull singh: Couldn't think of an optimized solution.
 23/04/2020, 11:00 pm - Saurav Upoor (TSEC CS, SE): no issues upsolve it!
 23/04/2020, 11:10 pm - Pratik K (TSEC CS, SE): int n,k;
        cin >> n >> k;
@@ -10648,8 +10648,8 @@ But exams will probably be in June-July, so idk about that...
 24/04/2020, 11:40 am - Saurav Upoor (TSEC CS, SE): https://youtu.be/0TmuETwVit4
 24/04/2020, 12:02 pm - Tanay Kamath (TSEC, CS): https://www.instagram.com/p/B_WgGn9AbWl/?igshid=1dggpmfa6g912
 24/04/2020, 12:02 pm - Tanay Kamath (TSEC, CS): Do see
-24/04/2020, 5:50 pm - Tushar Nankani: https://codeforces.com/blog/entry/76479
-24/04/2020, 5:51 pm - Tushar Nankani: Codeforces Round #637 Div-2 Editorial
+24/04/2020, 5:50 pm - Prafull singh: https://codeforces.com/blog/entry/76479
+24/04/2020, 5:51 pm - Prafull singh: Codeforces Round #637 Div-2 Editorial
 24/04/2020, 7:19 pm - Dheeraj Lalwani (TSEC, CS): https://medium.com/@ja9_look/essential-practical-skills-that-i-didnt-learn-at-a-coding-bootcamp-1b9ed881c8fe
 
 
@@ -10706,8 +10706,8 @@ https://codeforces.com/contests/277599
 25/04/2020, 5:13 pm - Saket (TSEC, CS): 😂
 25/04/2020, 5:13 pm - Tanay Kamath (TSEC, CS): wow all of you are🙆🏽‍♂️🔥
 25/04/2020, 5:14 pm - Saurav Upoor (TSEC CS, SE): Private testcases and others submission now viewable
-25/04/2020, 5:14 pm - Tushar Nankani: Thank you Pratik! 🙌🏻
-25/04/2020, 5:15 pm - Tushar Nankani: Congratulations @918247578176 @919689727471 @918408867834 🙌🏻🙌🏻
+25/04/2020, 5:14 pm - Prafull singh: Thank you Pratik! 🙌🏻
+25/04/2020, 5:15 pm - Prafull singh: Congratulations @918247578176 @919689727471 @918408867834 🙌🏻🙌🏻
 25/04/2020, 5:16 pm - Pratik K (TSEC CS, SE): Bas contests dete raho and improve apne aap ho jaoge
 25/04/2020, 5:39 pm - Dheeraj Lalwani (TSEC, CS): Who is Dumped?
 25/04/2020, 5:42 pm - Dheeraj Lalwani (TSEC, CS): FE?
@@ -10749,7 +10749,7 @@ please calm down.
 25/04/2020, 10:48 pm - Darshan Rander (TSEC, IT): 😂😂
 25/04/2020, 10:48 pm - Harsh Kapadia (TSEC IT, SE): Idk wtf my auto-correct has smoked
 25/04/2020, 10:57 pm - Kartik Soneji (TSEC, CS): Are you storing the poems in Firebase?
-25/04/2020, 10:57 pm - Tushar Nankani: You deleted this message
+25/04/2020, 10:57 pm - Prafull singh: You deleted this message
 25/04/2020, 11:38 pm - Darshan Rander (TSEC, IT): Yes
 25/04/2020, 11:39 pm - Darshan Rander (TSEC, IT): Realtime db
 25/04/2020, 11:49 pm - Kartik Soneji (TSEC, CS): Any reason?
@@ -10765,7 +10765,7 @@ I think that the cloud storage should be optional.
 25/04/2020, 11:59 pm - Tanay Kamath (TSEC, CS): Yeah real-time database
 25/04/2020, 11:59 pm - Darshan Rander (TSEC, IT): *=terms and conditions apply😂
 25/04/2020, 11:59 pm - Tanay Kamath (TSEC, CS): 😂👍
-26/04/2020, 5:05 am - Tushar Nankani: Reminder: Today 26th April
+26/04/2020, 5:05 am - Prafull singh: Reminder: Today 26th April
 
 AtCoder Beginner Contest 164 (5:30pm-7:10pm)
 https://atcoder.jp/contests/abc164
@@ -10857,7 +10857,7 @@ I'd rather read the docs first
 26/04/2020, 7:04 pm - Dheeraj Lalwani (TSEC, CS): Too heavy
 26/04/2020, 7:04 pm - +91 97681 67131: 😂👍🏻
 26/04/2020, 7:06 pm - +91 99201 75875: Temporarily
-26/04/2020, 8:02 pm - Tushar Nankani: https://codeforces.com/contests/1342
+26/04/2020, 8:02 pm - Prafull singh: https://codeforces.com/contests/1342
 26/04/2020, 8:04 pm - +91 73043 57388: @918451904417 
 @917738557601 
 @919689727471 
@@ -11036,7 +11036,7 @@ Thank you for your time!
 30/04/2020, 6:34 pm - Dheeraj Lalwani (TSEC, CS): This is wow!!
 Great work
 30/04/2020, 7:04 pm - +91 98331 51331: Too good @919969394098
-30/04/2020, 7:14 pm - Tushar Nankani: Amazing work 🙌🏻🙌🏻 @919969394098
+30/04/2020, 7:14 pm - Prafull singh: Amazing work 🙌🏻🙌🏻 @919969394098
 30/04/2020, 7:32 pm - +91 99693 94098: Thank you!! 🙌🏻🙏🏻
 30/04/2020, 7:33 pm - Pratik K (TSEC CS, SE): Sirrr 🔥@919969394098
 30/04/2020, 7:41 pm - +91 99693 94098: 😂😂😂
@@ -11221,7 +11221,7 @@ Do add one!
 02/05/2020, 5:12 pm - Saket (TSEC, CS): acha
 02/05/2020, 5:14 pm - Darshan Rander (TSEC, IT): Launcher icon😂
 02/05/2020, 5:14 pm - Saurav Upoor (TSEC CS, SE): Atcoder beginner contest at 5.30 today
-02/05/2020, 5:14 pm - Tushar Nankani: You deleted this message
+02/05/2020, 5:14 pm - Prafull singh: You deleted this message
 02/05/2020, 5:16 pm - Harsh Kapadia (TSEC IT, SE): Ohhhh 😂😅
 I don't have any app dev knowledge lol
 
@@ -11233,11 +11233,11 @@ Oh btw, send him that UX tweet that I had tagged you in...
 02/05/2020, 5:19 pm - Saurav Upoor (TSEC CS, SE): Who's kuldiph
 02/05/2020, 5:20 pm - Pratik K (TSEC CS, SE): SE
 02/05/2020, 5:20 pm - Saurav Upoor (TSEC CS, SE): Acha
-02/05/2020, 5:21 pm - Tushar Nankani: Looks great! 🙌🏻 @919967684479
+02/05/2020, 5:21 pm - Prafull singh: Looks great! 🙌🏻 @919967684479
 02/05/2020, 5:21 pm - +91 98337 61116: 🔥🔥
 02/05/2020, 5:24 pm - +91 99676 84479: Thank you ♥️
 02/05/2020, 5:30 pm - +91 88284 70904: Awesome @919967684479 👌🏻
-02/05/2020, 5:30 pm - Tushar Nankani: These suggestions are way too amazing 🙌🏻🙌🏻  Do try adding that "description" feature.
+02/05/2020, 5:30 pm - Prafull singh: These suggestions are way too amazing 🙌🏻🙌🏻  Do try adding that "description" feature.
 I am not really good at Development but
  --> Some small suggestions from my side.
 - When we re-edit the note, try changing the date and time, as "last edited". 
@@ -11258,7 +11258,7 @@ Looks amazing! Keep it up! ^_^
 02/05/2020, 5:50 pm - Harsh Kapadia (TSEC IT, SE): Thank you!
 Ooh didn't check the profile change thing!
 Nice observation, Tushar!
-02/05/2020, 6:01 pm - Tushar Nankani: Thanks Harsh!
+02/05/2020, 6:01 pm - Prafull singh: Thanks Harsh!
 02/05/2020, 6:02 pm - Harsh Kapadia (TSEC IT, SE): 👍
 02/05/2020, 9:11 pm - Pratik K (TSEC CS, SE): Bacche question hi padte rahe Gaye, mein code copy and submit karke Chala Gaya
             - karanthegreat
@@ -11268,7 +11268,7 @@ Nice observation, Tushar!
 02/05/2020, 9:14 pm - +91 98333 66146: <Media omitted>
 02/05/2020, 9:15 pm - Saurav Upoor (TSEC CS, SE): 😂😂
 02/05/2020, 9:28 pm - Tanay Kamath (TSEC, CS): Ikr,but is it true that he copied?
-02/05/2020, 9:29 pm - Tushar Nankani: Yeah. It is.
+02/05/2020, 9:29 pm - Prafull singh: Yeah. It is.
 02/05/2020, 9:30 pm - Tanay Kamath (TSEC, CS): Like always?
 02/05/2020, 9:32 pm - Pratik K (TSEC CS, SE): He is better at cp than most of us
 02/05/2020, 9:32 pm - Tanay Kamath (TSEC, CS): Yeah heard of him,he is 6 stars of codechef right?,
@@ -11290,8 +11290,8 @@ Nice observation, Tushar!
 03/05/2020, 12:36 am - Rishab Saini (TSEC CS, TE): 😂❤️
 03/05/2020, 12:36 am - +91 98333 66146: ikr
 03/05/2020, 5:34 am - Pratik K (TSEC CS, SE): Happy Birthdayyy @919820696178 👊🏻🥳
-03/05/2020, 7:48 am - Tushar Nankani: Happy birthday Tanay!! 🎉
-03/05/2020, 7:49 am - Tushar Nankani: +1
+03/05/2020, 7:48 am - Prafull singh: Happy birthday Tanay!! 🎉
+03/05/2020, 7:49 am - Prafull singh: +1
 03/05/2020, 8:28 am - +91 88284 70904: Happy birthday @919820696178  🥳💪🏻
 03/05/2020, 9:02 am - +91 90822 59476: Happy Birthday Tanay 🎂🎂🥳🥳
 03/05/2020, 9:06 am - Saurav Upoor (TSEC CS, SE): Happy brithday!
@@ -11325,7 +11325,7 @@ Mike.
 
 UPD: I temporarily rescheduled it on May, 6. But I'll discuss the date with the writer and coordinator and reschedule it again to the date they want.
 03/05/2020, 8:00 pm - Pratik K (TSEC CS, SE): Mike Mirzayanov
-03/05/2020, 9:16 pm - Tushar Nankani: *Sort 10 billion numbers*
+03/05/2020, 9:16 pm - Prafull singh: *Sort 10 billion numbers*
 
 10 billion numbers are given, sort them
 
@@ -11358,10 +11358,10 @@ Since the size of numbers is huge, we can't make use of the primary memory to se
 
 _In approach 2, we are simulating the quick sort, In quick sort , the array is broken into  L,M,R._
 _where M is just a single pivot element. But in approach 2 , the whole DEPQ is acting as a pivot._
-03/05/2020, 9:18 pm - Tushar Nankani: You deleted this message
+03/05/2020, 9:18 pm - Prafull singh: You deleted this message
 03/05/2020, 9:19 pm - Pratik K (TSEC CS, SE): Triple sort one?
-03/05/2020, 9:23 pm - Tushar Nankani: You deleted this message
-03/05/2020, 9:32 pm - Tushar Nankani: Not related to may long challenge.
+03/05/2020, 9:23 pm - Prafull singh: You deleted this message
+03/05/2020, 9:32 pm - Prafull singh: Not related to may long challenge.
 05/05/2020, 12:01 pm - Tanay Kamath (TSEC, CS): Answer to I only do competitive programming. I’m not learning any new technologies. Is sticking with competitive a good idea or not? by Mohd Haris https://www.quora.com/I-only-do-competitive-programming-I-m-not-learning-any-new-technologies-Is-sticking-with-competitive-a-good-idea-or-not/answer/Mohd-Haris-66?ch=3&share=60ffa97a&srid=uiDZPw
 05/05/2020, 12:22 pm - Tanay Kamath (TSEC, CS): I had a question for seniors.....
 Like how much DS do you need to learn before starting with Algorithms?
@@ -11383,26 +11383,26 @@ Like how much DS do you need to learn before starting with Algorithms?
 05/05/2020, 1:21 pm - Pratik K (TSEC CS, SE): i=i++
 05/05/2020, 1:21 pm - Mohit Varma (TSEC, CS): Iske baad I ki value badegi nhi kya?
 05/05/2020, 1:22 pm - Pratik K (TSEC CS, SE): Badhega but that'll be useless
-05/05/2020, 1:23 pm - Tushar Nankani: You're basically assigning i = 0. And then incrementing the value to 1. But i is already assigned as 0. This process keeps getting repeated.
+05/05/2020, 1:23 pm - Prafull singh: You're basically assigning i = 0. And then incrementing the value to 1. But i is already assigned as 0. This process keeps getting repeated.
 05/05/2020, 1:24 pm - Pratik K (TSEC CS, SE): ✅✅
 05/05/2020, 1:24 pm - Mohit Varma (TSEC, CS): Yeah.. got it..thnx yeah..
-05/05/2020, 1:24 pm - Tushar Nankani: It's due to the post increment. If it was pre-increment: i = ++i, then it will increment to 1, then assign it to i. So in this case i remains 1.
+05/05/2020, 1:24 pm - Prafull singh: It's due to the post increment. If it was pre-increment: i = ++i, then it will increment to 1, then assign it to i. So in this case i remains 1.
 05/05/2020, 1:25 pm - Mohit Varma (TSEC, CS): Oh ..got it
 05/05/2020, 1:26 pm - +91 88305 26885: It's actually undefined
 05/05/2020, 1:26 pm - +91 88305 26885: Read this http://en.wikipedia.org/wiki/Undefined_behavior
-05/05/2020, 1:31 pm - Tushar Nankani: Ohh.
-05/05/2020, 1:34 pm - Tushar Nankani: <Media omitted>
-05/05/2020, 1:34 pm - Tushar Nankani: This seems valid.
-05/05/2020, 1:35 pm - Tushar Nankani: I am not sure, correct me if I am wrong^
+05/05/2020, 1:31 pm - Prafull singh: Ohh.
+05/05/2020, 1:34 pm - Prafull singh: <Media omitted>
+05/05/2020, 1:34 pm - Prafull singh: This seems valid.
+05/05/2020, 1:35 pm - Prafull singh: I am not sure, correct me if I am wrong^
 05/05/2020, 1:37 pm - +91 88305 26885: Idk I read somewhere that the compiler may output any value
-05/05/2020, 1:40 pm - Tushar Nankani: <Media omitted>
+05/05/2020, 1:40 pm - Prafull singh: <Media omitted>
 05/05/2020, 1:40 pm - +91 88305 26885: Even I=I++ +1 doesn't show any undefined behaviour I've just did that
-05/05/2020, 1:40 pm - Tushar Nankani: <Media omitted>
-05/05/2020, 1:41 pm - Tushar Nankani: <Media omitted>
-05/05/2020, 1:41 pm - Tushar Nankani: <Media omitted>
+05/05/2020, 1:40 pm - Prafull singh: <Media omitted>
+05/05/2020, 1:41 pm - Prafull singh: <Media omitted>
+05/05/2020, 1:41 pm - Prafull singh: <Media omitted>
 05/05/2020, 1:42 pm - +91 88305 26885: Wht to do then
 05/05/2020, 1:42 pm - +91 88305 26885: Maybe they have defined something for such situations..
-05/05/2020, 1:43 pm - Tushar Nankani: This is explaination does seem valid though.
+05/05/2020, 1:43 pm - Prafull singh: This is explaination does seem valid though.
 05/05/2020, 1:43 pm - +91 88305 26885: Yup
 05/05/2020, 1:43 pm - +91 88305 26885: But it's more compiler based rather than a well defined error
 05/05/2020, 1:44 pm - +91 97027 35002: It should get incremented after assigning value right?
@@ -11412,10 +11412,10 @@ Like how much DS do you need to learn before starting with Algorithms?
 05/05/2020, 4:31 pm - Dheeraj Lalwani (TSEC, CS): <Media omitted>
 05/05/2020, 5:19 pm - Tanay Kamath (TSEC, CS): Yes I saw
 05/05/2020, 5:20 pm - Tanay Kamath (TSEC, CS): Oh
-06/05/2020, 6:25 pm - Tushar Nankani: https://codeforces.com/contests/1344,1345
+06/05/2020, 6:25 pm - Prafull singh: https://codeforces.com/contests/1344,1345
 06/05/2020, 9:32 pm - Saket (TSEC, CS): Cf Unrated XDD
 06/05/2020, 9:33 pm - Saurav Upoor (TSEC CS, SE): This message was deleted
-06/05/2020, 9:34 pm - Tushar Nankani: Such a long queue 🤯
+06/05/2020, 9:34 pm - Prafull singh: Such a long queue 🤯
 06/05/2020, 9:36 pm - Saurav Upoor (TSEC CS, SE): Was fun..trying to log in every 5 mins
 06/05/2020, 9:38 pm - +91 88305 26885: indeed
 06/05/2020, 9:43 pm - +91 77189 86205: 😂
@@ -11427,7 +11427,7 @@ Like how much DS do you need to learn before starting with Algorithms?
 06/05/2020, 9:52 pm - Pratik K (TSEC CS, SE): Contests which i don't give become unrated xD... Luck dekh rahe ho mera 😂
 06/05/2020, 9:52 pm - Saket (TSEC, CS): XDD
 06/05/2020, 9:53 pm - Saurav Upoor (TSEC CS, SE): blog k comments padho mast h
-06/05/2020, 9:57 pm - Tushar Nankani: <Media omitted>
+06/05/2020, 9:57 pm - Prafull singh: <Media omitted>
 06/05/2020, 9:58 pm - Saurav Upoor (TSEC CS, SE): 😂
 06/05/2020, 10:26 pm - Tanay Kamath (TSEC, CS): 😂
 06/05/2020, 10:56 pm - Dheeraj Lalwani (TSEC, CS): <Media omitted>
@@ -11463,7 +11463,7 @@ Thanks
 07/05/2020, 6:51 pm - Pratik K (TSEC CS, SE) added +91 91725 67828
 07/05/2020, 8:09 pm - Tanay Kamath (TSEC, CS): <Media omitted>
 07/05/2020, 10:51 pm - Harsh Kapadia (TSEC IT, SE): Yes yes
-08/05/2020, 1:00 am - Tushar Nankani: Hi Everyone! 
+08/05/2020, 1:00 am - Prafull singh: Hi Everyone! 
 People who have been wanting/thinking to start off with competitive programming, I personally think this will be a good start.
 
 As Codeforces has come up with the first ever Division 4 contest which will be held this Saturday 8th May.
@@ -11473,7 +11473,7 @@ https://codeforces.com/contests/1352
 
 And you can read more about it here:
 https://codeforces.com/blog/entry/77028
-08/05/2020, 1:01 am - Tushar Nankani: 9th May* Saturday.
+08/05/2020, 1:01 am - Prafull singh: 9th May* Saturday.
 08/05/2020, 1:36 pm - Tanay Kamath (TSEC, CS): 1) All pending semester exams (except final semester) are effectively cancelled in Maharashtra.
 2) Marks will be given according to UGC guidelines i.e. 50% marks based on this SEM internal assessment and 50% based on last semester exam performance.
 3) If you are unhappy with this Sem marks, University will announce dates for Re-Exam which will probably be a 80 mark paper (not clarified as to of how many marks the re exam will be)
@@ -11653,9 +11653,9 @@ Do have a look and lmk what y'all think!
 09/05/2020, 7:19 pm - Saket (TSEC, CS): 😂
 09/05/2020, 7:25 pm - Pratik K (TSEC CS, SE): This message was deleted
 09/05/2020, 7:25 pm - Pratik K (TSEC CS, SE): 😂😂
-09/05/2020, 7:42 pm - Tushar Nankani: 😂
-09/05/2020, 7:45 pm - Tushar Nankani: *Reminder* Starts in 20 minutes. All the best!
-09/05/2020, 7:45 pm - Tushar Nankani: Codeforces Round 640 (Div. 4) https://codeforces.com/contests/1352
+09/05/2020, 7:42 pm - Prafull singh: 😂
+09/05/2020, 7:45 pm - Prafull singh: *Reminder* Starts in 20 minutes. All the best!
+09/05/2020, 7:45 pm - Prafull singh: Codeforces Round 640 (Div. 4) https://codeforces.com/contests/1352
 09/05/2020, 7:46 pm - Pratik K (TSEC CS, SE): 💯💯
 09/05/2020, 7:59 pm - Pratik K (TSEC CS, SE): All the best guys!!
 09/05/2020, 10:06 pm - Pratik K (TSEC CS, SE): Everyone who attended the contest send problem C ka code
@@ -11668,7 +11668,7 @@ Do have a look and lmk what y'all think!
 }
 09/05/2020, 10:07 pm - Pratik K (TSEC CS, SE): Shit
 09/05/2020, 10:07 pm - Saurav Upoor (TSEC CS, SE): xD
-09/05/2020, 10:08 pm - Tushar Nankani: ```void solve()
+09/05/2020, 10:08 pm - Prafull singh: ```void solve()
 {
      ll n, k;
      cin >> n >> k;
@@ -11683,7 +11683,7 @@ Do have a look and lmk what y'all think!
      cout << ans << endl;
 }```
 09/05/2020, 10:09 pm - Pratik K (TSEC CS, SE): <Media omitted>
-09/05/2020, 10:09 pm - Tushar Nankani: Can someone send problem D's code? I was very close.
+09/05/2020, 10:09 pm - Prafull singh: Can someone send problem D's code? I was very close.
 09/05/2020, 10:09 pm - Pratik K (TSEC CS, SE): int32_t main() {
     fio
    tt {
@@ -11735,10 +11735,10 @@ Do have a look and lmk what y'all think!
 09/05/2020, 10:10 pm - Saurav Upoor (TSEC CS, SE): boring tha yaar aajka contest
 09/05/2020, 10:10 pm - Saurav Upoor (TSEC CS, SE): kuch zyada he maths tha initial questions me
 09/05/2020, 10:10 pm - Pratik K (TSEC CS, SE): Hagg diya 😂
-09/05/2020, 10:11 pm - Tushar Nankani: Problem B hua?
+09/05/2020, 10:11 pm - Prafull singh: Problem B hua?
 09/05/2020, 10:11 pm - Pratik K (TSEC CS, SE): Naah
 09/05/2020, 10:11 pm - Pratik K (TSEC CS, SE): Koi toh corner case hai
-09/05/2020, 10:11 pm - Tushar Nankani: ```void solve()
+09/05/2020, 10:11 pm - Prafull singh: ```void solve()
 {
      ll n,k;
      cin >> n >> k;
@@ -11784,13 +11784,13 @@ Do have a look and lmk what y'all think!
      }
      
 }```
-09/05/2020, 10:11 pm - Tushar Nankani: Yeah.
-09/05/2020, 10:12 pm - Tushar Nankani: This is what I wrote for B. Kaafi precisely. Kaafi time waste ho Gaya 😂
+09/05/2020, 10:11 pm - Prafull singh: Yeah.
+09/05/2020, 10:12 pm - Prafull singh: This is what I wrote for B. Kaafi precisely. Kaafi time waste ho Gaya 😂
 09/05/2020, 10:12 pm - Saurav Upoor (TSEC CS, SE): mujhe case mila jaha WA mil rha tha
 09/05/2020, 10:12 pm - Saurav Upoor (TSEC CS, SE): usse code kr hra hu abhi
 09/05/2020, 10:13 pm - Pratik K (TSEC CS, SE): yess if AC then bhej
 09/05/2020, 10:52 pm - +91 96536 93868: how did u get this formula??
-09/05/2020, 10:55 pm - Tushar Nankani: Write all numbers not divisible for some n and find the kth value for different values of  k, you'll observe a pattern.
+09/05/2020, 10:55 pm - Prafull singh: Write all numbers not divisible for some n and find the kth value for different values of  k, you'll observe a pattern.
 09/05/2020, 11:11 pm - Ankit (TSEC, CS): This message was deleted
 10/05/2020, 9:04 am - Dheeraj Lalwani (TSEC, CS): #beginner #webdev
 
@@ -11855,8 +11855,8 @@ Those are the resources that I used...
 Could you please add an apk (assuming the project is an android one - I have no app dev exp) as a release and provide it to us so that we can have a look at your app? Also, there is no README in your project. Do add one!
 10/05/2020, 9:40 pm - Mohammed (TSEC, EXTC): <Media omitted>
 10/05/2020, 9:42 pm - Darshan Rander (TSEC, IT): To-do's aren't saved!!?
-10/05/2020, 9:42 pm - Tushar Nankani: Yeah?
-10/05/2020, 9:43 pm - Tushar Nankani: Over all, the design of the application looks good. But when the app is restarted, all the to-do's are lost.
+10/05/2020, 9:42 pm - Prafull singh: Yeah?
+10/05/2020, 9:43 pm - Prafull singh: Over all, the design of the application looks good. But when the app is restarted, all the to-do's are lost.
 10/05/2020, 9:43 pm - Mohammed (TSEC, EXTC): I havent used the database
 10/05/2020, 9:43 pm - Mohammed (TSEC, EXTC): Bcoz there is no data base support
 10/05/2020, 9:44 pm - Mohammed (TSEC, EXTC): I ll do it later
@@ -11881,10 +11881,10 @@ Could you please add an apk (assuming the project is an android one - I have no 
 Any idea.
 10/05/2020, 9:51 pm - Mohammed (TSEC, EXTC): You need to learn java or kotlin first
 10/05/2020, 9:51 pm - Mohammed (TSEC, EXTC): Then XML
-10/05/2020, 9:51 pm - Tushar Nankani: <Media omitted>
+10/05/2020, 9:51 pm - Prafull singh: <Media omitted>
 10/05/2020, 9:51 pm - Mohammed (TSEC, EXTC): Hint
 10/05/2020, 9:51 pm - Mohammed (TSEC, EXTC): Yeah
-10/05/2020, 9:51 pm - Tushar Nankani: <Media omitted>
+10/05/2020, 9:51 pm - Prafull singh: <Media omitted>
 10/05/2020, 9:52 pm - Darshan Rander (TSEC, IT): Yeah so the user will know that they can type here
 10/05/2020, 9:52 pm - Mohammed (TSEC, EXTC): Hmm...
 10/05/2020, 9:52 pm - Mohammed (TSEC, EXTC): And some basics of android studio
@@ -11924,7 +11924,7 @@ Should I do both android dev and Problem Solving together?
 11/05/2020, 7:38 pm - Dheeraj Lalwani (TSEC, CS): <Media omitted>
 11/05/2020, 7:39 pm - Dheeraj Lalwani (TSEC, CS): This is the way to go!
 11/05/2020, 7:42 pm - Farhan Irani (TSEC IT, SE): Bible
-11/05/2020, 8:24 pm - Tushar Nankani: <Media omitted>
+11/05/2020, 8:24 pm - Prafull singh: <Media omitted>
 11/05/2020, 8:25 pm - Farhan Irani (TSEC IT, SE): <Media omitted>
 11/05/2020, 8:25 pm - Farhan Irani (TSEC IT, SE): let me know if there could be any improvements :)
 11/05/2020, 8:26 pm - Farhan Irani (TSEC IT, SE): 4 windows
@@ -12042,7 +12042,7 @@ Can you share?
 12/05/2020, 8:48 pm - Pratik K (TSEC CS, SE): This message was deleted
 12/05/2020, 8:48 pm - Farhan Irani (TSEC IT, SE): What's that
 12/05/2020, 8:48 pm - Darshan Rander (TSEC, IT): Site where designers post thier work
-12/05/2020, 8:49 pm - Tushar Nankani: Did you get it?
+12/05/2020, 8:49 pm - Prafull singh: Did you get it?
 12/05/2020, 8:51 pm - Pratik K (TSEC CS, SE): @918830526885 got it
 12/05/2020, 8:51 pm - Tanay Kamath (TSEC, CS): App dev along with learning a bit of DS/Algo
 12/05/2020, 8:52 pm - +91 82916 21138: Ya same
@@ -12240,9 +12240,9 @@ Kal subha pakka
 16/05/2020, 2:47 am - Darshan Rander (TSEC, IT): Bhai idher jagde hogaye teri wajah se😂
 16/05/2020, 7:45 am - +91 88284 70904: Amazing😍
 16/05/2020, 8:37 am - Farhan Irani (TSEC IT, SE): dev eds portfolio video na? too good💯😂
-16/05/2020, 9:54 am - Tushar Nankani: https://www.linkedin.com/posts/arthak_website-resume-activity-6664583841954566144-KtFK
-16/05/2020, 9:54 am - Tushar Nankani: Some really good portfolios and résumés. Hope these help!
-16/05/2020, 9:59 am - Tushar Nankani: http://www.prateeknarang.com/      A similar one^
+16/05/2020, 9:54 am - Prafull singh: https://www.linkedin.com/posts/arthak_website-resume-activity-6664583841954566144-KtFK
+16/05/2020, 9:54 am - Prafull singh: Some really good portfolios and résumés. Hope these help!
+16/05/2020, 9:59 am - Prafull singh: http://www.prateeknarang.com/      A similar one^
 16/05/2020, 11:41 am - Mohit Varma (TSEC, CS): I didn't read but..it was so awesome to swipe .. swipe😅😂🔥🔥
 16/05/2020, 12:05 pm - Darshan Rander (TSEC, IT): Ig everyone did that 😂
 16/05/2020, 12:10 pm - +91 97571 15289: This is really good
@@ -12324,7 +12324,7 @@ ARE YOU EXCITED ? 🤩
 17/05/2020, 2:25 pm - Darshan Rander (TSEC, IT): Velle he hai tp karlete hau
 17/05/2020, 2:26 pm - Tanay Kamath (TSEC, CS): C programming revise karna padega🤔
 17/05/2020, 2:29 pm - Darshan Rander (TSEC, IT): Voh revise kon karta hai😂
-17/05/2020, 2:35 pm - Tushar Nankani: Reminder:
+17/05/2020, 2:35 pm - Prafull singh: Reminder:
 2:35 - 4:35 Education CF Round 87 (Div
  2)
 4 - 5 Co(de)rantine IETE TSEC
@@ -12357,7 +12357,7 @@ Do give your reviews.😊
 18/05/2020, 8:46 am - Pratik K (TSEC CS, SE): Register for today's TSEC Mashup-16 :
 https://codeforces.com/contestInvitation/cb240ce4f2a7d978c4cb1ebc84a1f21edf9cdb45
 18/05/2020, 9:48 am - Saket (TSEC, CS): Time??
-18/05/2020, 10:06 am - Tushar Nankani: 3:05 - 5:05
+18/05/2020, 10:06 am - Prafull singh: 3:05 - 5:05
 18/05/2020, 11:44 am - Tanay Kamath (TSEC, CS): <Media omitted>
 18/05/2020, 11:44 am - Tanay Kamath (TSEC, CS): Brilliant
 18/05/2020, 11:59 am - Harsh Kapadia (TSEC IT, SE): Saw this
@@ -12369,9 +12369,9 @@ So true
 18/05/2020, 5:07 pm - Pratik K (TSEC CS, SE): Solutions :https://codeforces.com/blog/entry/65396
 18/05/2020, 5:10 pm - Pratik K (TSEC CS, SE): All submissions and test cases are now visible.
 18/05/2020, 5:11 pm - Pratik K (TSEC CS, SE): <Media omitted>
-18/05/2020, 8:00 pm - Tushar Nankani: https://www.topcoder.com/thrive/articles/List%20of%20awesome%20learning%20resources
-18/05/2020, 8:00 pm - Tushar Nankani: Hope this helps!!
-18/05/2020, 8:01 pm - Tushar Nankani: Covers pretty much all domains, do check it out once^
+18/05/2020, 8:00 pm - Prafull singh: https://www.topcoder.com/thrive/articles/List%20of%20awesome%20learning%20resources
+18/05/2020, 8:00 pm - Prafull singh: Hope this helps!!
+18/05/2020, 8:01 pm - Prafull singh: Covers pretty much all domains, do check it out once^
 18/05/2020, 8:03 pm - Dheeraj Lalwani (TSEC, CS): Thanks bhaoo
 18/05/2020, 8:03 pm - Dheeraj Lalwani (TSEC, CS): Bhaii*
 18/05/2020, 8:34 pm - Mohit Varma (TSEC, CS): 💯
@@ -12698,7 +12698,7 @@ Think your network might find value in this webinar!!
 Give it a share
 26/05/2020, 10:08 pm - Mohit Varma (TSEC, CS): Idk..much about GitHub..but ig it would be helpful for you..
 27/05/2020, 3:36 am - Dheeraj Lalwani (TSEC, CS): <Media omitted>
-27/05/2020, 12:18 pm - Tushar Nankani: Aarogya Setu is Open source now!
+27/05/2020, 12:18 pm - Prafull singh: Aarogya Setu is Open source now!
 You can check the source code now at
 https://github.com/nic-delhi/AarogyaSetu_Android
 27/05/2020, 12:17 pm - Tanay Kamath (TSEC, CS): 👍
@@ -13060,7 +13060,7 @@ https://codeforces.com/blog/entry/66062
 01/06/2020, 5:13 pm - +91 73043 57388: https://www.linkedin.com/posts/affan-khan-6626b9195_prepbytes-activity-6673152879978795008-zhFK
 01/06/2020, 5:14 pm - +91 73043 57388: Share and do participate
 01/06/2020, 5:21 pm - Pratik K (TSEC CS, SE): Test cases and submissions are visible now.
-01/06/2020, 5:23 pm - Tushar Nankani: Great speed and accuracy! @918830526885
+01/06/2020, 5:23 pm - Prafull singh: Great speed and accuracy! @918830526885
 01/06/2020, 5:29 pm - Saurav Upoor (TSEC CS, SE): @918830526885 orz
 01/06/2020, 9:05 pm - Harsh Kapadia (TSEC IT, SE): Hey everyone, do join this initiative!
 Our first Unfolder is going to be an amazing Developer Advocate!
@@ -13650,23 +13650,23 @@ Windows: OK then.
 10/06/2020, 6:50 pm - Kartik Soneji (TSEC, CS): You can actually run a Windows 98 program on Windows 10 and it shoud run fine.
 10/06/2020, 6:50 pm - Kartik Soneji (TSEC, CS): PS: This works for Office as well.
 10/06/2020, 7:02 pm - Harsh Kapadia (TSEC IT, SE): Woah
-12/06/2020, 9:29 am - Tushar Nankani: <Media omitted>
-12/06/2020, 9:30 am - Tushar Nankani: Hi guys!
+12/06/2020, 9:29 am - Prafull singh: <Media omitted>
+12/06/2020, 9:30 am - Prafull singh: Hi guys!
 
 I have built a To Do list website, hosted at: https://tusharjustdoit.netlify.app/
 
 It is definitely open source, you can check out the code at: https://github.com/tusharnankani/ToDoList
-12/06/2020, 9:31 am - Tushar Nankani: The mobile view is still under construction, I would recommend to view it on your PCs. Or in desktop mode, if you're viewing it on your mobile phones.
+12/06/2020, 9:31 am - Prafull singh: The mobile view is still under construction, I would recommend to view it on your PCs. Or in desktop mode, if you're viewing it on your mobile phones.
 
 Would love to receive everyone's feedback. And some constructive criticism, so the website can be built better!
 12/06/2020, 9:32 am - Darshan Rander (TSEC, IT): great work
-12/06/2020, 9:35 am - Tushar Nankani: thanks Darshan!
+12/06/2020, 9:35 am - Prafull singh: thanks Darshan!
 12/06/2020, 9:37 am - Darshan Rander (TSEC, IT): Can you add subtasks to task?
 12/06/2020, 9:37 am - +91 97571 15289: 💯
 12/06/2020, 9:43 am - +91 88284 70904: 👌🏻 Amazing💯
 12/06/2020, 9:59 am - Tanay Kamath (TSEC, CS): 💯💯
-12/06/2020, 11:44 am - Tushar Nankani: Thank you everyone! ^_^
-12/06/2020, 11:45 am - Tushar Nankani: Okay. I haven't figure out the layout yet.
+12/06/2020, 11:44 am - Prafull singh: Thank you everyone! ^_^
+12/06/2020, 11:45 am - Prafull singh: Okay. I haven't figure out the layout yet.
 12/06/2020, 11:45 am - Dheeraj Lalwani (TSEC, CS): Dude, looks are 🔥
 The type animation is killer
 12/06/2020, 11:45 am - Dheeraj Lalwani (TSEC, CS): I'm a fan🤩
@@ -13674,12 +13674,12 @@ The type animation is killer
 12/06/2020, 11:50 am - Darshan Rander (TSEC, IT): Reddit layout
 12/06/2020, 11:52 am - Prithvi Rohira (TSEC, CS): Really great work 🙌🏻
 12/06/2020, 12:17 pm - +91 81696 22410: Looks great 🔥🔥
-12/06/2020, 12:40 pm - Tushar Nankani: Thank you guys!! 🙌🏻
+12/06/2020, 12:40 pm - Prafull singh: Thank you guys!! 🙌🏻
 12/06/2020, 12:41 pm - Pratik K (TSEC CS, SE): Mastt👌🏻👌🏻
-12/06/2020, 12:43 pm - Tushar Nankani: Thanks Pratik!
+12/06/2020, 12:43 pm - Prafull singh: Thanks Pratik!
 12/06/2020, 1:25 pm - Harsh Kapadia (TSEC IT, SE): Please do make the mobile view! It's very important to make your website responsive.
 12/06/2020, 1:27 pm - Harsh Kapadia (TSEC IT, SE): Web app*
-12/06/2020, 1:37 pm - Tushar Nankani: Yes! Still working on that.
+12/06/2020, 1:37 pm - Prafull singh: Yes! Still working on that.
 12/06/2020, 4:07 pm - Harsh Kapadia (TSEC IT, SE): 👍👍
 12/06/2020, 6:29 pm - Darshan Rander (TSEC, IT): [12/06, 4:00 PM] Mudita Ma'am: Any good game developer looking for assignment ?
 [12/06, 4:00 PM] Mudita Ma'am: Tell FE also
@@ -14059,7 +14059,7 @@ How did you do it!?
 14/06/2020, 5:10 pm - Dheeraj Lalwani (TSEC, CS): Ohh
 14/06/2020, 5:10 pm - Farhan Irani (TSEC IT, SE): Tbh I picked up the boilerplate from the coding train and went from there
 14/06/2020, 5:10 pm - Tanay Kamath (TSEC, CS): Haa🤣
-14/06/2020, 5:10 pm - Tushar Nankani: This is great! 🙌🏻 @917208176024
+14/06/2020, 5:10 pm - Prafull singh: This is great! 🙌🏻 @917208176024
 14/06/2020, 5:10 pm - Dheeraj Lalwani (TSEC, CS): Don't make such mistakes 
 Especially today bhai
 14/06/2020, 5:10 pm - Farhan Irani (TSEC IT, SE): Thanks🙏
@@ -14067,7 +14067,7 @@ Especially today bhai
 14/06/2020, 5:11 pm - Dheeraj Lalwani (TSEC, CS): Yeah.
 14/06/2020, 5:11 pm - Dheeraj Lalwani (TSEC, CS): It's sad.
 14/06/2020, 5:11 pm - Dheeraj Lalwani (TSEC, CS): Really shocking.
-14/06/2020, 5:11 pm - Tushar Nankani: It is! 😔
+14/06/2020, 5:11 pm - Prafull singh: It is! 😔
 14/06/2020, 5:11 pm - Darshan Rander (TSEC, IT): Great🔥🔥
 14/06/2020, 5:12 pm - Harsh Kapadia (TSEC IT, SE): That's okay and I'm glad that you are being transparent!
 14/06/2020, 5:12 pm - Darshan Rander (TSEC, IT): Yeah😢
@@ -14087,8 +14087,8 @@ https://visualgo.net/en
 15/06/2020, 11:31 am - Pratik K (TSEC CS, SE): Register for TSEC Mashup-20 :
 
 https://codeforces.com/contestInvitation/fac788e430ec7d02439661b4388aa33f3a15c97d
-15/06/2020, 12:43 pm - Tushar Nankani: <Media omitted>
-15/06/2020, 12:44 pm - Tushar Nankani: It’s time to learn the skills you need to advance your career ⚡
+15/06/2020, 12:43 pm - Prafull singh: <Media omitted>
+15/06/2020, 12:44 pm - Prafull singh: It’s time to learn the skills you need to advance your career ⚡
 
 Progate is hosting Learning Weekend for _all students_ of the *Thadomal Shahani Engineering College*, this weekend, from _*19-21 June 2020*_!
 
@@ -14108,9 +14108,9 @@ For registration, complete both these steps:
 2) Then register here - https://bit.ly/registerforlw
 
 3) Whatsapp Group Invite Link - https://bit.ly/LW_tsec
-15/06/2020, 12:44 pm - Tushar Nankani: Hi everyone! I received an opportunity to organize a learning weekend by Progate at our college and it is completely free of cost.
-15/06/2020, 12:45 pm - Tushar Nankani: Just follow the steps given here, if you need any help with the registration or any query about this, call me anytime!
-15/06/2020, 12:46 pm - Tushar Nankani: I personally think this will be very helpful, even if you are a beginner, or looking forward to brushing up your skills. Do register for this!!
+15/06/2020, 12:44 pm - Prafull singh: Hi everyone! I received an opportunity to organize a learning weekend by Progate at our college and it is completely free of cost.
+15/06/2020, 12:45 pm - Prafull singh: Just follow the steps given here, if you need any help with the registration or any query about this, call me anytime!
+15/06/2020, 12:46 pm - Prafull singh: I personally think this will be very helpful, even if you are a beginner, or looking forward to brushing up your skills. Do register for this!!
 15/06/2020, 1:11 pm - Tanay Kamath (TSEC, CS): <Media omitted>
 15/06/2020, 1:11 pm - Tanay Kamath (TSEC, CS): <Media omitted>
 15/06/2020, 1:11 pm - Tanay Kamath (TSEC, CS): Git and Git hub summarised,found this on LinkedIn....might be helpful
@@ -14148,10 +14148,10 @@ For registration, complete both these steps:
 https://codeforces.com/blog/entry/67041
 15/06/2020, 5:08 pm - Saurav Upoor (TSEC CS, SE): <Media omitted>
 15/06/2020, 5:08 pm - Saurav Upoor (TSEC CS, SE): Well done @919987663816 👏👏
-15/06/2020, 5:13 pm - Tushar Nankani: Thank you @918408867834! 🙌🏻
+15/06/2020, 5:13 pm - Prafull singh: Thank you @918408867834! 🙌🏻
 15/06/2020, 5:19 pm - Pratik K (TSEC CS, SE): Yeah well done🤟🏻
 15/06/2020, 5:26 pm - Tanay Kamath (TSEC, CS): @919987663816 sirr!!
-15/06/2020, 5:27 pm - Tushar Nankani: Thanks Pratik! 🙌🏻
+15/06/2020, 5:27 pm - Prafull singh: Thanks Pratik! 🙌🏻
 15/06/2020, 5:27 pm - Tanay Kamath (TSEC, CS): @919987663816 Ita still beyond me ,how you manage Web dev. +Competitive programming together
 15/06/2020, 5:28 pm - Tanay Kamath (TSEC, CS): When I tried to do dev+ CP,I just  couldn't focus
 15/06/2020, 5:29 pm - Dheeraj Lalwani (TSEC, CS): Tanay, really its okay if we can't manage both.
@@ -14167,15 +14167,15 @@ Don't worry.
 15/06/2020, 5:30 pm - Dheeraj Lalwani (TSEC, CS): #ApnaTimeAayega
 15/06/2020, 5:30 pm - Tanay Kamath (TSEC, CS): 👍🤣
 15/06/2020, 5:39 pm - +91 99697 55118: If anybody has done a data/python/R etc. related project/research and wants to talk about it on Instagram Live with a data scientist alumni of tsec, hit me up
-15/06/2020, 5:48 pm - Tushar Nankani: Exactly! When I was working on Web Development, I couldn't focus on CP.
-15/06/2020, 5:49 pm - Tushar Nankani: That's why I kept switching and focused one thing at at time! Dheeraj is right @919820696178
+15/06/2020, 5:48 pm - Prafull singh: Exactly! When I was working on Web Development, I couldn't focus on CP.
+15/06/2020, 5:49 pm - Prafull singh: That's why I kept switching and focused one thing at at time! Dheeraj is right @919820696178
 15/06/2020, 6:11 pm - Tanay Kamath (TSEC, CS): ✌️👍
 15/06/2020, 6:22 pm - +91 99693 94098: Any specific domain or category?
 15/06/2020, 9:23 pm - +91 99697 55118: Nope
 16/06/2020, 12:12 am - Dheeraj Lalwani (TSEC, CS): <Media omitted>
 16/06/2020, 12:18 am - Harsh Kapadia (TSEC IT, SE): 😂
 16/06/2020, 12:54 am - Tanay Kamath (TSEC, CS): 🤣
-16/06/2020, 1:07 pm - Tushar Nankani: *Reminder*: This will be a really fun learning weekend, and you can learn the basics of Java and/or Python for free. And you'll be getting certificates for it as well!
+16/06/2020, 1:07 pm - Prafull singh: *Reminder*: This will be a really fun learning weekend, and you can learn the basics of Java and/or Python for free. And you'll be getting certificates for it as well!
 
 Though the course content will be unlocked on Friday at 00:00, but first lessons of all the courses are now unlocked. So you can check them out right now!
 Just follow the steps, and join the WhatsApp group for more updates!
@@ -14451,7 +14451,7 @@ What all did you use for the front end?
 17/06/2020, 3:04 am - Harsh Kapadia (TSEC IT, SE): Oh okay 👍
 17/06/2020, 3:04 am - Harsh Kapadia (TSEC IT, SE): Awesome work! 👏👏
 17/06/2020, 3:04 am - +91 99693 94098: Thank you!
-17/06/2020, 12:09 pm - Tushar Nankani: Hello everyone! 😁
+17/06/2020, 12:09 pm - Prafull singh: Hello everyone! 😁
 
 Do you want to *learn the skills* you need to *advance your career?* ⚡
 
@@ -14487,8 +14487,8 @@ Step 3:- Join the group for updates and queries :-
 https://bit.ly/LW_tsec
 
 Happy learning!! 😁👍
-17/06/2020, 12:09 pm - Tushar Nankani: <Media omitted>
-17/06/2020, 12:22 pm - Tushar Nankani: This will be a really fun and interactive learning weekend!
+17/06/2020, 12:09 pm - Prafull singh: <Media omitted>
+17/06/2020, 12:22 pm - Prafull singh: This will be a really fun and interactive learning weekend!
 
 The first lessons are unlocked. You can start doing it right now to get a headstart! 
 Check them out right away!
@@ -14499,7 +14499,7 @@ https://www.instagram.com/tv/CBicSl8h046/?utm_source=ig_web_copy_link
 17/06/2020, 8:52 pm - +91 98337 47258: https://drive.google.com/folderview?id=0ByWO0aO1eI_MQkh1NTF1MXhYaEk
 17/06/2020, 9:15 pm - +91 73043 57388: Gold
 17/06/2020, 9:16 pm - +91 73043 57388: Thanks
-18/06/2020, 12:51 pm - Tushar Nankani: *Reminder*: 1 day to go. The courses of Python and Java will be unlocked tonight. You can register right now, and start the first lessons right away!
+18/06/2020, 12:51 pm - Prafull singh: *Reminder*: 1 day to go. The courses of Python and Java will be unlocked tonight. You can register right now, and start the first lessons right away!
 
 Happy coding!
 18/06/2020, 3:50 pm - +91 99693 94098: <Media omitted>
@@ -14665,10 +14665,10 @@ https://github.com/navaniharsh31/whatsapp-bot
 22/06/2020, 10:52 am - Saurav Upoor (TSEC CS, SE): This message was deleted
 22/06/2020, 10:58 am - Saurav Upoor (TSEC CS, SE): Mashup 21 (Today 3:15-5:15pm):
 https://codeforces.com/contestInvitation/b16a2791ce1f9af7036f49fcf298f7f4dc4cdbcc
-22/06/2020, 11:17 am - Tushar Nankani: 🙌🏻👏🏻 amazing! @918879805171
+22/06/2020, 11:17 am - Prafull singh: 🙌🏻👏🏻 amazing! @918879805171
 22/06/2020, 1:20 pm - Tanay Kamath (TSEC, CS): 🔥🔥🔥
 22/06/2020, 1:35 pm - Rishab Saini (TSEC CS, TE): Nice 🔥
-22/06/2020, 3:06 pm - Tushar Nankani: Reminder: Starts in 10 minutes.
+22/06/2020, 3:06 pm - Prafull singh: Reminder: Starts in 10 minutes.
 22/06/2020, 3:09 pm - Dheeraj Lalwani (TSEC, CS): Guys, need yr reviews on :
 
 https://repl.it
@@ -14688,9 +14688,9 @@ Or should I try it ouy?
 22/06/2020, 3:15 pm - Kartik Soneji (TSEC, CS): <Media omitted>
 22/06/2020, 3:16 pm - Dheeraj Lalwani (TSEC, CS): Its great!
 22/06/2020, 3:23 pm - Saurav Upoor (TSEC CS, SE): Anyone else facing issues with the contest?
-22/06/2020, 3:27 pm - Tushar Nankani: Yes.
+22/06/2020, 3:27 pm - Prafull singh: Yes.
 22/06/2020, 3:27 pm - Saurav Upoor (TSEC CS, SE): New round starting at 3:45 pm
-22/06/2020, 3:27 pm - Tushar Nankani: It says contest not started.
+22/06/2020, 3:27 pm - Prafull singh: It says contest not started.
 22/06/2020, 3:36 pm - Saurav Upoor (TSEC CS, SE): This message was deleted
 22/06/2020, 3:48 pm - Pratik K (TSEC CS, SE): New Round, Starts at 4:00 pm : 
 https://codeforces.com/contestInvitation/0ce1c40818faf032c2ee48fce643646194642ad1
@@ -14979,9 +14979,9 @@ And, I am really proud to have all of you amazing people in my circle!
 26/06/2020, 2:32 pm - Pratik K (TSEC CS, SE): <Media omitted>
 26/06/2020, 2:33 pm - Tanay Kamath (TSEC, CS): 💯🔥
 26/06/2020, 2:57 pm - Harsh Kapadia (TSEC IT, SE): Well said!
-26/06/2020, 7:47 pm - Tushar Nankani: You deleted this message
-26/06/2020, 7:47 pm - Tushar Nankani: <Media omitted>
-26/06/2020, 7:47 pm - Tushar Nankani: Hi guys!
+26/06/2020, 7:47 pm - Prafull singh: You deleted this message
+26/06/2020, 7:47 pm - Prafull singh: <Media omitted>
+26/06/2020, 7:47 pm - Prafull singh: Hi guys!
 
 I have built a Simple Analog Clock hosted at: https://tusharnankani.github.io/AnalogClock/
 
@@ -15003,13 +15003,13 @@ It is open source, I have tried to make the repository descriptive, you can chec
 Mind if I steal the idea?
 26/06/2020, 8:42 pm - Darshan Rander (TSEC, IT): Neuomorphic na??
 26/06/2020, 8:42 pm - Darshan Rander (TSEC, IT): 🔥🔥
-26/06/2020, 8:43 pm - Tushar Nankani: Thank you so much guys! 🙌🏻 Means a lot! ^_^
-26/06/2020, 8:43 pm - Tushar Nankani: It's all yours 😂🙌🏻
-26/06/2020, 8:43 pm - Tushar Nankani: Yes. Tried adding it for the first time!
+26/06/2020, 8:43 pm - Prafull singh: Thank you so much guys! 🙌🏻 Means a lot! ^_^
+26/06/2020, 8:43 pm - Prafull singh: It's all yours 😂🙌🏻
+26/06/2020, 8:43 pm - Prafull singh: Yes. Tried adding it for the first time!
 26/06/2020, 8:43 pm - Darshan Rander (TSEC, IT): Sidha fork karle
 26/06/2020, 8:44 pm - Darshan Rander (TSEC, IT): I tried making an app using it
 26/06/2020, 8:44 pm - +91 97681 67131: What’s neumorphic ui ?? Is it a flutter thing??
-26/06/2020, 8:45 pm - Tushar Nankani: I have added a reference for Neomorphism in the Repository's README. Check them out!
+26/06/2020, 8:45 pm - Prafull singh: I have added a reference for Neomorphism in the Repository's README. Check them out!
 26/06/2020, 8:45 pm - +91 97681 67131: 👍
 26/06/2020, 8:52 pm - Darshan Rander (TSEC, IT): It is not related to any framework or anything it is just a design form
 26/06/2020, 8:56 pm - +91 97681 67131: Got it 😂 My bad I thought u are there so flutter.. web development 😂😂
@@ -15134,7 +15134,7 @@ No need to register again if you have already registered last week.
 29/06/2020, 2:08 pm - +91 97739 65140: <Media omitted>
 29/06/2020, 2:27 pm - Darshan Rander (TSEC, IT): 😂😂
 29/06/2020, 2:39 pm - Harsh Kapadia (TSEC IT, SE): 😂
-29/06/2020, 3:04 pm - Tushar Nankani: *Reminder*
+29/06/2020, 3:04 pm - Prafull singh: *Reminder*
 29/06/2020, 5:13 pm - Saurav Upoor (TSEC CS, SE): https://codeforces.com/blog/entry/5251
 
 https://codeforces.com/blog/entry/24160?locale=en
@@ -15424,7 +15424,7 @@ Where does that holds weight?
 04/07/2020, 8:44 am - +91 88284 70904: I still struggle with this and it's terrible😂
 04/07/2020, 10:04 am - Harsh Kapadia (TSEC IT, SE): 😂
 04/07/2020, 11:52 am - Vivek Iyer (TSEC, Biomed): This message was deleted
-04/07/2020, 12:21 pm - Tushar Nankani: 😂
+04/07/2020, 12:21 pm - Prafull singh: 😂
 04/07/2020, 12:42 pm - +91 73043 57388: Anyone here doing long challenge
 04/07/2020, 12:46 pm - Vivek Iyer (TSEC, Biomed): *Ran out of things to do at home? How about you start exploring your passion!*
 
@@ -15537,7 +15537,7 @@ Available languages
 05/07/2020, 1:26 pm - Tanay Kamath (TSEC, CS): Tera toh aur mushkil, flutter community is not so big
 05/07/2020, 1:26 pm - Darshan Rander (TSEC, IT): Ik re😭😂
 05/07/2020, 1:27 pm - Darshan Rander (TSEC, IT): But issbar mil gaye
-05/07/2020, 1:28 pm - Tushar Nankani: #DevArmy
+05/07/2020, 1:28 pm - Prafull singh: #DevArmy
 Welcome to the Dev Army! This group is to help each others. If you've joined recently, checkout #Onboarding before doing anything else.
 Cheers,
 #AkshaySaini
@@ -15545,8 +15545,8 @@ https://t.me/joinsimran
 05/07/2020, 1:29 pm - Darshan Rander (TSEC, IT): Haa ik this..
 05/07/2020, 1:29 pm - +91 97681 67131: Hmm i know, u lucked out.. 😂
 05/07/2020, 1:30 pm - +91 82916 21138: Ya upar se app development community is very small in all
-05/07/2020, 1:30 pm - Tushar Nankani: You deleted this message
-05/07/2020, 1:30 pm - Tushar Nankani: Join this on Telegram. You can use #needSimran if you need team members for a specific project. There are a bunch of hashtags you can use as well, like #LinkedInReview or #ResumeReview
+05/07/2020, 1:30 pm - Prafull singh: You deleted this message
+05/07/2020, 1:30 pm - Prafull singh: Join this on Telegram. You can use #needSimran if you need team members for a specific project. There are a bunch of hashtags you can use as well, like #LinkedInReview or #ResumeReview
 05/07/2020, 1:31 pm - Darshan Rander (TSEC, IT): Actually it is not that small but the thing is not much people around us are not or we don't know how to find them...
 05/07/2020, 1:31 pm - +91 82916 21138: Yaa true
 05/07/2020, 1:31 pm - +91 97681 67131: Yup.. I agree.. Humara Connections mai nahi hai shayad bohot log..
@@ -15631,7 +15631,7 @@ Do join and support them 🙌🏻
 05/07/2020, 2:42 pm - +91 82916 21138: Yes congratulations
 05/07/2020, 2:42 pm - Darshan Rander (TSEC, IT): Without my codevengers it was not possible
 05/07/2020, 2:44 pm - +91 77000 27264: This message was deleted
-05/07/2020, 3:07 pm - Tushar Nankani: Congratulations @917738557601  @918976407509 🙌🏻👏🏻
+05/07/2020, 3:07 pm - Prafull singh: Congratulations @917738557601  @918976407509 🙌🏻👏🏻
 05/07/2020, 3:08 pm - +91 89764 07509: Thank You Tushar
 05/07/2020, 3:08 pm - Darshan Rander (TSEC, IT): Thanks bro
 05/07/2020, 3:10 pm - +91 97681 67131: Congratulations @917738557601 @918976407509 !! Jeet Ke Aanna...
@@ -15681,9 +15681,9 @@ Thanks anyways 😅
 07/07/2020, 1:24 am - Dheeraj Lalwani (TSEC, CS): No no,
 I'm talking about Django 
 Class based SQL tables for backend
-07/07/2020, 1:48 am - Tushar Nankani: This type of regex probably means it should start with _aeiou._
-07/07/2020, 1:51 am - Tushar Nankani: And it should probably be ```^[aeiou]```. I am not too sure.
-07/07/2020, 1:55 am - Tushar Nankani: https://dev.mysql.com/doc/refman/5.7/en/regexp.html#operator_regexp
+07/07/2020, 1:48 am - Prafull singh: This type of regex probably means it should start with _aeiou._
+07/07/2020, 1:51 am - Prafull singh: And it should probably be ```^[aeiou]```. I am not too sure.
+07/07/2020, 1:55 am - Prafull singh: https://dev.mysql.com/doc/refman/5.7/en/regexp.html#operator_regexp
 
 Refer this for more^
 07/07/2020, 1:56 am - Dheeraj Lalwani (TSEC, CS): <Media omitted>
@@ -15710,7 +15710,7 @@ notepad will open README.md in notepad.
 07/07/2020, 7:21 pm - Tanay Kamath (TSEC, CS): Ohk👍
 07/07/2020, 8:04 pm - Tanay Kamath (TSEC, CS): <Media omitted>
 07/07/2020, 8:07 pm - +91 82080 03744: Thanks🙌
-07/07/2020, 8:22 pm - Tushar Nankani: <Media omitted>
+07/07/2020, 8:22 pm - Prafull singh: <Media omitted>
 07/07/2020, 8:23 pm - Kartik Soneji (TSEC, CS): Basically, TLE.
 07/07/2020, 8:23 pm - Kartik Soneji (TSEC, CS): The program did not compile/start on time.
 07/07/2020, 8:23 pm - Kartik Soneji (TSEC, CS): But it is not the program's fault.
@@ -15722,7 +15722,7 @@ notepad will open README.md in notepad.
 I'm not sure why is it not WA instead of Idleness limit exceeded. My guess is that interaction program expects a newline and thus keeps on waiting for your program.
 07/07/2020, 9:21 pm - Pratik K (TSEC CS, SE): cf blog
 07/07/2020, 9:31 pm - Tanay Kamath (TSEC, CS): <Media omitted>
-07/07/2020, 9:32 pm - Tushar Nankani: Ohh okay! Got it. Thank you! @918080142783 @918408867834 @919689727471
+07/07/2020, 9:32 pm - Prafull singh: Ohh okay! Got it. Thank you! @918080142783 @918408867834 @919689727471
 07/07/2020, 9:36 pm - +91 98670 44401: This message was deleted
 07/07/2020, 9:37 pm - +91 98670 44401: Anybody knows how to solve this in git
 I did git Init and then it came that it's been reinitialized
@@ -15987,11 +15987,11 @@ But for dpkg, you have to manually download git.deb, curl.deb, etc. and install 
 11/07/2020, 12:52 am - Darshan Rander (TSEC, IT): 😂😂👍 lockdown kafi lamba chala nhi
 11/07/2020, 12:52 am - Tanay Kamath (TSEC, CS): 😂
 11/07/2020, 12:52 am - Harsh Kapadia (TSEC IT, SE): Haha
-11/07/2020, 12:57 am - Tushar Nankani: You deleted this message
-11/07/2020, 12:57 am - Tushar Nankani: Do join in for this live stream everyone! A lot of participants, from our college, will be presenting their solutions to real life problem statements. It will be a great learning experience!
+11/07/2020, 12:57 am - Prafull singh: You deleted this message
+11/07/2020, 12:57 am - Prafull singh: Do join in for this live stream everyone! A lot of participants, from our college, will be presenting their solutions to real life problem statements. It will be a great learning experience!
 11/07/2020, 12:57 am - Dheeraj Lalwani (TSEC, CS): Yes!
 11/07/2020, 12:58 am - Harsh Kapadia (TSEC IT, SE): Definitely!
-11/07/2020, 10:15 am - Tushar Nankani: *Reminder*
+11/07/2020, 10:15 am - Prafull singh: *Reminder*
 
 Today:
 5:30pm - 7:10pm AtCoder's Contest
@@ -16051,7 +16051,7 @@ For any further queries, feel free to contact:
 *Eshanika Mehta: +91 98673 31228*
 
 Cheers to continuous learning and upgrading!
-12/07/2020, 3:06 pm - Tushar Nankani: https://youtu.be/0dYJ3GJwcBo
+12/07/2020, 3:06 pm - Prafull singh: https://youtu.be/0dYJ3GJwcBo
 12/07/2020, 3:09 pm - Harsh Kapadia (TSEC IT, SE): Join in!
 12/07/2020, 7:43 pm - Tanay Kamath (TSEC, CS): https://youtu.be/h9QNUcrjtOs
 12/07/2020, 7:43 pm - Tanay Kamath (TSEC, CS): this is awsm😂
@@ -16115,7 +16115,7 @@ https://instagram.com/ims_mumbai?igshid=13xicaa125oqn
 14/07/2020, 11:48 am - Dheeraj Lalwani (TSEC, CS): Please re-tweet guys.
 
 https://twitter.com/DhiruCodes/status/1282917842220810240?s=09
-14/07/2020, 3:01 pm - Tushar Nankani: <Media omitted>
+14/07/2020, 3:01 pm - Prafull singh: <Media omitted>
 14/07/2020, 3:10 pm - +91 80979 84068: 🔥🔥🔥
 14/07/2020, 3:10 pm - +91 97027 04646: 😍😍😍
 14/07/2020, 3:11 pm - Pratik K (TSEC CS, SE): 🙌🏻🙌🏻
@@ -16149,7 +16149,7 @@ Link for applying : https://bit.ly/2ZcPPOw
 14/07/2020, 8:38 pm - +91 82916 21138: I came across this 🔥
 14/07/2020, 8:39 pm - Dheeraj Lalwani (TSEC, CS): Yup....
 14/07/2020, 8:39 pm - Dheeraj Lalwani (TSEC, CS): It's a great idea!
-14/07/2020, 8:39 pm - Tushar Nankani: Yesss. Even I saw this! 🤯
+14/07/2020, 8:39 pm - Prafull singh: Yesss. Even I saw this! 🤯
 14/07/2020, 8:40 pm - +91 82916 21138: Many companies are using such ideas like Microsoft Excel made a new feature they click picture of a table and it gets converted to a spreadsheet
 14/07/2020, 8:42 pm - Tanay Kamath (TSEC, CS): 💯🔥
 14/07/2020, 8:43 pm - Tanay Kamath (TSEC, CS): *sad web dev. crying noises *
@@ -16382,7 +16382,7 @@ Except this you can learn JSF and Webservices for better knowledge and work
 
 https://codeforces.com/contestInvitation/e4ac33594b7e000b9ee171648a658d52ce42a3f8
 18/07/2020, 1:00 pm - +91 97694 89970: 👌🏼🙌🏼💯
-18/07/2020, 1:05 pm - Tushar Nankani: <Media omitted>
+18/07/2020, 1:05 pm - Prafull singh: <Media omitted>
 18/07/2020, 1:10 pm - Harsh Kapadia (TSEC IT, SE): Lol
 18/07/2020, 1:13 pm - Tanay Kamath (TSEC, CS): 👍
 18/07/2020, 5:26 pm - Saurav Upoor (TSEC CS, SE): https://codeforces.com/blog/entry/63961
@@ -16463,7 +16463,7 @@ Maybe, just a marketing stunt.
 19/07/2020, 12:55 pm - Darshan Rander (TSEC, IT): Yaa this is what i think😂😂
 19/07/2020, 12:56 pm - Tanay Kamath (TSEC, CS): Microsoft showing is paisa
 19/07/2020, 12:56 pm - Tanay Kamath (TSEC, CS): Its*
-19/07/2020, 1:07 pm - Tushar Nankani: <Media omitted>
+19/07/2020, 1:07 pm - Prafull singh: <Media omitted>
 19/07/2020, 1:07 pm - Dheeraj Lalwani (TSEC, CS): Yes
 19/07/2020, 1:07 pm - Dheeraj Lalwani (TSEC, CS): Now our projects will speak.
 19/07/2020, 2:02 pm - Tanay Kamath (TSEC, CS): Guys I had a security issue
@@ -16608,7 +16608,7 @@ Needed to add 2 columns
 
 Watch carefully 😂😂😂
 20/07/2020, 6:11 pm - Saurav Upoor (TSEC CS, SE): 😂😂
-20/07/2020, 6:31 pm - Tushar Nankani: 😂
+20/07/2020, 6:31 pm - Prafull singh: 😂
 20/07/2020, 7:42 pm - Saket (TSEC, CS): 🤣
 20/07/2020, 10:13 pm - Darshan Rander (TSEC, IT): <Media omitted>
 20/07/2020, 11:35 pm - Harsh Kapadia (TSEC IT, SE): 😂
@@ -16665,7 +16665,7 @@ int check(int x) {
 22/07/2020, 5:31 pm - Kartik Soneji (TSEC, CS): Wait, is 10e9 + 7 prime?
 22/07/2020, 5:31 pm - Pratik K (TSEC CS, SE): Yes it will
 22/07/2020, 5:31 pm - Pratik K (TSEC CS, SE): yeah
-22/07/2020, 5:31 pm - Tushar Nankani: Yes.
+22/07/2020, 5:31 pm - Prafull singh: Yes.
 22/07/2020, 5:31 pm - Kartik Soneji (TSEC, CS): Ah, then yes.
 22/07/2020, 5:32 pm - Pratik K (TSEC CS, SE): Here I have optimized it. Consider any number N, if its not prime then it'll definitely have a factor <= sqrt(N)
 22/07/2020, 5:33 pm - Pratik K (TSEC CS, SE): so Time Complexity is O(sqrt(n))
@@ -16788,12 +16788,12 @@ Hurry up and register here : https://internshala.com/get-set-intern?utm_source=r
 30/07/2020, 12:28 pm - +91 82916 21138: <Media omitted>
 30/07/2020, 12:28 pm - +91 82916 21138: So true
 30/07/2020, 1:57 pm - Dheeraj Lalwani (TSEC, CS): <Media omitted>
-30/07/2020, 3:57 pm - Tushar Nankani: https://m.timesofindia.com/home/education/news/national-education-policy-2020-all-you-need-to-know/articleshow/77239854.cms
+30/07/2020, 3:57 pm - Prafull singh: https://m.timesofindia.com/home/education/news/national-education-policy-2020-all-you-need-to-know/articleshow/77239854.cms
 30/07/2020, 3:58 pm - Dheeraj Lalwani (TSEC, CS): Saw this
-30/07/2020, 3:58 pm - Tushar Nankani: This education policy is such a huge step. I hope it's implemented well.
+30/07/2020, 3:58 pm - Prafull singh: This education policy is such a huge step. I hope it's implemented well.
 30/07/2020, 3:58 pm - Dheeraj Lalwani (TSEC, CS): Basically,  all good things happen, when we leave 🤷🏻‍♂️
-30/07/2020, 3:59 pm - Tushar Nankani: But still, for a greater good.
-30/07/2020, 4:00 pm - Tushar Nankani: <Media omitted>
+30/07/2020, 3:59 pm - Prafull singh: But still, for a greater good.
+30/07/2020, 4:00 pm - Prafull singh: <Media omitted>
 30/07/2020, 4:01 pm - +91 82916 21138: Yeah saw this and happy too but let's see how they implement things
 30/07/2020, 11:24 pm - Harsh Kapadia (TSEC IT, SE): <Media omitted>
 30/07/2020, 11:25 pm - Harsh Kapadia (TSEC IT, SE): 😂😂😂
@@ -16827,7 +16827,7 @@ Dil ki baat bol raha hai
 Unpopular opinion by Bjarne Stroustrup: The Creator Of C++
 02/08/2020, 6:19 pm - Tanay Kamath (TSEC, CS): https://youtu.be/Qba57EgF5GA
 02/08/2020, 6:19 pm - Tanay Kamath (TSEC, CS): on point
-02/08/2020, 7:28 pm - Tushar Nankani: _Bored of sitting in this never-ending quarantine?_ 
+02/08/2020, 7:28 pm - Prafull singh: _Bored of sitting in this never-ending quarantine?_ 
 
 _Tired of having boring weekends?_ 
 
@@ -16889,7 +16889,7 @@ Will try this
 03/08/2020, 4:45 pm - Kartik Soneji (TSEC, CS): Technically, Deno.js should be Deno.ts.
 03/08/2020, 6:19 pm - Harsh Kapadia (TSEC IT, SE): It's just Deno, right?
 03/08/2020, 6:20 pm - Darshan Rander (TSEC, IT): That's what i was thinking😅
-03/08/2020, 6:31 pm - Tushar Nankani: Technically, both seem right.
+03/08/2020, 6:31 pm - Prafull singh: Technically, both seem right.
 03/08/2020, 6:48 pm - Darshan Rander (TSEC, IT): This sounds better😂
 04/08/2020, 4:33 pm - Rishab Saini (TSEC CS, TE): Greeting from the All India Council for Technical Education..!!
 
@@ -16924,8 +16924,8 @@ https://github.com/gauravraj0510/PopChat/releases/download/PopChat-v1.0/PopChat-
 05/08/2020, 5:28 pm - Tanay Kamath (TSEC, CS): Oh brilliant💯
 05/08/2020, 5:29 pm - Trushant Narwani (TSEC, CS): Great stuff! 👍🏼
 05/08/2020, 5:33 pm - +91 99676 84479: Thank you
-05/08/2020, 5:40 pm - Tushar Nankani: Brilliant work, Gaurav! 👏🏻🙌🏻
-05/08/2020, 5:41 pm - Tushar Nankani: I have opened an issue, do have look and let me know about it!
+05/08/2020, 5:40 pm - Prafull singh: Brilliant work, Gaurav! 👏🏻🙌🏻
+05/08/2020, 5:41 pm - Prafull singh: I have opened an issue, do have look and let me know about it!
 05/08/2020, 5:42 pm - +91 99676 84479: Okayy
 05/08/2020, 5:42 pm - +91 99676 84479: I will check and get back to you
 05/08/2020, 5:44 pm - Prithvi Rohira (TSEC, CS): Really Nice
@@ -17093,13 +17093,13 @@ Desktop app is goooood
 07/08/2020, 10:44 am - Tanay Kamath (TSEC, CS): 🔥💯
 07/08/2020, 10:46 am - +91 88284 70904: Wow
 07/08/2020, 10:48 am - Harsh Kapadia (TSEC IT, SE): <Media omitted>
-07/08/2020, 10:58 am - Tushar Nankani: U N I T Y
+07/08/2020, 10:58 am - Prafull singh: U N I T Y
 07/08/2020, 10:58 am - +91 73043 57388: Desktop app or web app
-07/08/2020, 10:59 am - Tushar Nankani: It's not that easy. Someone has to start.
+07/08/2020, 10:59 am - Prafull singh: It's not that easy. Someone has to start.
 07/08/2020, 10:59 am - +91 73043 57388: Fees should be reduced by 20 %
 07/08/2020, 10:59 am - Darshan Rander (TSEC, IT): College or profit nhi bana raha hai😂😂😂😂😂😂
 07/08/2020, 11:00 am - Darshan Rander (TSEC, IT): True....
-07/08/2020, 11:00 am - Tushar Nankani: Look at the subject 😂👀
+07/08/2020, 11:00 am - Prafull singh: Look at the subject 😂👀
 07/08/2020, 11:01 am - Tanay Kamath (TSEC, CS): lol
 07/08/2020, 11:02 am - Tanay Kamath (TSEC, CS): might as well have included some memes too😂
 07/08/2020, 11:02 am - Pratik K (TSEC CS, SE): Yesss
@@ -17115,8 +17115,8 @@ Desktop app is goooood
 07/08/2020, 11:13 am - +91 73043 57388: College should start giving money to students
 07/08/2020, 11:14 am - Farhan Irani (TSEC IT, SE): Khan affan for Principal
 07/08/2020, 11:15 am - +91 98337 47258: <Media omitted>
-07/08/2020, 11:16 am - Tushar Nankani: Yes. Installments can be a better alternative.
-07/08/2020, 12:22 pm - Tushar Nankani: <Media omitted>
+07/08/2020, 11:16 am - Prafull singh: Yes. Installments can be a better alternative.
+07/08/2020, 12:22 pm - Prafull singh: <Media omitted>
 07/08/2020, 2:09 pm - +91 73043 57388: Hello everyone
 
 Mera ek query tha
@@ -17163,7 +17163,7 @@ Is it possible to dynamically create DIV element for each JSON object retrieved?
 07/08/2020, 4:56 pm - Kartik Soneji (TSEC, CS): Yes, you can first create a div, add all the children and the append it to the document once.
 07/08/2020, 6:03 pm - +91 90822 59476: How to host a website on xammp server to make it accessible from anywhere?
 07/08/2020, 6:13 pm - Kartik Soneji (TSEC, CS): You have to host it on a cloud provider's server.
-07/08/2020, 6:21 pm - Tushar Nankani: https://www.apachefriends.org/hosting.html
+07/08/2020, 6:21 pm - Prafull singh: https://www.apachefriends.org/hosting.html
 07/08/2020, 6:21 pm - +91 90822 59476: 👍
 08/08/2020, 2:32 pm - +91 82916 21138: Can anyone send me a PDF of a good book for data structures and algorithms and a good course too also I wanted on operating system too 😅
 08/08/2020, 2:33 pm - Pratik K (TSEC CS, SE): Dasgupta-Vazirani (DS & Algo) Book:
@@ -17240,7 +17240,7 @@ https://teams.microsoft.com/l/team/19%3ad1c2ea7187114f06ba5d5860dfda39af%40threa
 10/08/2020, 12:45 pm - Darshan Rander (TSEC, IT): Binod fan club bhi banade😂
 10/08/2020, 12:45 pm - Kartik Soneji (TSEC, CS): Not stable 😂
 10/08/2020, 12:46 pm - Darshan Rander (TSEC, IT): 😂
-10/08/2020, 12:47 pm - Tushar Nankani: 😂👏🏻
+10/08/2020, 12:47 pm - Prafull singh: 😂👏🏻
 10/08/2020, 4:11 pm - Tanay Kamath (TSEC, CS): https://www.linkedin.com/posts/verma-khushboo_i-received-500-requests-for-resume-review-activity-6698124808229580800-h5Gz
 10/08/2020, 4:11 pm - Tanay Kamath (TSEC, CS): Have a look everybody💯
 10/08/2020, 4:11 pm - Tanay Kamath (TSEC, CS): Great tips
@@ -17449,8 +17449,8 @@ So much to learn!
 11/08/2020, 10:08 pm - Kartik Soneji (TSEC, CS): Are you sure?
 11/08/2020, 10:08 pm - Kartik Soneji (TSEC, CS): A 1TB SSD is *not* cheap.
 11/08/2020, 10:10 pm - Chirag Sharma (TSEC, CS): Yeah
-11/08/2020, 10:11 pm - Tushar Nankani: 1TB SATA is 1 TB SSD?
-11/08/2020, 10:12 pm - Tushar Nankani: According to what I have read, for gaming laptops, 512 SSD and 4 GB graphic card would work the best.
+11/08/2020, 10:11 pm - Prafull singh: 1TB SATA is 1 TB SSD?
+11/08/2020, 10:12 pm - Prafull singh: According to what I have read, for gaming laptops, 512 SSD and 4 GB graphic card would work the best.
 11/08/2020, 10:12 pm - Chirag Sharma (TSEC, CS): Wait I am confused. What I have seen mostly are the ones with 1TB hddand 256 GB SSD.
 
 This one laptop says 1TB SATA
@@ -17463,7 +17463,7 @@ This one laptop says 1TB SATA
 11/08/2020, 10:22 pm - Tanay Kamath (TSEC, CS) added +91 93728 12301
 11/08/2020, 10:22 pm - Kartik Soneji (TSEC, CS): 100%
 11/08/2020, 10:22 pm - +91 93728 12301 left
-11/08/2020, 10:23 pm - Tushar Nankani: If portability won't be an issue, then definitely go ahead with PC.
+11/08/2020, 10:23 pm - Prafull singh: If portability won't be an issue, then definitely go ahead with PC.
 11/08/2020, 10:26 pm - Chirag Sharma (TSEC, CS): Okay guys. Thanks
 11/08/2020, 10:30 pm - Darshan Rander (TSEC, IT): True
 12/08/2020, 12:47 am - +91 97027 35002: I would say dont buy a laptop for gaming it'll be a waste in an year or so
@@ -17734,7 +17734,7 @@ Curious? Want to register? Want to see a cool a video?
 Check out our website: 👇🏼👇🏼👇🏼
 https://workshop.research-etal.com
 13/08/2020, 6:21 pm - Harsh Kapadia (TSEC IT, SE): <Media omitted>
-13/08/2020, 6:42 pm - Tushar Nankani: Absolute beauty.
+13/08/2020, 6:42 pm - Prafull singh: Absolute beauty.
 13/08/2020, 6:48 pm - Darshan Rander (TSEC, IT): @919820696178 iske liye apps bana socho🤔😳
 13/08/2020, 6:51 pm - +91 88284 70904: 😍
 13/08/2020, 6:59 pm - Tanay Kamath (TSEC, CS): Damn too much
@@ -18233,7 +18233,7 @@ Roll number 31 ...
 24/08/2020, 12:06 pm - Dheeraj Lalwani (TSEC, CS): 😂😂😂
 24/08/2020, 12:06 pm - Tanay Kamath (TSEC, CS): lol yes
 24/08/2020, 12:06 pm - Dheeraj Lalwani (TSEC, CS): F
-24/08/2020, 12:26 pm - Tushar Nankani: Exactly.
+24/08/2020, 12:26 pm - Prafull singh: Exactly.
 24/08/2020, 12:27 pm - Harsh Kapadia (TSEC IT, SE): 😂😂😂
 24/08/2020, 12:33 pm - Pratik K (TSEC CS, SE): 💯💯💯💯💯💯💯💯💯
 24/08/2020, 12:52 pm - Darshan Rander (TSEC, IT): Kya IT walo ke liye bhi valid hai ye?😅
@@ -18291,7 +18291,7 @@ DSA
 24/08/2020, 1:18 pm - +91 97027 35002: The college was the first engineering college affiliated to the University of Mumbai to start the following course:
 
 Bachelor of Engineering in Computer Engineering
-24/08/2020, 1:19 pm - Tushar Nankani: IT has PCE again?
+24/08/2020, 1:19 pm - Prafull singh: IT has PCE again?
 24/08/2020, 1:19 pm - +91 97027 35002: What?
 24/08/2020, 1:19 pm - +91 97027 35002: No no no more ks different pce
 24/08/2020, 1:19 pm - Tanay Kamath (TSEC, CS): its different
@@ -18327,7 +18327,7 @@ Bachelor of Engineering in Computer Engineering
 24/08/2020, 1:33 pm - Farhan Irani (TSEC IT, SE): <Media omitted>
 24/08/2020, 1:33 pm - Tanay Kamath (TSEC, CS): Respect💯👏
 24/08/2020, 1:34 pm - Farhan Irani (TSEC IT, SE): Balls lagta hein
-24/08/2020, 1:34 pm - Tushar Nankani: Damn straight.
+24/08/2020, 1:34 pm - Prafull singh: Damn straight.
 24/08/2020, 1:34 pm - Dheeraj Lalwani (TSEC, CS): Respect + infinity
 24/08/2020, 1:34 pm - Farhan Irani (TSEC IT, SE): True
 24/08/2020, 1:34 pm - Tanay Kamath (TSEC, CS): outcome?
@@ -18338,7 +18338,7 @@ Bachelor of Engineering in Computer Engineering
 24/08/2020, 1:37 pm - Farhan Irani (TSEC IT, SE): still don't know
 24/08/2020, 1:37 pm - Farhan Irani (TSEC IT, SE): but I love democracy
 24/08/2020, 1:37 pm - Farhan Irani (TSEC IT, SE): I'll keep you guys updated
-24/08/2020, 1:38 pm - Tushar Nankani: 😂👏🏻
+24/08/2020, 1:38 pm - Prafull singh: 😂👏🏻
 24/08/2020, 1:38 pm - +91 84335 18102: 😂😂😂
 24/08/2020, 1:39 pm - Dheeraj Lalwani (TSEC, CS): 😂😂🤘🏻🔥💯
 24/08/2020, 1:40 pm - Dheeraj Lalwani (TSEC, CS): Hell yeah 💯🔥😂😂🤘🏻
@@ -18403,7 +18403,7 @@ DBMS: Do the SQL vid that I shared. I would not recommend a book. Use Techmax.
 24/08/2020, 3:27 pm - Harsh Kapadia (TSEC IT, SE): <Media omitted>
 24/08/2020, 3:28 pm - +91 82916 40581: Okay 
 thanks
-24/08/2020, 5:38 pm - Tushar Nankani: https://www.news18.com/news/buzz/iit-bombay-awarded-students-digital-avatars-in-virtual-convocation-and-internet-is-shook-in-3d-2813211.html
+24/08/2020, 5:38 pm - Prafull singh: https://www.news18.com/news/buzz/iit-bombay-awarded-students-digital-avatars-in-virtual-convocation-and-internet-is-shook-in-3d-2813211.html
 24/08/2020, 6:00 pm - Tanay Kamath (TSEC, CS): Does this work ?I mean while watching a tutorial I always make notes on a piece of paper but implement it later and I often tend to forget
 24/08/2020, 6:11 pm - Dheeraj Lalwani (TSEC, CS): Guys
 Ye SIH ke hackathon me jo jeete the
@@ -18449,7 +18449,7 @@ This is a notice from our college.
 24/08/2020, 8:57 pm - Dheeraj Lalwani (TSEC, CS): Nahi
 24/08/2020, 8:57 pm - Kartik Soneji (TSEC, CS): Ohh, phir thik hai.
 24/08/2020, 9:00 pm - Harsh Kapadia (TSEC IT, SE): 😂
-24/08/2020, 9:21 pm - Tushar Nankani: Damn okay. This is very misleading. I was really happy for a second 🤦🏻‍♂️😂
+24/08/2020, 9:21 pm - Prafull singh: Damn okay. This is very misleading. I was really happy for a second 🤦🏻‍♂️😂
 24/08/2020, 9:21 pm - Kartik Soneji (TSEC, CS): Me too.
 24/08/2020, 9:21 pm - +91 97681 67131: Me too 😂😂
 24/08/2020, 9:21 pm - +91 96191 55044: They had us good
@@ -18469,7 +18469,7 @@ This is a notice from our college.
 24/08/2020, 9:49 pm - +91 94044 50783: This message was deleted
 24/08/2020, 9:49 pm - +91 94044 50783: This message was deleted
 24/08/2020, 9:49 pm - +91 94044 50783: This message was deleted
-25/08/2020, 12:15 pm - Tushar Nankani: <Media omitted>
+25/08/2020, 12:15 pm - Prafull singh: <Media omitted>
 25/08/2020, 12:15 pm - Tanay Kamath (TSEC, CS): Are sir🙏🙏🔥
 25/08/2020, 7:06 pm - Saurav Upoor (TSEC CS, SE): <Media omitted>
 25/08/2020, 7:09 pm - Saurav Upoor (TSEC CS, SE): Group link:
@@ -18705,15 +18705,15 @@ why are most servers linux based?
 26/08/2020, 12:41 pm - Kartik Soneji (TSEC, CS): Maybe ~3 years?
 26/08/2020, 12:41 pm - Kartik Soneji (TSEC, CS): Who is in C1?
 26/08/2020, 12:42 pm - Kartik Soneji (TSEC, CS): You have a Maths lecture with Indrajit Sir at 1pm?
-26/08/2020, 12:42 pm - Tushar Nankani: Aren't you in the C1 group yet?
+26/08/2020, 12:42 pm - Prafull singh: Aren't you in the C1 group yet?
 26/08/2020, 12:42 pm - Kartik Soneji (TSEC, CS): I am in C3.
-26/08/2020, 12:43 pm - Tushar Nankani: Oh okay.
+26/08/2020, 12:43 pm - Prafull singh: Oh okay.
 26/08/2020, 12:43 pm - Kartik Soneji (TSEC, CS): It has been postponed to 1:30.
 26/08/2020, 12:43 pm - Darshan Rander (TSEC, IT): https://www.theverge.com/2017/6/24/15867350/microsoft-windows-10-source-code-leak
 26/08/2020, 12:43 pm - +91 88284 70904: Yes
 26/08/2020, 12:43 pm - Kartik Soneji (TSEC, CS): @919987663816 Please inform the others.
 26/08/2020, 12:43 pm - +91 88284 70904: Yup we know
-26/08/2020, 12:43 pm - Tushar Nankani: I am in C2.
+26/08/2020, 12:43 pm - Prafull singh: I am in C2.
 26/08/2020, 12:43 pm - Kartik Soneji (TSEC, CS): Sir told me by mistake.
 26/08/2020, 12:43 pm - Kartik Soneji (TSEC, CS): How?
 26/08/2020, 12:44 pm - Kartik Soneji (TSEC, CS): Oh ok.
@@ -18721,7 +18721,7 @@ why are most servers linux based?
 26/08/2020, 12:44 pm - Kartik Soneji (TSEC, CS): 🤦‍♂️ Toh phir mujhe kyu karne bola.
 26/08/2020, 12:44 pm - Kartik Soneji (TSEC, CS): Chalo thik hai.
 26/08/2020, 12:44 pm - +91 88284 70904: Last week c3 ka koi nahi tha par
-26/08/2020, 12:44 pm - Tushar Nankani: Favourite student.
+26/08/2020, 12:44 pm - Prafull singh: Favourite student.
 26/08/2020, 12:45 pm - +91 88284 70904: Idk why lol
 26/08/2020, 12:45 pm - Kartik Soneji (TSEC, CS): 😂
 26/08/2020, 12:45 pm - Dheeraj Lalwani (TSEC, CS): 😂
@@ -18852,7 +18852,7 @@ Else ⚰️
 26/08/2020, 7:04 pm - Farhan Irani (TSEC IT, SE): .
 26/08/2020, 8:38 pm - +91 82916 21138: <Media omitted>
 26/08/2020, 8:53 pm - Darshan Rander (TSEC, IT): Ye skills chea😂
-26/08/2020, 8:58 pm - Tushar Nankani: <Media omitted>
+26/08/2020, 8:58 pm - Prafull singh: <Media omitted>
 26/08/2020, 8:59 pm - Tanay Kamath (TSEC, CS): Nice
 26/08/2020, 8:59 pm - Tanay Kamath (TSEC, CS): Resumes be like😂
 26/08/2020, 8:59 pm - Dheeraj Lalwani (TSEC, CS): 😂😂😂
@@ -18912,12 +18912,12 @@ Hv seen it in quite a few places but samja nhi kabhi😅
 27/08/2020, 9:47 pm - +91 82916 21138: Like comedy show tha Woh I remember usmain it was that
 27/08/2020, 9:47 pm - +91 82916 21138: Like ek Banda Sab jagaha atak jata tha alag alag situation main
 27/08/2020, 9:47 pm - Dheeraj Lalwani (TSEC, CS): Kkkk
-27/08/2020, 9:48 pm - Tushar Nankani: 😂😂 is this for real?
+27/08/2020, 9:48 pm - Prafull singh: 😂😂 is this for real?
 27/08/2020, 9:48 pm - Tanay Kamath (TSEC, CS): can we all press F
 27/08/2020, 9:48 pm - Tanay Kamath (TSEC, CS): 😂😂😂
 27/08/2020, 9:48 pm - Tanay Kamath (TSEC, CS): yes its a meme
 27/08/2020, 9:48 pm - Kartik Soneji (TSEC, CS): I am not convinced.
-27/08/2020, 9:49 pm - Tushar Nankani: Seemed like a planned stunt. Why would someone record otherwise 🤷🏻‍♂️
+27/08/2020, 9:49 pm - Prafull singh: Seemed like a planned stunt. Why would someone record otherwise 🤷🏻‍♂️
 27/08/2020, 9:49 pm - Kartik Soneji (TSEC, CS): My point exactly.
 27/08/2020, 9:49 pm - Tanay Kamath (TSEC, CS): or kya paid actors or what?
 27/08/2020, 9:49 pm - Kartik Soneji (TSEC, CS): 1 minute ka bhi clip nahi hai, usme kya payment.
@@ -19094,7 +19094,7 @@ out.println();
 Problem solved😎
 30/08/2020, 2:37 pm - +91 97694 89970: Yooo 👌🏼
 30/08/2020, 2:37 pm - +91 82916 21138: Waah 😂
-30/08/2020, 3:45 pm - Tushar Nankani: http://www.tseccodecell.com/challenges/  Warm-up week challenges are live now!
+30/08/2020, 3:45 pm - Prafull singh: http://www.tseccodecell.com/challenges/  Warm-up week challenges are live now!
 
 If you face any difficulties regarding this week's challenges, contact the following: 
 Harshavardhan: 8169542573
@@ -19589,7 +19589,7 @@ Disha Ramchandani- 9869103489
 04/09/2020, 2:58 pm - Darshan Rander (TSEC, IT) added +91 96374 40537
 04/09/2020, 6:41 pm - Darshan Rander (TSEC, IT): <Media omitted>
 04/09/2020, 7:28 pm - Harsh Kapadia (TSEC IT, SE): 👏👏
-05/09/2020, 1:12 pm - Tushar Nankani: Test a new operating system
+05/09/2020, 1:12 pm - Prafull singh: Test a new operating system
 https://distrotest.net/
 05/09/2020, 1:12 pm - Tanay Kamath (TSEC, CS): yes ik this
 05/09/2020, 1:13 pm - Tanay Kamath (TSEC, CS): hitesh chaudhary ke linux series mai he told
@@ -19709,7 +19709,7 @@ https://forms.gle/NzWEHnEZv1i1xz8Q9
 
 *About us:*
 https://www.unschool.in
-10/09/2020, 6:15 pm - Tushar Nankani: Wow! This is really cool! 👏🏻
+10/09/2020, 6:15 pm - Prafull singh: Wow! This is really cool! 👏🏻
 
 Collaboration of 2 committees really helps an event grow bigger, ACM sets up the events, E-Cell and it's connections help with perks and opportunities like paid internships. I wonder if we could do something like this in our college?
 11/09/2020, 9:24 am - Dheeraj Lalwani (TSEC, CS): Guys,
@@ -19733,7 +19733,7 @@ And follow it.
 If you face any issues while installation, hit me up,
 I'll help you out!
 11/09/2020, 9:53 am - Tanay Kamath (TSEC, CS): Cool will
-11/09/2020, 10:35 am - Tushar Nankani: Hi everyone! 
+11/09/2020, 10:35 am - Prafull singh: Hi everyone! 
 
 Just a request to all of you, if you see your classmates, your friends, or even acquaintances, coming up with content/ideas/YouTube videos/Instagram influencer, it's very new for them, and if you find even one thing good/creative/informative/entertained:
 
@@ -19749,7 +19749,7 @@ It would really, really boost their confidence, by your words! 🙌🏻
 11/09/2020, 10:39 am - Darshan Rander (TSEC, IT): True!!
 11/09/2020, 10:40 am - +91 89764 07509: well said 👍
 11/09/2020, 10:41 am - +91 87796 70896: Fax
-11/09/2020, 10:42 am - Tushar Nankani: Just wanted to write another message appreciate some people and give some shoutouts :
+11/09/2020, 10:42 am - Prafull singh: Just wanted to write another message appreciate some people and give some shoutouts :
 
  Codevengers team! @917738557601 @918451904417 @919987494216 @918828470904 and every one in their team. 🙌🏻
 
@@ -19795,7 +19795,7 @@ Do get into it slowly later on...
 11/09/2020, 10:50 am - Tanay Kamath (TSEC, CS): I will take another shot
 11/09/2020, 10:50 am - Harsh Kapadia (TSEC IT, SE): Even I am just learning some stuff...
 Nothing much
-11/09/2020, 10:52 am - Tushar Nankani: I am really glad! ^_^
+11/09/2020, 10:52 am - Prafull singh: I am really glad! ^_^
 11/09/2020, 10:53 am - +91 88284 70904: 🤗🙌👍🏻💯 thanks @919987663816
 11/09/2020, 10:53 am - Tanay Kamath (TSEC, CS): As engineers we should get into it as we don't have it as a subject 👍
 11/09/2020, 10:55 am - +91 98192 22032: Thank you so much🙏@919987663816
@@ -19843,14 +19843,14 @@ Keep up the good work!👏🏻🙌🏻🤗
 11/09/2020, 11:22 am - Tanay Kamath (TSEC, CS): 👍
 11/09/2020, 11:23 am - Mohit Varma (TSEC, CS): 🔥🔥
 11/09/2020, 11:24 am - Rohit Pathak (TSEC, CS): 👍🏻👍🏻
-11/09/2020, 11:24 am - Tushar Nankani: Yes! Thank you! 
+11/09/2020, 11:24 am - Prafull singh: Yes! Thank you! 
 
 @917506412914 @918097984068 for Project Based Learning 💯👏🏻
 
 
 @919689727471 @918408867834 @917506412914 @918080142783  for ALWAYS helping and motivating 🙌🏻💪🏻🥺
 11/09/2020, 11:25 am - Rohit Pathak (TSEC, CS): 🔥🔥
-11/09/2020, 11:25 am - Tushar Nankani: So true! 
+11/09/2020, 11:25 am - Prafull singh: So true! 
 
 I still remember, we started this group for Competitive Programming, doing 1 question everyday XD
 11/09/2020, 11:25 am - Tanay Kamath (TSEC, CS): lmao yes
@@ -19866,12 +19866,12 @@ I still remember, we started this group for Competitive Programming, doing 1 que
 And @919689727471
 11/09/2020, 11:27 am - Tanay Kamath (TSEC, CS): then boom!
 11/09/2020, 11:27 am - Dheeraj Lalwani (TSEC, CS): And the rest is history
-11/09/2020, 11:27 am - Tushar Nankani: 😂😂
+11/09/2020, 11:27 am - Prafull singh: 😂😂
 11/09/2020, 11:27 am - Dheeraj Lalwani (TSEC, CS): By the way, 
 What happened to Mashups?
 11/09/2020, 11:27 am - Harsh Kapadia (TSEC IT, SE): Woah is it!? Ider!
 11/09/2020, 11:27 am - Dheeraj Lalwani (TSEC, CS): Yeah
-11/09/2020, 11:28 am - Tushar Nankani: Replaced by Weekly challenges. 
+11/09/2020, 11:28 am - Prafull singh: Replaced by Weekly challenges. 
 
 
 Though, editorial for week 1 is unlocked!
@@ -19892,7 +19892,7 @@ http://www.tseccodecell.com/challenges/
 11/09/2020, 11:33 am - +91 80979 84068: wouldn't have been possible withour your help though
 11/09/2020, 11:33 am - Rohit Pathak (TSEC, CS): Thanks bro means a lot!!
 11/09/2020, 11:34 am - Harsh Kapadia (TSEC IT, SE): Always there to help!
-11/09/2020, 11:37 am - Tushar Nankani: <Media omitted>
+11/09/2020, 11:37 am - Prafull singh: <Media omitted>
 11/09/2020, 11:37 am - Dheeraj Lalwani (TSEC, CS): Yessss!!!!!
 !
 11/09/2020, 11:37 am - Tanay Kamath (TSEC, CS): 💯👌
@@ -19965,7 +19965,7 @@ Please do go through it and let me know your thoughts.
 12/09/2020, 10:00 am - +91 82916 21138: Wow that's great 🔥
 12/09/2020, 10:39 am - Harsh Kapadia (TSEC IT, SE): Well done!
 12/09/2020, 10:45 am - +91 84335 18102: 👏👏👏
-12/09/2020, 10:52 am - Tushar Nankani: Congratulations @918080142783!  👏🏻🙌🏻
+12/09/2020, 10:52 am - Prafull singh: Congratulations @918080142783!  👏🏻🙌🏻
 
 So, so proud of you! 💛
 12/09/2020, 11:02 am - Harsh Kapadia (TSEC IT, SE): Yes, well done, Kartik! 👏👏
@@ -20368,7 +20368,7 @@ Because range hi nahi hai
 13/09/2020, 4:45 am - Dheeraj Lalwani (TSEC, CS): But kya output aayega lemme try to figure out
 13/09/2020, 4:45 am - +91 97694 89970: Yes ;)
 13/09/2020, 9:14 am - Darshan Rander (TSEC, IT): -125?
-13/09/2020, 9:20 am - Tushar Nankani: -126
+13/09/2020, 9:20 am - Prafull singh: -126
 13/09/2020, 9:51 am - +91 97694 89970: Yesss right 👌🏼👍🏼
 13/09/2020, 10:21 am - Darshan Rander (TSEC, IT): Ok mera maths ka issue hai 😂
 13/09/2020, 10:42 am - +91 97694 89970: Ohh koi nai u were so close though 👏🏼😉
@@ -20418,7 +20418,7 @@ public class Main
 13/09/2020, 11:15 am - Dheeraj Lalwani (TSEC, CS): Precedence of the && is more than || right?
 13/09/2020, 11:15 am - Darshan Rander (TSEC, IT): Do bhai
 13/09/2020, 11:15 am - +91 97739 65140: Yes
-13/09/2020, 11:16 am - Tushar Nankani: My mind is saying, error dega, because shouldn't it be == instead of =
+13/09/2020, 11:16 am - Prafull singh: My mind is saying, error dega, because shouldn't it be == instead of =
 
 And now that you mentioned precedence, ```and``` has higher precedence than ```or```. But you have mentioned that explicitly, so I am confused 😂
 13/09/2020, 11:16 am - +91 97739 65140: This message was deleted
@@ -20446,10 +20446,10 @@ Saare
 13/09/2020, 11:19 am - Dheeraj Lalwani (TSEC, CS): Ideally
 13/09/2020, 11:19 am - +91 97739 65140: this is what is happening but think in terms of precedence, this should not happen
 13/09/2020, 11:19 am - Dheeraj Lalwani (TSEC, CS): Yes got you
-13/09/2020, 11:20 am - Tushar Nankani: boolean a=false,b=false,c=false,x=false;
+13/09/2020, 11:20 am - Prafull singh: boolean a=false,b=false,c=false,x=false;
         x = ((a = true) || (b = true) && (c = true));
         System.out.print (a + "," + b + ", " + c);
-13/09/2020, 11:20 am - Tushar Nankani: What about this?
+13/09/2020, 11:20 am - Prafull singh: What about this?
 13/09/2020, 11:20 am - +91 97739 65140: still it should give true, false, false
 13/09/2020, 11:21 am - +91 97739 65140: If you want to understand the logic, think in terms of prefix expression
 13/09/2020, 11:21 am - Dheeraj Lalwani (TSEC, CS): @919773965140 
@@ -20786,7 +20786,7 @@ public class Practice
 
 	}
 }
-13/09/2020, 4:26 pm - Tushar Nankani: True
+13/09/2020, 4:26 pm - Prafull singh: True
 True 
 True
 13/09/2020, 4:26 pm - +91 97694 89970: Nope 😅
@@ -21035,7 +21035,7 @@ https://medium.com/@darshan1504/noise-suppression-using-deep-learning-6ead8c8a18
 13/09/2020, 10:44 pm - Dheeraj Lalwani (TSEC, CS): After hours of hit and trial and debugging
 13/09/2020, 10:44 pm - Dheeraj Lalwani (TSEC, CS): I made this
 13/09/2020, 10:44 pm - Dheeraj Lalwani (TSEC, CS): <Media omitted>
-13/09/2020, 10:45 pm - Tushar Nankani: Congratulations @919969394098 on writing your first article on Medium! 👏🏻
+13/09/2020, 10:45 pm - Prafull singh: Congratulations @919969394098 on writing your first article on Medium! 👏🏻
 It is very well structured, though I didn't understand much! But great work! 🙌🏻💪🏻
 13/09/2020, 10:45 pm - Tanay Kamath (TSEC, CS): Whoa💯
 13/09/2020, 10:45 pm - Tanay Kamath (TSEC, CS): Using?
@@ -21074,11 +21074,11 @@ I think you mean, someone with basic knowledge should get it. If you want that, 
 14/09/2020, 12:02 pm - Tanay Kamath (TSEC, CS): this can be done with Java
 14/09/2020, 12:07 pm - Darshan Rander (TSEC, IT): Dusri language mein bhi ho sakta hai identity matrix na
 14/09/2020, 12:08 pm - Tanay Kamath (TSEC, CS): ha python mai bhibtry idk in that
-14/09/2020, 12:08 pm - Tushar Nankani: ```import numpy as np
+14/09/2020, 12:08 pm - Prafull singh: ```import numpy as np
 
 np.eye(4)```
 14/09/2020, 12:09 pm - Darshan Rander (TSEC, IT): Khatam😂
-14/09/2020, 12:09 pm - Tushar Nankani: Python :'))
+14/09/2020, 12:09 pm - Prafull singh: Python :'))
 14/09/2020, 12:09 pm - Tanay Kamath (TSEC, CS): Killed it😂
 14/09/2020, 12:09 pm - Tanay Kamath (TSEC, CS): Nyc
 14/09/2020, 12:10 pm - Tanay Kamath (TSEC, CS): Ty
@@ -21184,7 +21184,7 @@ The article is incomplete if you don't measure the results.
 14/09/2020, 2:49 pm - Darshan Rander (TSEC, IT): 😂😂
 14/09/2020, 2:49 pm - +91 97681 67131: 🤦‍♂️😂😂
 14/09/2020, 4:33 pm - +91 99676 84479: Damn when was this given...and where's the pdf regarding instructions for Internship report?
-14/09/2020, 4:35 pm - Tushar Nankani: Probably, IT got it. We haven't got it yet.
+14/09/2020, 4:35 pm - Prafull singh: Probably, IT got it. We haven't got it yet.
 14/09/2020, 4:35 pm - +91 99676 84479: Oh alright
 14/09/2020, 4:35 pm - Dheeraj Lalwani (TSEC, CS): Yes.
 14/09/2020, 4:36 pm - Tanay Kamath (TSEC, CS): Yeah
@@ -21311,7 +21311,7 @@ She chose the wrong platform 😓
 17/09/2020, 11:59 pm - Darshan Rander (TSEC, IT): Swift toh aata he hoga...dart bhi sikh legi
 18/09/2020, 12:01 am - Darshan Rander (TSEC, IT): Contact kese karneka?
 18/09/2020, 12:04 am - Tanay Kamath (TSEC, CS): @919594383003
-18/09/2020, 1:00 am - Tushar Nankani: https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
+18/09/2020, 1:00 am - Prafull singh: https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
 18/09/2020, 8:00 am - Darshan Rander (TSEC, IT): <Media omitted>
 18/09/2020, 10:55 am - Darshan Rander (TSEC, IT): https://github.com/lexrus/LTMorphingLabel
 18/09/2020, 10:56 am - Darshan Rander (TSEC, IT): Can anyone explain the working of this?
@@ -21327,7 +21327,7 @@ She chose the wrong platform 😓
 18/09/2020, 12:25 pm - Darshan Rander (TSEC, IT): Send me link na
 18/09/2020, 12:25 pm - Darshan Rander (TSEC, IT): Atleast voh samjhega mujhe
 18/09/2020, 12:27 pm - Kartik Soneji (TSEC, CS): https://github.com/hanks-zyh/HTextView/blob/master/htextview-base/src/main/java/com/hanks/htextview/base/HText.java#L98
-18/09/2020, 1:05 pm - Tushar Nankani: Another repository for swift UI animations↓
+18/09/2020, 1:05 pm - Prafull singh: Another repository for swift UI animations↓
 
 https://github.com/Shubham0812/SwiftUI-Animations
 18/09/2020, 1:49 pm - Darshan Rander (TSEC, IT): Nice
@@ -21336,7 +21336,7 @@ https://github.com/Shubham0812/SwiftUI-Animations
 19/09/2020, 1:17 pm - +91 82916 21138: 😂
 19/09/2020, 1:17 pm - +91 81696 22410: 😂😂
 19/09/2020, 1:17 pm - Tanay Kamath (TSEC, CS): 😂😂
-19/09/2020, 1:18 pm - Tushar Nankani: 😂
+19/09/2020, 1:18 pm - Prafull singh: 😂
 19/09/2020, 1:19 pm - +91 97681 67131: Ha 😂
 19/09/2020, 1:37 pm - +91 84335 18102: 😂😂
 19/09/2020, 2:27 pm - Harsh Kapadia (TSEC IT, SE): 😂
@@ -21364,7 +21364,7 @@ https://bit.ly/flutter_installation
 19/09/2020, 6:56 pm - Darshan Rander (TSEC, IT): Thanks bro
 19/09/2020, 8:12 pm - +91 94200 70678: This message was deleted
 20/09/2020, 10:34 am - +91 82916 21138: https://www.linkedin.com/posts/flutter-app-development-firm_google-pay-picks-flutter-to-drive-its-global-activity-6713008690129178624-n6uu
-20/09/2020, 10:57 am - Tushar Nankani: https://codeforces.com/blog/entry/82800
+20/09/2020, 10:57 am - Prafull singh: https://codeforces.com/blog/entry/82800
 
 Let me know your thoughts about this? 
 
@@ -21381,7 +21381,7 @@ Everyone feel free to discuss and let us know what you think about this!
 20/09/2020, 11:03 am - +91 88284 70904: Boys + General category = null
 20/09/2020, 11:03 am - +91 88284 70904: Kar do😂
 20/09/2020, 11:03 am - Darshan Rander (TSEC, IT): ++
-20/09/2020, 11:11 am - Tushar Nankani: I wouldn't mind such initiatives, that would help maintain the gender ratio!
+20/09/2020, 11:11 am - Prafull singh: I wouldn't mind such initiatives, that would help maintain the gender ratio!
 
 Just that, it's rather sad the score difference is so vast! 
 
@@ -21395,7 +21395,7 @@ It's a debatable topic, and this is purely my point of view.
 20/09/2020, 11:13 am - +91 88284 70904: If they r conducting a coding competition then obviously it should purely be on merit and plus they haven’t specified that it’s for women only or something. So in this case I think it’s completely wrong
 20/09/2020, 11:14 am - Darshan Rander (TSEC, IT): In my opinion if they want to take only a specific gender then only allow them to compete...why to waste others time and make them feel bad of them selfs
 20/09/2020, 11:14 am - +91 88284 70904: Exactly
-20/09/2020, 11:22 am - Tushar Nankani: <Media omitted>
+20/09/2020, 11:22 am - Prafull singh: <Media omitted>
 20/09/2020, 11:22 am - Darshan Rander (TSEC, IT): @918097984068 😂
 20/09/2020, 11:24 am - Darshan Rander (TSEC, IT): Tbh sirf gender nhi caste, religion sab hota hai
 20/09/2020, 11:34 am - +91 80979 84068: Well true
@@ -21429,16 +21429,16 @@ PLEASE
 
 (What about the Trans and Queer people though? Do we have opportunities only for them?)
 20/09/2020, 12:17 pm - Saket (TSEC, CS): Equal representation won't effect on growth.
-20/09/2020, 12:17 pm - Tushar Nankani: <Media omitted>
-20/09/2020, 12:17 pm - Tushar Nankani: <Media omitted>
-20/09/2020, 12:18 pm - Tushar Nankani: <Media omitted>
+20/09/2020, 12:17 pm - Prafull singh: <Media omitted>
+20/09/2020, 12:17 pm - Prafull singh: <Media omitted>
+20/09/2020, 12:18 pm - Prafull singh: <Media omitted>
 20/09/2020, 12:19 pm - Saket (TSEC, CS): <Media omitted>
 20/09/2020, 12:20 pm - Harsh Kapadia (TSEC IT, SE): > at the SF LGBT Center
 
 It needs to be widespread...
 20/09/2020, 12:20 pm - Harsh Kapadia (TSEC IT, SE): 😂
 20/09/2020, 12:21 pm - +91 98192 22032: If people dont have the appropriate skills and dont deserve the job, giving it to them just to maintain the ratio dont make sense to me
-20/09/2020, 12:22 pm - Tushar Nankani: True.
+20/09/2020, 12:22 pm - Prafull singh: True.
 20/09/2020, 12:24 pm - +91 98192 22032: Doesn't*
 20/09/2020, 12:25 pm - Harsh Kapadia (TSEC IT, SE): Yeah well they are hired from a pool of female candidates rather than a mixed pool. This def creates an advantage for them to be hired and that is the point of that. Coming to the skills thing, yes there might be differences that will have to patched up later on...
 20/09/2020, 12:26 pm - Harsh Kapadia (TSEC IT, SE): Well this is just what I think. Feel free to educate me if you think I'm wrong. 👍
@@ -21731,7 +21731,7 @@ But you mention even in the places they weren't
 20/09/2020, 2:48 pm - Tanay Kamath (TSEC, CS): <Media omitted>
 20/09/2020, 2:49 pm - Darshan Rander (TSEC, IT): 😂 ab padle chats kafi factual hai😂
 20/09/2020, 2:49 pm - Saurav Upoor (TSEC CS, SE): 😂
-20/09/2020, 2:55 pm - Tushar Nankani: 192 for me.
+20/09/2020, 2:55 pm - Prafull singh: 192 for me.
 20/09/2020, 3:01 pm - +91 88284 70904: 112
 20/09/2020, 3:01 pm - +91 97027 35002: 246
 20/09/2020, 3:01 pm - Darshan Rander (TSEC, IT): Haa ab iska competition chalu karo🤦‍♂️
@@ -21739,8 +21739,8 @@ But you mention even in the places they weren't
 20/09/2020, 3:46 pm - Saket (TSEC, CS): Week 3 challenges are live now!
 
 Link - http://www.tseccodecell.com/challenges
-20/09/2020, 3:52 pm - Tushar Nankani: I read all of them.
-20/09/2020, 3:52 pm - Tushar Nankani: When I sent the message in the morning, the group was open for discussions. I wanted to know everyone's  _opinion_. We wanted to know what everyone thinks about it. 
+20/09/2020, 3:52 pm - Prafull singh: I read all of them.
+20/09/2020, 3:52 pm - Prafull singh: When I sent the message in the morning, the group was open for discussions. I wanted to know everyone's  _opinion_. We wanted to know what everyone thinks about it. 
 
 I didn't want the discussions to be directed at one another or this discussion to scale up into a messy debate. I don't know how it got all scaled up 😂
 
@@ -21752,20 +21752,20 @@ Thank you!
 20/09/2020, 3:54 pm - Tanay Kamath (TSEC, CS): But try not to send stuff related to controversial issues like this🙈
 20/09/2020, 3:54 pm - Tanay Kamath (TSEC, CS): I mean it gets messy
 20/09/2020, 3:54 pm - Tanay Kamath (TSEC, CS): Anyway was good
-20/09/2020, 3:54 pm - Tushar Nankani: It's controversial. But it's alright to send. We'll try to keep it professional.
-20/09/2020, 3:54 pm - Tushar Nankani: Also
+20/09/2020, 3:54 pm - Prafull singh: It's controversial. But it's alright to send. We'll try to keep it professional.
+20/09/2020, 3:54 pm - Prafull singh: Also
 20/09/2020, 3:54 pm - Tanay Kamath (TSEC, CS): 👍👍
-20/09/2020, 3:54 pm - Tushar Nankani: Avoid
-20/09/2020, 3:54 pm - Tushar Nankani: Sending
-20/09/2020, 3:54 pm - Tushar Nankani: Messages
-20/09/2020, 3:54 pm - Tushar Nankani: Like this^
+20/09/2020, 3:54 pm - Prafull singh: Avoid
+20/09/2020, 3:54 pm - Prafull singh: Sending
+20/09/2020, 3:54 pm - Prafull singh: Messages
+20/09/2020, 3:54 pm - Prafull singh: Like this^
 20/09/2020, 3:55 pm - Tanay Kamath (TSEC, CS): 😂😂
-20/09/2020, 3:55 pm - Tushar Nankani: 😂 please
+20/09/2020, 3:55 pm - Prafull singh: 😂 please
 20/09/2020, 3:55 pm - Tanay Kamath (TSEC, CS): Ok
 20/09/2020, 3:55 pm - Tanay Kamath (TSEC, CS): Aadat hai
-20/09/2020, 3:55 pm - Tushar Nankani: Wasn't directed at you
+20/09/2020, 3:55 pm - Prafull singh: Wasn't directed at you
 20/09/2020, 3:57 pm - +91 82916 21138: True af 😂
-20/09/2020, 4:00 pm - Tushar Nankani: The challenges are LIVE now!! Everyone try them out!
+20/09/2020, 4:00 pm - Prafull singh: The challenges are LIVE now!! Everyone try them out!
 
 Also, this time the challenges are quite easy. So now is the time to climb up the leaderboard! 🙌🏻
 
@@ -22254,7 +22254,7 @@ u dont prepare, u just explore the projects and contribute in whichever manner u
 25/09/2020, 10:11 am - +91 80979 84068: He is a pass out so that is why he isn’t here
 25/09/2020, 10:12 am - Tanay Kamath (TSEC, CS): ok cool
 25/09/2020, 10:12 am - Tanay Kamath (TSEC, CS): oh ok
-25/09/2020, 10:14 am - Tushar Nankani: <Media omitted>
+25/09/2020, 10:14 am - Prafull singh: <Media omitted>
 25/09/2020, 10:21 am - +91 80979 84068: <Media omitted>
 25/09/2020, 10:21 am - +91 80979 84068: Introducing *DSC TSEC*, your friendly neighborhood DSC chapter!
 
@@ -22514,7 +22514,7 @@ Well be there
 25/09/2020, 9:43 pm - Darshan Rander (TSEC, IT): Sab apne jese enthu nhi hote hai
 25/09/2020, 9:44 pm - Dheeraj Lalwani (TSEC, CS): Ha yaar 
 true
-25/09/2020, 10:10 pm - Tushar Nankani: <Media omitted>
+25/09/2020, 10:10 pm - Prafull singh: <Media omitted>
 25/09/2020, 10:11 pm - Pratik K (TSEC CS, SE): lolllll
 25/09/2020, 11:00 pm - Darshan Rander (TSEC, IT): Ouch
 25/09/2020, 11:10 pm - +91 88284 70904: Loop
@@ -22683,8 +22683,8 @@ Learn.Inspire.Grow.
 28/09/2020, 4:20 pm - +91 99204 26955: 😂😂
 28/09/2020, 4:23 pm - Tanay Kamath (TSEC, CS): <Media omitted>
 28/09/2020, 4:25 pm - +91 87796 52381: 😂
-28/09/2020, 4:34 pm - Tushar Nankani: 😂
-28/09/2020, 4:35 pm - Tushar Nankani: Agreed. 🙌🏻
+28/09/2020, 4:34 pm - Prafull singh: 😂
+28/09/2020, 4:35 pm - Prafull singh: Agreed. 🙌🏻
 28/09/2020, 4:35 pm - +91 88284 70904: 💯
 28/09/2020, 4:45 pm - Harsh Kapadia (TSEC IT, SE): Spam alert!
 28/09/2020, 4:46 pm - Tanay Kamath (TSEC, CS): ?
@@ -22714,7 +22714,7 @@ Learn.Inspire.Grow.
 28/09/2020, 6:00 pm - Darshan Rander (TSEC, IT): @919820696178 apn job chhod dete hai 😂
 28/09/2020, 6:01 pm - Tanay Kamath (TSEC, CS): chalo
 28/09/2020, 6:01 pm - Tanay Kamath (TSEC, CS): chintus taking over
-28/09/2020, 6:01 pm - Tushar Nankani: <Media omitted>
+28/09/2020, 6:01 pm - Prafull singh: <Media omitted>
 28/09/2020, 6:02 pm - +91 91673 86883: Stress aane pe daru ki jagha dudhu
 28/09/2020, 6:02 pm - Tanay Kamath (TSEC, CS): so annoying
 28/09/2020, 6:03 pm - Darshan Rander (TSEC, IT): 😂😂
@@ -22831,7 +22831,7 @@ PS: Zulip is available as a web app, desktop app and mobile app.
 29/09/2020, 7:05 pm - Dheeraj Lalwani (TSEC, CS): Its 1.8
 29/09/2020, 7:05 pm - Dheeraj Lalwani (TSEC, CS): We use 3.1
 29/09/2020, 7:06 pm - Tanay Kamath (TSEC, CS): F
-29/09/2020, 7:21 pm - Tushar Nankani: <Media omitted>
+29/09/2020, 7:21 pm - Prafull singh: <Media omitted>
 29/09/2020, 7:21 pm - Harsh Kapadia (TSEC IT, SE): Yes!
 29/09/2020, 8:12 pm - Tanay Kamath (TSEC, CS): do join in guys!
 29/09/2020, 10:23 pm - Darshan Rander (TSEC, IT): https://youtu.be/JJFs0hCUh-A
@@ -22891,7 +22891,7 @@ And just 5 minutes ago they changed it to 31st 12am
 30/09/2020, 9:48 am - +91 99676 84479: Not me either
 30/09/2020, 10:01 am - Tanay Kamath (TSEC, CS): Not me
 30/09/2020, 10:02 am - Tanay Kamath (TSEC, CS): @919987663816 did you get it?
-30/09/2020, 10:20 am - Tushar Nankani: Did not recieve it.
+30/09/2020, 10:20 am - Prafull singh: Did not recieve it.
 30/09/2020, 10:21 am - Tanay Kamath (TSEC, CS): Ok
 30/09/2020, 10:34 am - +91 73032 50500: Noo
 30/09/2020, 10:34 am - +91 88284 70904: No
@@ -22930,11 +22930,11 @@ And just 5 minutes ago they changed it to 31st 12am
 30/09/2020, 12:41 pm - Harsh Kapadia (TSEC IT, SE): 😂
 30/09/2020, 12:51 pm - +91 98501 32687: Okay 😂
 30/09/2020, 12:53 pm - +91 88284 70904: But seriously no one received the mail yet right?
-30/09/2020, 12:53 pm - Tushar Nankani: In the form, it did say it will take upto 24 hours.
+30/09/2020, 12:53 pm - Prafull singh: In the form, it did say it will take upto 24 hours.
 30/09/2020, 12:54 pm - +91 88284 70904: Oh ok
 30/09/2020, 12:54 pm - Trushant Narwani (TSEC, CS): i got it within a few minutes after enrolling
 30/09/2020, 12:54 pm - +91 98501 32687: +1
-30/09/2020, 12:54 pm - Tushar Nankani: Ohh.
+30/09/2020, 12:54 pm - Prafull singh: Ohh.
 30/09/2020, 12:54 pm - +91 88284 70904: Nice
 30/09/2020, 1:04 pm - Tanay Kamath (TSEC, CS): 😂😂
 30/09/2020, 1:05 pm - Tanay Kamath (TSEC, CS): bhai queue implement karna chiye😤😡
@@ -23065,13 +23065,13 @@ This is an Old Talk, but do check it out
 
 https://www.youtube.com/watch?v=dOoNRzddLC0
 01/10/2020, 8:19 am - +91 97739 65140: 😂😂😂🤣🤣🤣
-01/10/2020, 8:27 am - Tushar Nankani: You deleted this message
+01/10/2020, 8:27 am - Prafull singh: You deleted this message
 01/10/2020, 9:26 am - Dheeraj Lalwani (TSEC, CS): <Media omitted>
 01/10/2020, 9:43 am - Darshan Rander (TSEC, IT): Aacha guys mereko abhi bhi google se mail nhi aya hai.... umeed rakhu mein?
 01/10/2020, 9:43 am - +91 88284 70904: Same
 01/10/2020, 9:52 am - +91 96191 55044: ++
-01/10/2020, 10:05 am - Tushar Nankani: @917719882861 any updates?
-01/10/2020, 10:05 am - Tushar Nankani: <Media omitted>
+01/10/2020, 10:05 am - Prafull singh: @917719882861 any updates?
+01/10/2020, 10:05 am - Prafull singh: <Media omitted>
 01/10/2020, 10:08 am - Tanay Kamath (TSEC, CS): ++
 01/10/2020, 10:15 am - Darshan Rander (TSEC, IT): Lucky!!
 01/10/2020, 10:15 am - +91 78758 66747: same
@@ -23112,8 +23112,8 @@ https://www.youtube.com/watch?v=dOoNRzddLC0
 01/10/2020, 12:50 pm - Kartik Soneji (TSEC, CS): For the last time, the best way to learn is by doing.
 01/10/2020, 12:50 pm - +91 88284 70904: @918291621138  if u want ideas for designing go search CSS tricks on ur browser , u might find motivation there
 01/10/2020, 12:51 pm - +91 82916 21138: Yes will do that thanks alot guys 🙏
-01/10/2020, 1:12 pm - Tushar Nankani: Yes.
-01/10/2020, 1:12 pm - Tushar Nankani: I saved some resources, take a look at them. 
+01/10/2020, 1:12 pm - Prafull singh: Yes.
+01/10/2020, 1:12 pm - Prafull singh: I saved some resources, take a look at them. 
 
 If you want to learn by doing it:
 freecodecamp.org
@@ -23131,7 +23131,7 @@ http://www.journeytodev.org/thejourney
 
 Hope these help!
 01/10/2020, 1:15 pm - +91 82916 21138: Thanks alot 🙏
-01/10/2020, 1:15 pm - Tushar Nankani: Anytime!
+01/10/2020, 1:15 pm - Prafull singh: Anytime!
 01/10/2020, 1:15 pm - +91 82916 21138: Will check stuff thanks alot 🙏
 01/10/2020, 2:41 pm - Dheeraj Lalwani (TSEC, CS): De Bunking White Hat Jr
 
